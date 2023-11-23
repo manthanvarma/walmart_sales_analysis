@@ -1,0 +1,1000 @@
+Invoice ID,Branch,City,Customer type,Customer_name,Gender,Product line,Unit price,Quantity,Tax 5%,Total,Date,Time,Payment,cogs,gross margin percentage,gross income,Rating,Male,Female
+750-67-8428,A,Ahmedabad,Member,Bhoomi Tiwari,Female,Health and beauty,74.69,7,26.1415,548.9715,2021-09-24,08:49:42,Ewallet,522.83,4.761904762,26.1415,9.1,Tarun Kumar,Aditi Singh
+350-32-2276,E,Nashik,Normal,Jia Kapoor,Female,Sports and travel,69.73,1,3.4865,73.2165,2016-11-20,13:16:47,Cash,69.73,4.761904762,3.4865,7.3,Ravi Patel,Jia Kapoor
+874-67-9437,B,Pune,Member,Ginni Gupta,Female,Clothing,41.43,9,18.6435,391.5135,2017-04-02,20:55:24,Credit Card,372.87,4.761904762,18.6435,1.2,Tarun Kumar,Upasana Yadav
+969-74-2619,E,Lucknow,Member,Zaina Chauhan,Female,Food and beverages,37.7,3,5.655,118.755,2017-06-17,01:01:09,Credit Card,113.1,4.761904762,5.655,6.3,Vivek Yadav,Tanya Rajput
+298-56-9315,E,Bhopal,Normal,Yogesh Mehta,Male,Clothing,16.01,3,2.4015,50.4315,2023-01-01,09:15:18,Credit Card,48.03,4.761904762,2.4015,5.8,Siddharth Reddy,Anika Patel
+753-12-7607,B,Mumbai,Normal,Rajveer Gupta,Male,Food and beverages,35.68,6,10.704,224.784,2022-06-20,16:54:01,Walmart Gift Cards,214.08,4.761904762,10.704,5.4,Chirag Kapoor,Ira Kumar
+294-08-2783,C,Bangalore,Member,Lavisha Kapoor,Female,Clothing,16.76,6,5.028,105.588,2019-02-25,12:32:59,Cash,100.56,4.761904762,5.028,3.9,Raghav Patel,Riddhi Verma
+819-99-5613,D,Bhopal,Normal,Hina Gupta,Female,Home and lifestyle,32.93,10,16.465,345.765,2017-01-23,07:13:57,Ewallet,329.3,4.761904762,16.465,5.6,Ishaan Kumar,Ria Singh
+868-34-3866,A,Kolkata,Normal,Zoya Gupta,Female,Home and lifestyle,11.42,6,3.426,71.946,2022-02-28,05:16:52,Credit Card,68.52,4.761904762,3.426,2.5,Utkarsh Yadav,Ishaani Sahu
+504-36-2626,D,Agra,Member,Bhavna Sharma,Female,Food and beverages,18.45,9,8.3025,174.3525,2019-08-05,19:00:28,Ewallet,166.05,4.761904762,8.3025,1.9,Utkarsh Yadav,Parina Patel
+901-83-5718,E,Ahmedabad,Normal,Lalit Yadav,Male,Electronic accessories,65.5,10,32.75,687.75,2018-06-16,00:32:26,Cash,655,4.761904762,32.75,2.9,Arjun Patel,Zara Tiwari
+126-86-7988,B,Chennai,Normal,Anushka Yadav,Female,Food and beverages,84.17,5,21.0425,441.8925,2018-03-08,03:16:22,Ewallet,420.85,4.761904762,21.0425,1.4,Deepak Verma,Prisha Khan
+813-43-9654,A,Chennai,Normal,Mahira Verma,Female,Health and beauty,72.43,6,21.729,456.309,2020-10-06,19:01:14,Cash,434.58,4.761904762,21.729,8.1,Eshan Verma,Mahira Verma
+353-14-5089,C,Hyderabad,Normal,Arnav Patel,Male,Books,18.13,4,3.626,76.146,2023-10-11,11:00:09,Walmart Gift Cards,72.52,4.761904762,3.626,5.1,Sahil Gupta,Eshita Singh
+914-81-8402,C,Kochi,Normal,Ujala Kapoor,Female,Books,87.47,4,17.494,367.374,2016-12-19,13:04:55,Credit Card,349.88,4.761904762,17.494,9,Dheeraj Yadav,Gitanjali Sharma
+776-57-9584,D,Bhopal,Normal,Fatima Joshi,Female,Food and beverages,66.47,1,3.3235,69.7935,2019-08-24,03:15:54,Ewallet,66.47,4.761904762,3.3235,5.3,Aryan Gupta,Kashish Kapoor
+254-96-0618,A,Bhopal,Member,Lavina Yadav,Female,Home and lifestyle,11.8,7,4.13,86.73,2019-06-15,20:48:07,Credit Card,82.6,4.761904762,4.13,3,Zeeshan Patel,Pari Chauhan
+652-85-8254,A,Mumbai,Member,Jai Kapoor,Male,Food and beverages,81.25,8,32.5,682.5,2020-08-03,19:01:25,Credit Card,650,4.761904762,32.5,4.6,Rohit Patel,Nandini Patel
+332-85-7330,D,Nashik,Member,Pari Chauhan,Female,Books,55.93,3,8.3895,176.1795,2016-09-04,23:58:36,Ewallet,167.79,4.761904762,8.3895,9,Naveen Sharma,Nitya Yadav
+127-51-2418,D,Pune,Normal,Sanika Verma,Female,Food and beverages,34.69,2,3.469,72.849,2015-04-03,13:36:38,Credit Card,69.38,4.761904762,3.469,6.9,Ayush Sharma,Sanya Verma
+738-49-3601,A,Kochi,Member,Divya Chauhan,Female,Sports and travel,56.67,2,5.667,119.007,2018-12-25,07:33:44,Ewallet,113.34,4.761904762,5.667,2.2,Jagdish Yadav,Diya Yadav
+395-86-8604,B,Jaipur,Normal,Bhavna Sharma,Female,Food and beverages,60.97,4,12.194,256.074,2016-07-31,09:34:18,Walmart Gift Cards,243.88,4.761904762,12.194,8.2,Lalit Yadav,Zaina Chauhan
+605-25-6829,B,Bangalore,Normal,Saanvi Kumar,Female,Food and beverages,53.4,5,13.35,280.35,2016-08-15,16:09:37,Walmart Gift Cards,267,4.761904762,13.35,2.3,Keshav Sharma,Oorja Gupta
+910-10-6893,B,Bhopal,Normal,Parina Patel,Female,Home and lifestyle,86.27,5,21.5675,452.9175,2017-08-11,10:13:05,Credit Card,431.35,4.761904762,21.5675,3,Omkar Chauhan,Meher Sharma
+401-44-1855,A,Ahmedabad,Normal,Riddhi Verma,Female,Health and beauty,58.87,4,11.774,247.254,2020-12-27,06:58:50,Walmart Gift Cards,235.48,4.761904762,11.774,4.8,Yash Patel,Riddhi Verma
+250-98-6096,D,Bangalore,Member,Ujjwal Gupta,Male,Home and lifestyle,47.13,1,2.3565,49.4865,2022-06-07,07:28:05,Walmart Gift Cards,47.13,4.761904762,2.3565,2.5,Naman Verma,Mahira Verma
+306-04-2724,E,Vishakhapatnam,Normal,Vanya Gupta,Female,Sports and travel,11.06,9,4.977,104.517,2022-02-08,02:05:56,Ewallet,99.54,4.761904762,4.977,9.9,Naman Verma,Hema Sahu
+745-52-3952,C,Lucknow,Normal,Mahira Verma,Female,Clothing,91.35,5,22.8375,479.5875,2023-01-29,08:06:52,Cash,456.75,4.761904762,22.8375,2.5,Ayush Sharma,Ira Kumar
+751-04-3932,E,Vadodara,Member,Faisal Khan,Male,Health and beauty,55.7,1,2.785,58.485,2018-03-18,08:40:39,Cash,55.7,4.761904762,2.785,4.7,Pratik Chauhan,Ginni Gupta
+677-63-2267,E,New Delhi,Member,Rahul Sharma,Male,Home and lifestyle,85.77,6,25.731,540.351,2022-01-31,04:57:11,Cash,514.62,4.761904762,25.731,6.4,Nitin Singh,Jhanvi Mehta
+335-85-4090,A,Nashik,Normal,Harshit Patel,Male,Books,27.85,1,1.3925,29.2425,2017-03-11,13:42:10,Walmart Gift Cards,27.85,4.761904762,1.3925,3.8,Harsh Joshi,Urvi Khan
+980-32-9163,D,Nagpur,Normal,Devanshi Tiwari,Female,Sports and travel,79.53,2,7.953,167.013,2017-07-29,11:38:25,Ewallet,159.06,4.761904762,7.953,6.7,Vikrant Tiwari,Sanya Verma
+741-56-9925,A,Ahmedabad,Normal,Sunil Verma,Male,Food and beverages,12.62,8,5.048,106.008,2016-08-13,12:21:51,Ewallet,100.96,4.761904762,5.048,5.9,Pratik Chauhan,Oorja Gupta
+447-42-0071,E,Bangalore,Member,Charvi Verma,Female,Clothing,80.45,10,40.225,844.725,2019-12-01,18:58:10,Walmart Gift Cards,804.5,4.761904762,40.225,7.2,Nitin Singh,Lavina Yadav
+475-93-6983,A,Kolkata,Normal,Anushka Yadav,Female,Health and beauty,25.41,8,10.164,213.444,2017-05-26,09:49:24,Ewallet,203.28,4.761904762,10.164,2,Eklavya Verma,Ujala Kapoor
+774-00-6509,E,Surat,Normal,Tejas Joshi,Male,Clothing,87.99,5,21.9975,461.9475,2023-07-11,17:33:00,Credit Card,439.95,4.761904762,21.9975,7.7,Gaurav Tiwari,Saisha Khan
+742-01-8662,C,Kolkata,Member,Meher Sharma,Female,Electronic accessories,23.96,9,10.782,226.422,2017-05-09,23:07:30,Walmart Gift Cards,215.64,4.761904762,10.782,6.5,Hrishikesh Kapoor,Nandini Patel
+451-21-2450,A,Nashik,Member,Arnav Patel,Male,Home and lifestyle,38.68,5,9.67,203.07,2023-01-27,01:39:49,Walmart Gift Cards,193.4,4.761904762,9.67,1.4,Aarav Kumar,Hina Gupta
+342-84-0091,A,Ahmedabad,Member,Chhavi Chauhan,Female,Home and lifestyle,46.21,8,18.484,388.164,2016-08-28,08:34:33,Walmart Gift Cards,369.68,4.761904762,18.484,6.4,Imran Khan,Divya Chauhan
+156-28-4406,E,Ahmedabad,Member,Lokesh Tiwari,Male,Home and lifestyle,85.26,3,12.789,268.569,2018-03-17,01:12:36,Credit Card,255.78,4.761904762,12.789,3.1,Aryan Gupta,Ujala Kapoor
+754-09-7145,C,Lucknow,Normal,Qamar Yadav,Female,Food and beverages,58.21,7,20.3735,427.8435,2018-06-28,20:04:50,Walmart Gift Cards,407.47,4.761904762,20.3735,8.1,Pratik Chauhan,Zaina Chauhan
+707-71-4811,E,Bangalore,Member,Jatin Chauhan,Male,Electronic accessories,67.16,7,23.506,493.626,2019-03-06,10:53:18,Credit Card,470.12,4.761904762,23.506,6,Arnav Patel,Nandini Patel
+331-18-0572,D,Indore,Member,Chhavi Chauhan,Female,Books,95.22,6,28.566,599.886,2022-11-04,22:40:02,Ewallet,571.32,4.761904762,28.566,2.9,Jatin Chauhan,Elina Chauhan
+992-05-8352,E,Pune,Member,Farah Joshi,Female,Electronic accessories,68.68,6,20.604,432.684,2015-02-08,03:41:44,Ewallet,412.08,4.761904762,20.604,2.4,Umar Khan,Kanika Singh
+574-34-4672,E,Surat,Member,Omkar Joshi,Male,Home and lifestyle,52.4,3,7.86,165.06,2016-04-29,04:28:24,Credit Card,157.2,4.761904762,7.86,4.7,Mukesh Kumar,Leela Yadav
+818-27-0017,A,Bangalore,Member,Eshaan Kapoor,Female,Food and beverages,79.15,1,3.9575,83.1075,2020-07-15,06:58:36,Ewallet,79.15,4.761904762,3.9575,6.5,Imran Khan,Parina Patel
+386-24-3685,B,Indore,Member,Kunal Gupta,Male,Health and beauty,59.94,2,5.994,125.874,2017-09-21,06:35:05,Walmart Gift Cards,119.88,4.761904762,5.994,2.2,Qureshi Khan,Qamar Yadav
+653-11-9127,D,Hyderabad,Normal,Jigyasa Verma,Female,Clothing,21.12,3,3.168,66.528,2018-08-09,22:57:58,Walmart Gift Cards,63.36,4.761904762,3.168,7.1,Pranav Rajput,Nandini Patel
+893-97-1937,B,Mumbai,Normal,Farah Joshi,Female,Food and beverages,33.71,5,8.4275,176.9775,2017-05-22,04:46:48,Credit Card,168.55,4.761904762,8.4275,2.1,Uday Sahu,Anika Patel
+131-76-3011,A,Kolkata,Normal,Mukesh Kumar,Male,Books,65.55,1,3.2775,68.8275,2019-10-31,11:17:55,Cash,65.55,4.761904762,3.2775,4.8,Zahir Khan,Chandni Joshi
+218-19-9010,D,Lucknow,Normal,Akash Sharma,Male,Sports and travel,69.83,3,10.4745,219.9645,2019-09-16,22:55:24,Cash,209.49,4.761904762,10.4745,9.8,Rohit Patel,Kashvi Rajput
+797-94-7578,B,Nashik,Member,Farah Joshi,Female,Sports and travel,94.51,3,14.1765,297.7065,2017-09-01,03:24:20,Ewallet,283.53,4.761904762,14.1765,3.6,Ishaan Kumar,Yuvika Patel
+495-31-6983,D,Surat,Normal,Ujala Kapoor,Female,Food and beverages,27.29,6,8.187,171.927,2017-04-26,03:45:22,Walmart Gift Cards,163.74,4.761904762,8.187,4.9,Yuvraj Yadav,Chhavi Chauhan
+293-40-4746,D,Hyderabad,Member,Ria Singh,Female,Home and lifestyle,28.94,10,14.47,303.87,2021-12-30,05:06:36,Ewallet,289.4,4.761904762,14.47,8.7,Raghav Patel,Eesha Verma
+355-36-0403,C,Pune,Normal,Charvi Verma,Female,Health and beauty,33.49,2,3.349,70.329,2022-07-19,09:19:42,Cash,66.98,4.761904762,3.349,8.2,Gaurav Tiwari,Lavisha Kapoor
+403-51-1527,D,New Delhi,Member,Nandini Patel,Female,Sports and travel,13.39,10,6.695,140.595,2019-07-28,14:53:04,Cash,133.9,4.761904762,6.695,7.1,Tarun Kumar,Ria Singh
+134-77-6926,B,Ahmedabad,Member,Lavina Yadav,Female,Electronic accessories,76.37,3,11.4555,240.5655,2022-07-25,11:22:20,Walmart Gift Cards,229.11,4.761904762,11.4555,7,Sunil Verma,Hema Sahu
+951-65-4323,A,Bangalore,Normal,Bhuvan Chauhan,Male,Clothing,46.43,6,13.929,292.509,2021-09-25,23:56:07,Ewallet,278.58,4.761904762,13.929,6.3,Gopal Tiwari,Ishana Sharma
+935-18-6924,B,Kolkata,Member,Farhan Khan,Male,Health and beauty,51.54,6,15.462,324.702,2023-02-07,21:26:02,Credit Card,309.24,4.761904762,15.462,1.3,Imran Khan,Tithira Kapoor
+676-30-2327,B,Kochi,Normal,Yogesh Mehta,Male,Food and beverages,11.64,10,5.82,122.22,2015-10-28,03:07:36,Walmart Gift Cards,116.4,4.761904762,5.82,8.6,Varun Singh,Saisha Khan
+798-65-6687,C,Bangalore,Normal,Sunil Verma,Male,Food and beverages,44.44,9,19.998,419.958,2017-03-22,02:24:29,Cash,399.96,4.761904762,19.998,1.2,Farhan Khan,Chhavi Chauhan
+488-65-0701,C,Agra,Member,Ujala Kapoor,Female,Electronic accessories,12.75,4,2.55,53.55,2019-07-31,21:13:59,Ewallet,51,4.761904762,2.55,9.3,Pratik Chauhan,Risha Joshi
+648-61-5885,E,Hyderabad,Member,Tarun Kumar,Male,Electronic accessories,53.45,9,24.0525,505.1025,2016-04-27,00:53:03,Cash,481.05,4.761904762,24.0525,1.3,Ravi Patel,Rithika Joshi
+993-77-3361,B,Indore,Normal,Govind Tiwari,Male,Food and beverages,39.52,1,1.976,41.496,2015-11-03,13:30:44,Ewallet,39.52,4.761904762,1.976,8.1,Vicky Singh,Naina Rajput
+180-58-2549,B,Pune,Member,Abhishek Yadav,Male,Health and beauty,49.52,4,9.904,207.984,2021-03-28,16:01:30,Cash,198.08,4.761904762,9.904,5.6,Om Prakash Sharma,Zara Tiwari
+221-26-4049,E,Nagpur,Normal,Kaushal Yadav,Male,Health and beauty,10.02,8,4.008,84.168,2020-12-25,03:19:01,Walmart Gift Cards,80.16,4.761904762,4.008,2.2,Omkar Joshi,Jhanvi Mehta
+985-83-9170,C,New Delhi,Member,Zaina Chauhan,Female,Home and lifestyle,39.3,1,1.965,41.265,2021-10-24,02:55:48,Walmart Gift Cards,39.3,4.761904762,1.965,2.3,Karan Joshi,Ira Kumar
+391-89-4107,B,Indore,Member,Kashvi Rajput,Female,Books,26.21,3,3.9315,82.5615,2015-08-30,20:35:07,Ewallet,78.63,4.761904762,3.9315,3.9,Tushar Sahu,Gargi Kapoor
+556-96-0850,E,Pune,Normal,Chandni Joshi,Female,Food and beverages,87.48,2,8.748,183.708,2022-02-07,00:56:32,Ewallet,174.96,4.761904762,8.748,9.4,Faizan Khan,Charul Yadav
+392-24-0223,C,Chennai,Member,Faizan Khan,Male,Food and beverages,13.92,5,3.48,73.08,2018-03-26,03:30:45,Credit Card,69.6,4.761904762,3.48,4.6,Zahir Khan,Chetana Sahu
+179-77-8197,A,Vadodara,Member,Hema Sahu,Female,Books,21.1,4,4.22,88.62,2022-10-27,23:17:36,Credit Card,84.4,4.761904762,4.22,3,Faisal Khan,Bhavika Kapoor
+619-70-9162,E,Nashik,Normal,Myra Patel,Female,Sports and travel,54.92,5,13.73,288.33,2015-04-09,11:23:16,Ewallet,274.6,4.761904762,13.73,7.9,Chirag Kapoor,Aashi Mehta
+530-41-8884,B,Bhopal,Normal,Yuvika Patel,Female,Health and beauty,94.72,5,23.68,497.28,2020-04-09,07:53:31,Ewallet,473.6,4.761904762,23.68,1.1,Naman Verma,Zara Tiwari
+933-89-9528,E,Indore,Member,Chetan Kumar,Male,Food and beverages,59.53,2,5.953,125.013,2016-04-03,03:15:59,Credit Card,119.06,4.761904762,5.953,8.9,Lalit Yadav,Aanya Sharma
+707-28-2616,A,Ahmedabad,Normal,Diya Yadav,Female,Home and lifestyle,63.68,9,28.656,601.776,2017-11-26,00:54:21,Credit Card,573.12,4.761904762,28.656,3.5,Kunal Gupta,Nandini Patel
+127-59-2144,A,Nagpur,Member,Uday Sahu,Male,Clothing,74.1,4,14.82,311.22,2022-08-13,12:21:53,Walmart Gift Cards,296.4,4.761904762,14.82,8.6,Rohit Patel,Lavisha Kapoor
+870-24-7180,E,Mumbai,Member,Riddhi Verma,Female,Clothing,20.59,2,2.059,43.239,2017-09-25,00:50:42,Cash,41.18,4.761904762,2.059,1.9,Umar Khan,Parina Patel
+240-46-4940,C,Bangalore,Normal,Bhavna Sharma,Female,Health and beauty,51.41,9,23.1345,485.8245,2023-09-16,01:24:48,Cash,462.69,4.761904762,23.1345,2.2,Keshav Sharma,Nandini Patel
+887-47-2234,C,Surat,Member,Aashi Mehta,Female,Home and lifestyle,52.48,1,2.624,55.104,2020-04-30,09:49:01,Cash,52.48,4.761904762,2.624,3.5,Farhan Khan,Prisha Khan
+542-31-0420,D,Ahmedabad,Member,Anika Patel,Female,Sports and travel,88.22,1,4.411,92.631,2015-08-03,12:57:20,Cash,88.22,4.761904762,4.411,6.7,Rohit Patel,Nandini Patel
+303-56-9210,A,Kochi,Member,Lavina Yadav,Female,Food and beverages,86.13,7,30.1455,633.0555,2019-09-03,16:02:16,Credit Card,602.91,4.761904762,30.1455,3.9,Chirag Kapoor,Kanika Singh
+229-33-2723,A,Bangalore,Normal,Arnav Patel,Male,Electronic accessories,33.78,1,1.689,35.469,2021-08-21,08:03:08,Credit Card,33.78,4.761904762,1.689,2.8,Brijesh Sharma,Kashvi Rajput
+211-66-1341,A,Lucknow,Normal,Ayush Sharma,Male,Home and lifestyle,13.61,1,0.6805,14.2905,2023-02-13,09:59:46,Cash,13.61,4.761904762,0.6805,2.6,Dheeraj Yadav,Urvi Khan
+309-06-7155,E,Jaipur,Member,Arnav Patel,Male,Clothing,45.94,4,9.188,192.948,2020-06-12,00:05:30,Walmart Gift Cards,183.76,4.761904762,9.188,3.1,Govind Tiwari,Aanya Sharma
+301-29-7032,A,Surat,Normal,Lucky Singh,Male,Home and lifestyle,69.42,4,13.884,291.564,2021-07-22,03:09:05,Ewallet,277.68,4.761904762,13.884,4.9,Karan Joshi,Hetal Patel
+206-46-1792,E,Surat,Member,Aashi Mehta,Female,Health and beauty,96.79,6,29.037,609.777,2019-03-03,20:28:49,Walmart Gift Cards,580.74,4.761904762,29.037,8.7,Mohan Patel,Anushka Yadav
+849-94-9073,D,Lucknow,Member,Tarun Kumar,Male,Health and beauty,32.36,3,4.854,101.934,2021-07-27,10:55:35,Walmart Gift Cards,97.08,4.761904762,4.854,6.5,Karthik Kapoor,Megha Kapoor
+648-36-3288,D,Vadodara,Normal,Gargi Kapoor,Female,Home and lifestyle,81.88,3,12.282,257.922,2015-03-26,00:42:14,Ewallet,245.64,4.761904762,12.282,6.5,Lucky Singh,Mahira Verma
+458-88-7953,B,Lucknow,Normal,Tarun Kumar,Male,Health and beauty,16.74,4,3.348,70.308,2021-11-29,04:02:01,Ewallet,66.96,4.761904762,3.348,8.1,Aditya Singh,Kashvi Rajput
+776-54-6769,C,Vadodara,Normal,Urvi Khan,Female,Books,33.7,4,6.74,141.54,2021-07-08,17:21:40,Cash,134.8,4.761904762,6.74,7.1,Ravi Patel,Urvi Khan
+805-82-8649,E,Chandigarh,Normal,Aditi Singh,Female,Books,87.32,6,26.196,550.116,2015-05-06,01:49:34,Credit Card,523.92,4.761904762,26.196,7.5,Ishaan Kumar,Saanvi Kumar
+583-82-2396,E,Indore,Member,Bhoomi Tiwari,Female,Books,70.54,1,3.527,74.067,2015-09-18,21:56:56,Credit Card,70.54,4.761904762,3.527,4.8,Kunal Gupta,Aditi Singh
+993-49-9428,A,Pune,Member,Jai Kapoor,Male,Food and beverages,95.68,3,14.352,301.392,2019-09-02,09:10:28,Credit Card,287.04,4.761904762,14.352,3.5,Bhuvan Chauhan,Gauri Singh
+954-75-2236,B,Kolkata,Member,Urvi Khan,Female,Sports and travel,42.17,10,21.085,442.785,2015-06-25,19:48:41,Cash,421.7,4.761904762,21.085,1.4,Bhuvan Chauhan,Anushka Yadav
+632-06-3744,B,Agra,Member,Falguni Mehta,Female,Books,31.05,10,15.525,326.025,2020-07-19,14:00:18,Ewallet,310.5,4.761904762,15.525,4.3,Gaurav Tiwari,Saisha Khan
+446-04-7620,E,Chandigarh,Member,Ishaan Kumar,Male,Electronic accessories,87.29,9,39.2805,824.8905,2020-04-21,09:14:04,Cash,785.61,4.761904762,39.2805,5.4,Zain Khan,Falak Patel
+266-34-6721,E,Chennai,Member,Yashi Kapoor,Female,Electronic accessories,38.53,2,3.853,80.913,2021-04-09,16:41:10,Cash,77.06,4.761904762,3.853,5,Vicky Singh,Meher Sharma
+743-52-4881,A,New Delhi,Normal,Eshan Verma,Male,Food and beverages,50.16,9,22.572,474.012,2021-03-08,02:19:32,Credit Card,451.44,4.761904762,22.572,9.8,Deepak Verma,Lavina Yadav
+878-59-8691,E,Nagpur,Normal,Charul Yadav,Female,Food and beverages,32.85,8,13.14,275.94,2022-08-10,04:18:08,Walmart Gift Cards,262.8,4.761904762,13.14,3.5,Arjun Patel,Qamar Yadav
+447-13-0263,C,Ahmedabad,Member,Arjun Patel,Male,Health and beauty,82.14,3,12.321,258.741,2016-03-25,02:14:19,Ewallet,246.42,4.761904762,12.321,3.7,Yashvardhan Sharma,Ishita Mehta
+991-89-9530,C,Lucknow,Member,Lavina Yadav,Female,Electronic accessories,43.99,3,6.5985,138.5685,2017-08-18,14:51:15,Ewallet,131.97,4.761904762,6.5985,9.9,Zain Khan,Ojasvi Tiwari
+735-36-2741,B,Agra,Normal,Tanisha Patel,Female,Food and beverages,52.85,1,2.6425,55.4925,2019-08-28,20:26:37,Credit Card,52.85,4.761904762,2.6425,4,Akash Sharma,Gauri Singh
+916-41-4372,D,Surat,Member,Vrinda Sharma,Female,Food and beverages,75.48,1,3.774,79.254,2015-06-22,03:43:14,Cash,75.48,4.761904762,3.774,8.8,Lokesh Tiwari,Fatima Joshi
+450-60-5641,D,Kochi,Member,Zain Khan,Male,Clothing,96.17,2,9.617,201.957,2020-10-10,06:59:35,Walmart Gift Cards,192.34,4.761904762,9.617,3.4,Keshav Sharma,Lavisha Kapoor
+114-01-1013,E,Bangalore,Member,Kunal Gupta,Male,Electronic accessories,71.11,5,17.7775,373.3275,2018-08-24,09:22:27,Ewallet,355.55,4.761904762,17.7775,6.6,Jatin Chauhan,Aanya Sharma
+790-40-9466,D,Ahmedabad,Normal,Raghav Patel,Male,Sports and travel,73,9,32.85,689.85,2016-03-10,03:49:35,Walmart Gift Cards,657,4.761904762,32.85,4.8,Deepak Verma,Bhoomi Tiwari
+870-01-1331,B,Agra,Member,Eshan Verma,Male,Health and beauty,45.77,6,13.731,288.351,2018-06-25,18:18:42,Cash,274.62,4.761904762,13.731,8.6,Brijesh Sharma,Kashvi Rajput
+632-45-2557,B,Chennai,Normal,Ujala Kapoor,Female,Sports and travel,79.56,6,23.868,501.228,2021-05-12,21:42:17,Cash,477.36,4.761904762,23.868,3.7,Prakash Sahu,Qiana Tiwari
+713-15-4602,B,Mumbai,Member,Eklavya Verma,Male,Sports and travel,91.57,5,22.8925,480.7425,2022-03-15,20:11:45,Credit Card,457.85,4.761904762,22.8925,8.8,Nitin Singh,Ginni Gupta
+116-35-4712,A,Nagpur,Member,Urvashi Joshi,Female,Electronic accessories,40.82,6,12.246,257.166,2019-12-17,10:52:26,Credit Card,244.92,4.761904762,12.246,3,Kaushal Yadav,Hema Sahu
+295-59-5623,B,Ahmedabad,Normal,Gauri Singh,Female,Electronic accessories,38.54,7,13.489,283.269,2022-01-29,04:02:37,Ewallet,269.78,4.761904762,13.489,6.4,Ujjwal Gupta,Eshaan Kapoor
+940-15-8324,C,Chennai,Member,Qiana Tiwari,Female,Electronic accessories,72.53,4,14.506,304.626,2019-05-03,11:22:13,Walmart Gift Cards,290.12,4.761904762,14.506,9.4,Lucky Singh,Gargi Kapoor
+458-65-1075,D,Kochi,Normal,Meher Sharma,Female,Electronic accessories,85.89,9,38.6505,811.6605,2019-07-15,20:27:20,Cash,773.01,4.761904762,38.6505,6.8,Omkar Joshi,Farah Joshi
+147-35-9871,C,Kochi,Member,Lavina Yadav,Female,Electronic accessories,13.62,3,2.043,42.903,2020-09-18,02:17:05,Walmart Gift Cards,40.86,4.761904762,2.043,4.1,Aditya Singh,Diya Yadav
+662-06-2811,B,Lucknow,Normal,Keshav Sharma,Male,Sports and travel,94.22,1,4.711,98.931,2016-10-20,07:48:09,Cash,94.22,4.761904762,4.711,7.1,Jatin Chauhan,Oorja Gupta
+108-92-2482,E,Nagpur,Normal,Bhavika Kapoor,Female,Sports and travel,77.6,2,7.76,162.96,2023-02-26,13:20:39,Cash,155.2,4.761904762,7.76,5.6,Dinesh Yadav,Ginni Gupta
+435-10-0429,E,Mumbai,Member,Kunal Gupta,Male,Health and beauty,44.28,7,15.498,325.458,2016-04-29,09:16:02,Walmart Gift Cards,309.96,4.761904762,15.498,2.2,Parth Kapoor,Vanshika Gupta
+478-59-1975,D,Hyderabad,Normal,Ujala Kapoor,Female,Home and lifestyle,77.61,6,23.283,488.943,2016-08-10,13:55:45,Walmart Gift Cards,465.66,4.761904762,23.283,1,Javed Khan,Charvi Verma
+527-52-0059,E,Ahmedabad,Normal,Gopal Tiwari,Male,Food and beverages,73.17,5,18.2925,384.1425,2021-02-05,16:52:50,Credit Card,365.85,4.761904762,18.2925,1.7,Raghav Patel,Fatima Joshi
+686-74-7557,B,Jaipur,Normal,Omkar Joshi,Male,Food and beverages,51.93,2,5.193,109.053,2018-08-29,04:53:54,Credit Card,103.86,4.761904762,5.193,8.1,Abhishek Yadav,Jhanvi Mehta
+453-18-9890,E,Agra,Member,Sanika Verma,Female,Books,35.41,4,7.082,148.722,2020-03-06,09:13:16,Cash,141.64,4.761904762,7.082,9.5,Utkarsh Yadav,Falguni Mehta
+863-43-6596,D,Nashik,Member,Yuvika Patel,Female,Clothing,55.96,6,16.788,352.548,2018-05-15,10:09:57,Credit Card,335.76,4.761904762,16.788,9.1,Brijesh Sharma,Megha Kapoor
+855-35-5699,C,New Delhi,Member,Aanya Sharma,Female,Books,44.19,1,2.2095,46.3995,2018-01-23,13:12:28,Credit Card,44.19,4.761904762,2.2095,6.3,Ayush Sharma,Riddhi Verma
+853-46-6568,B,Surat,Member,Fatima Joshi,Female,Sports and travel,33.99,5,8.4975,178.4475,2019-08-26,02:25:07,Cash,169.95,4.761904762,8.4975,1.4,Ishan Verma,Tanya Rajput
+101-63-1717,D,Jaipur,Normal,Yuvraj Yadav,Male,Health and beauty,64.77,8,25.908,544.068,2018-12-16,06:13:13,Cash,518.16,4.761904762,25.908,1.4,Arnav Patel,Jia Kapoor
+621-57-3922,B,Pune,Member,Kunal Gupta,Male,Health and beauty,77.88,1,3.894,81.774,2021-02-21,13:12:31,Ewallet,77.88,4.761904762,3.894,2.3,Rajveer Gupta,Bhavya Tiwari
+680-76-0049,C,Nashik,Member,Dheeraj Yadav,Male,Books,59.94,10,29.97,629.37,2019-09-04,18:17:05,Cash,599.4,4.761904762,29.97,4.6,Ishaan Kumar,Jigyasa Verma
+292-68-2307,E,Mumbai,Member,Ishaani Sahu,Female,Electronic accessories,17.28,5,4.32,90.72,2018-11-22,18:15:31,Credit Card,86.4,4.761904762,4.32,7.8,Lakshay Sharma,Saanvi Kumar
+909-19-1437,B,Hyderabad,Member,Ekta Joshi,Female,Home and lifestyle,39.84,9,17.928,376.488,2016-01-08,07:51:18,Walmart Gift Cards,358.56,4.761904762,17.928,1.7,Manoj Sharma,Hina Gupta
+837-84-0484,B,Chandigarh,Member,Chirag Kapoor,Male,Clothing,93.41,1,4.6705,98.0805,2016-03-22,04:24:43,Cash,93.41,4.761904762,4.6705,2.6,Jagdish Yadav,Aditi Singh
+721-12-1200,B,Nashik,Member,Vivek Yadav,Male,Home and lifestyle,99.92,5,24.98,524.58,2019-11-29,12:11:21,Cash,499.6,4.761904762,24.98,4,Faisal Khan,Naina Rajput
+390-14-4565,A,Ahmedabad,Member,Chetan Kumar,Male,Health and beauty,57.05,3,8.5575,179.7075,2016-11-22,23:23:11,Cash,171.15,4.761904762,8.5575,1.2,Farhan Khan,Chetana Sahu
+363-59-8966,D,New Delhi,Normal,Zaina Chauhan,Female,Food and beverages,70.97,9,31.9365,670.6665,2017-07-18,06:48:45,Credit Card,638.73,4.761904762,31.9365,1.6,Chirag Kapoor,Myra Patel
+554-16-2479,C,Mumbai,Member,Omkar Chauhan,Male,Electronic accessories,77.03,5,19.2575,404.4075,2021-11-06,19:18:39,Credit Card,385.15,4.761904762,19.2575,6.7,Ayush Sharma,Kashvi Rajput
+521-86-3562,A,Ahmedabad,Normal,Hema Sahu,Female,Electronic accessories,69.85,9,31.4325,660.0825,2021-12-05,11:13:11,Walmart Gift Cards,628.65,4.761904762,31.4325,5.8,Rohit Patel,Vrinda Sharma
+587-26-6860,E,New Delhi,Member,Ira Kumar,Female,Clothing,93.04,5,23.26,488.46,2016-08-22,07:49:13,Cash,465.2,4.761904762,23.26,5.4,Farhan Khan,Risha Joshi
+277-59-2346,C,Vadodara,Normal,Amar Singh,Male,Books,25.27,3,3.7905,79.6005,2023-12-28,17:52:42,Walmart Gift Cards,75.81,4.761904762,3.7905,5.5,Gopal Tiwari,Nandini Patel
+569-83-4432,D,Mumbai,Member,Jhanvi Mehta,Female,Sports and travel,81.38,1,4.069,85.449,2016-01-06,18:01:16,Credit Card,81.38,4.761904762,4.069,6.8,Prakash Sahu,Megha Kapoor
+243-06-6826,B,Nagpur,Normal,Faizan Khan,Male,Health and beauty,17.45,4,3.49,73.29,2018-08-18,21:39:41,Credit Card,69.8,4.761904762,3.49,5.8,Eshan Verma,Upasana Yadav
+914-28-5540,D,Lucknow,Normal,Mahira Verma,Female,Clothing,52.37,7,18.3295,384.9195,2016-06-20,04:28:45,Walmart Gift Cards,366.59,4.761904762,18.3295,4,Rahul Sharma,Falak Patel
+401-42-5711,D,Vadodara,Member,Aaradhya Yadav,Female,Home and lifestyle,25.93,2,2.593,54.453,2022-04-09,22:53:17,Credit Card,51.86,4.761904762,2.593,8,Bhuvan Chauhan,Nupur Singh
+169-03-0909,B,Kolkata,Normal,Qureshi Khan,Male,Health and beauty,19.29,5,4.8225,101.2725,2022-11-03,10:04:16,Walmart Gift Cards,96.45,4.761904762,4.8225,8.9,Jatin Chauhan,Vrinda Sharma
+421-59-7151,B,Bangalore,Normal,Jai Kapoor,Male,Electronic accessories,86.04,10,43.02,903.42,2021-01-22,19:50:31,Cash,860.4,4.761904762,43.02,5.5,Ishaan Kumar,Parina Patel
+263-98-9235,A,Indore,Member,Lucky Singh,Male,Clothing,91.92,3,13.788,289.548,2016-10-27,01:25:43,Cash,275.76,4.761904762,13.788,4,Uday Sahu,Sanya Verma
+455-88-0197,B,Vadodara,Normal,Ananya Patel,Female,Books,10.79,3,1.6185,33.9885,2022-04-14,23:32:28,Ewallet,32.37,4.761904762,1.6185,2.6,Zeeshan Patel,Pihu Gupta
+188-67-6412,B,Lucknow,Normal,Rohit Patel,Male,Sports and travel,97.97,6,29.391,617.211,2015-10-30,19:59:51,Ewallet,587.82,4.761904762,29.391,3.4,Utkarsh Yadav,Queenie Sharma
+388-50-2670,C,Surat,Member,Mukesh Kumar,Male,Clothing,71.23,5,17.8075,373.9575,2020-07-05,05:04:30,Walmart Gift Cards,356.15,4.761904762,17.8075,3.1,Deepesh Verma,Ujala Kapoor
+143-99-8185,C,Nashik,Normal,Ginni Gupta,Female,Electronic accessories,58.8,9,26.46,555.66,2023-08-08,12:37:49,Walmart Gift Cards,529.2,4.761904762,26.46,9.8,Umar Khan,Sanya Verma
+900-14-8575,B,Hyderabad,Member,Naveen Sharma,Male,Sports and travel,32.08,10,16.04,336.84,2016-05-15,03:17:50,Credit Card,320.8,4.761904762,16.04,9.7,Faizan Khan,Eshita Singh
+524-66-2857,B,Agra,Member,Hina Gupta,Female,Home and lifestyle,64.77,7,22.6695,476.0595,2023-08-26,13:01:27,Credit Card,453.39,4.761904762,22.6695,3.2,Yash Patel,Urvashi Joshi
+582-06-8795,B,Surat,Member,Hina Gupta,Female,Sports and travel,41.06,8,16.424,344.904,2019-08-09,12:16:13,Ewallet,328.48,4.761904762,16.424,9.8,Govind Tiwari,Aaradhya Yadav
+763-24-7973,C,Agra,Member,Karthik Kapoor,Male,Home and lifestyle,80.93,5,20.2325,424.8825,2017-01-26,08:09:39,Walmart Gift Cards,404.65,4.761904762,20.2325,3,Sunil Verma,Devanshi Tiwari
+754-92-1266,D,Chennai,Member,Nandini Patel,Female,Home and lifestyle,14.03,4,2.806,58.926,2019-08-12,20:37:47,Cash,56.12,4.761904762,2.806,3.5,Brijesh Sharma,Veda Singh
+449-89-1381,C,Mumbai,Normal,Eesha Verma,Female,Home and lifestyle,97.61,6,29.283,614.943,2022-08-26,10:52:49,Walmart Gift Cards,585.66,4.761904762,29.283,9.6,Uday Sahu,Eshaan Kapoor
+473-19-9429,B,Nashik,Normal,Jhanvi Mehta,Female,Health and beauty,26.65,8,10.66,223.86,2021-06-21,18:54:54,Walmart Gift Cards,213.2,4.761904762,10.66,9.9,Naveen Sharma,Trisha Khan
+366-63-3589,E,Jaipur,Normal,Pranav Rajput,Male,Food and beverages,26.9,6,8.07,169.47,2023-02-09,09:29:21,Ewallet,161.4,4.761904762,8.07,8.4,Sahil Gupta,Risha Joshi
+972-58-3653,A,Agra,Member,Jai Kapoor,Male,Health and beauty,66.03,10,33.015,693.315,2020-02-12,00:42:40,Ewallet,660.3,4.761904762,33.015,1.4,Pratik Chauhan,Chhavi Chauhan
+383-72-9285,A,Ahmedabad,Member,Naina Rajput,Female,Sports and travel,16.55,5,4.1375,86.8875,2015-06-29,04:18:44,Credit Card,82.75,4.761904762,4.1375,3.7,Faisal Khan,Hema Sahu
+811-68-4170,E,Pune,Normal,Risha Joshi,Female,Sports and travel,78.48,3,11.772,247.212,2023-10-05,08:48:45,Cash,235.44,4.761904762,11.772,9.7,Zeeshan Patel,Aaradhya Yadav
+530-69-5320,C,Mumbai,Normal,Urvashi Joshi,Female,Home and lifestyle,56.09,4,11.218,235.578,2016-08-24,09:46:13,Credit Card,224.36,4.761904762,11.218,3.7,Hitesh Yadav,Chhavi Chauhan
+883-64-1294,D,Chennai,Member,Tanya Rajput,Female,Clothing,97.16,2,9.716,204.036,2018-02-14,13:09:46,Cash,194.32,4.761904762,9.716,5.4,Jagdish Yadav,Zara Tiwari
+909-21-0529,E,Ahmedabad,Member,Falguni Mehta,Female,Books,85.14,9,38.313,804.573,2022-08-19,23:05:00,Walmart Gift Cards,766.26,4.761904762,38.313,1.8,Zayd Khan,Hira Gupta
+709-43-1057,D,Pune,Member,Omkar Joshi,Male,Books,43.67,8,17.468,366.828,2023-05-23,06:23:49,Walmart Gift Cards,349.36,4.761904762,17.468,9.7,Akash Sharma,Eesha Verma
+372-77-8418,A,Vishakhapatnam,Normal,Pradeep Chauhan,Male,Clothing,65.25,3,9.7875,205.5375,2016-10-16,03:13:26,Ewallet,195.75,4.761904762,9.7875,9.5,Pradeep Chauhan,Jigyasa Verma
+551-32-2238,E,Jaipur,Normal,Nandini Patel,Female,Health and beauty,21.91,6,6.573,138.033,2020-04-13,23:48:45,Credit Card,131.46,4.761904762,6.573,7.8,Nishant Verma,Ria Singh
+681-67-2012,C,Lucknow,Member,Yashi Kapoor,Female,Food and beverages,91.59,5,22.8975,480.8475,2018-06-22,00:15:13,Walmart Gift Cards,457.95,4.761904762,22.8975,4.2,Neeraj Singh,Bhavika Kapoor
+499-88-9287,E,Mumbai,Normal,Yash Patel,Male,Books,70.39,7,24.6365,517.3665,2022-12-09,14:37:01,Cash,492.73,4.761904762,24.6365,7.7,Faizan Khan,Myra Patel
+606-27-5071,A,Chandigarh,Member,Kanika Singh,Female,Food and beverages,77.42,10,38.71,812.91,2022-12-28,21:32:08,Ewallet,774.2,4.761904762,38.71,8.8,Naveen Sharma,Hina Gupta
+734-76-1951,A,Bhopal,Member,Bhavya Tiwari,Female,Health and beauty,17.93,10,8.965,188.265,2023-06-16,08:26:30,Cash,179.3,4.761904762,8.965,8.2,Deepak Verma,Parina Patel
+410-50-5892,C,Mumbai,Normal,Devanshi Tiwari,Female,Clothing,20.02,3,3.003,63.063,2019-12-16,09:15:16,Walmart Gift Cards,60.06,4.761904762,3.003,2.7,Imran Khan,Myra Patel
+251-65-5589,D,Vishakhapatnam,Normal,Ojasvi Tiwari,Female,Books,79.17,7,27.7095,581.8995,2022-12-14,20:19:02,Ewallet,554.19,4.761904762,27.7095,6.7,Armaan Khan,Upasana Yadav
+895-35-6860,B,Chennai,Normal,Kashish Kapoor,Female,Home and lifestyle,42.77,10,21.385,449.085,2020-01-08,22:50:42,Credit Card,427.7,4.761904762,21.385,9.1,Om Prakash Sharma,Veda Singh
+195-25-9022,C,Ahmedabad,Normal,Upasana Yadav,Female,Clothing,34.35,8,13.74,288.54,2023-03-21,04:19:35,Ewallet,274.8,4.761904762,13.74,8.2,Javed Khan,Hema Sahu
+124-32-1434,E,Agra,Normal,Eshaan Kapoor,Female,Home and lifestyle,61.49,9,27.6705,581.0805,2015-06-20,03:47:57,Ewallet,553.41,4.761904762,27.6705,9.5,Sunil Verma,Falak Patel
+468-65-2557,E,Pune,Normal,Lalit Yadav,Male,Food and beverages,54.7,10,27.35,574.35,2021-11-23,21:43:06,Ewallet,547,4.761904762,27.35,1.5,Dheeraj Yadav,Ujala Kapoor
+524-03-3039,E,Jaipur,Member,Nandini Patel,Female,Sports and travel,78.59,10,39.295,825.195,2022-05-12,00:14:02,Ewallet,785.9,4.761904762,39.295,6.9,Gagan Singh,Chandni Joshi
+279-79-6495,A,Bhopal,Member,Tithira Kapoor,Female,Health and beauty,42.79,4,8.558,179.718,2023-08-15,22:55:21,Credit Card,171.16,4.761904762,8.558,8.3,Govind Tiwari,Aashi Mehta
+749-04-8395,E,Hyderabad,Normal,Bhavya Tiwari,Female,Sports and travel,43.26,8,17.304,363.384,2023-08-19,15:52:29,Ewallet,346.08,4.761904762,17.304,2.3,Manoj Sharma,Zara Tiwari
+179-28-6872,E,Hyderabad,Member,Omkar Mehta,Male,Health and beauty,48.32,8,19.328,405.888,2019-01-02,07:02:09,Credit Card,386.56,4.761904762,19.328,9.6,Neeraj Singh,Jigyasa Verma
+396-41-9241,E,Ahmedabad,Normal,Elina Chauhan,Female,Food and beverages,67.37,1,3.3685,70.7385,2016-08-07,19:45:40,Walmart Gift Cards,67.37,4.761904762,3.3685,6.9,Yogesh Mehta,Trisha Khan
+381-35-5839,B,Kolkata,Normal,Hitesh Yadav,Male,Clothing,84.23,2,8.423,176.883,2023-10-15,02:21:03,Credit Card,168.46,4.761904762,8.423,9.1,Uday Sahu,Ira Kumar
+438-37-6941,C,Indore,Member,Lavina Yadav,Female,Sports and travel,21.73,3,3.2595,68.4495,2018-06-06,02:05:03,Ewallet,65.19,4.761904762,3.2595,2.5,Karan Joshi,Ananya Patel
+502-63-9549,A,Chennai,Normal,Megha Kapoor,Female,Health and beauty,38.69,10,19.345,406.245,2015-02-23,19:26:48,Ewallet,386.9,4.761904762,19.345,3,Uday Sahu,Risha Joshi
+627-77-8418,E,Ahmedabad,Member,Pari Chauhan,Female,Electronic accessories,27.91,10,13.955,293.055,2018-04-04,06:57:25,Ewallet,279.1,4.761904762,13.955,8.5,Nishant Verma,Nupur Singh
+406-50-7489,D,Bangalore,Member,Faizan Khan,Male,Home and lifestyle,91.78,2,9.178,192.738,2022-09-10,21:23:07,Ewallet,183.56,4.761904762,9.178,8.5,Karthik Kapoor,Dia Mehta
+196-41-7584,E,Kochi,Member,Oviya Sharma,Female,Electronic accessories,21.84,4,4.368,91.728,2016-08-23,13:19:28,Cash,87.36,4.761904762,4.368,6.2,Rahul Sharma,Hina Gupta
+381-01-0497,D,Ahmedabad,Normal,Eshaan Kapoor,Female,Electronic accessories,57.51,5,14.3775,301.9275,2023-09-16,17:33:13,Credit Card,287.55,4.761904762,14.3775,1.5,Lakshay Sharma,Oviya Sharma
+569-19-5576,D,Chennai,Normal,Mukesh Kumar,Male,Sports and travel,54.07,8,21.628,454.188,2017-03-17,23:17:09,Cash,432.56,4.761904762,21.628,9.8,Abhishek Yadav,Mahira Verma
+777-34-4175,A,Surat,Member,Siddharth Reddy,Male,Books,73.16,4,14.632,307.272,2017-11-01,11:28:33,Credit Card,292.64,4.761904762,14.632,3.5,Arnav Patel,Sanika Verma
+423-57-7930,B,Indore,Member,Sanika Verma,Female,Electronic accessories,40.61,1,2.0305,42.6405,2019-04-24,01:18:15,Ewallet,40.61,4.761904762,2.0305,2.9,Gaurav Tiwari,Myra Patel
+985-03-3410,D,Kochi,Normal,Megha Kapoor,Female,Sports and travel,67.74,5,16.935,355.635,2020-06-27,06:09:59,Cash,338.7,4.761904762,16.935,8.6,Arnav Patel,Oviya Sharma
+132-67-4057,D,Agra,Normal,Naman Verma,Male,Books,59.96,9,26.982,566.622,2018-07-01,06:29:32,Ewallet,539.64,4.761904762,26.982,2,Pranav Rajput,Gargi Kapoor
+357-02-9859,D,Chennai,Member,Chetana Sahu,Female,Sports and travel,77.13,9,34.7085,728.8785,2019-06-27,05:51:30,Cash,694.17,4.761904762,34.7085,3.8,Umar Khan,Falguni Mehta
+698-39-0993,E,Indore,Member,Ayush Sharma,Male,Sports and travel,38.01,1,1.9005,39.9105,2016-03-20,07:37:13,Cash,38.01,4.761904762,1.9005,1.4,Sahil Gupta,Jigyasa Verma
+230-09-7180,B,Kolkata,Member,Abhishek Yadav,Male,Clothing,44.28,5,11.07,232.47,2020-01-04,13:39:24,Walmart Gift Cards,221.4,4.761904762,11.07,9.6,Eklavya Verma,Zoya Gupta
+647-99-2142,D,Nagpur,Normal,Hetal Patel,Female,Sports and travel,38.13,9,17.1585,360.3285,2017-12-07,18:49:03,Credit Card,343.17,4.761904762,17.1585,5.5,Mohit Sahu,Divya Chauhan
+216-06-9595,C,Kochi,Normal,Farhan Khan,Male,Clothing,44.81,1,2.2405,47.0505,2016-12-19,03:08:21,Walmart Gift Cards,44.81,4.761904762,2.2405,7.9,Sahil Gupta,Sanika Verma
+480-39-3656,C,Lucknow,Normal,Deepesh Verma,Male,Clothing,11.41,5,2.8525,59.9025,2020-12-09,19:07:36,Walmart Gift Cards,57.05,4.761904762,2.8525,4.4,Vivek Yadav,Megha Kapoor
+190-95-4337,A,Mumbai,Member,Yashi Kapoor,Female,Health and beauty,40.74,3,6.111,128.331,2020-11-01,01:19:05,Walmart Gift Cards,122.22,4.761904762,6.111,1.9,Rohit Patel,Naina Rajput
+287-83-3818,B,Surat,Normal,Nitin Singh,Male,Home and lifestyle,39.65,5,9.9125,208.1625,2016-03-12,10:58:52,Credit Card,198.25,4.761904762,9.9125,8.5,Varun Singh,Falak Patel
+249-86-2349,B,Agra,Member,Kavya Rajput,Female,Clothing,90.17,6,27.051,568.071,2021-09-11,20:46:37,Walmart Gift Cards,541.02,4.761904762,27.051,5,Lalit Yadav,Gitanjali Sharma
+582-14-1462,A,Lucknow,Normal,Saanvi Kumar,Female,Electronic accessories,53.37,4,10.674,224.154,2021-03-13,09:03:25,Ewallet,213.48,4.761904762,10.674,4.2,Hrishikesh Kapoor,Aanya Sharma
+565-16-6390,D,Agra,Member,Hira Gupta,Female,Sports and travel,71.63,10,35.815,752.115,2017-03-07,03:05:43,Cash,716.3,4.761904762,35.815,7.6,Chetan Kumar,Urvashi Joshi
+343-50-9204,A,Nashik,Member,Devanshi Tiwari,Female,Health and beauty,31,2,3.1,65.1,2017-10-06,07:24:35,Walmart Gift Cards,62,4.761904762,3.1,8.3,Govind Tiwari,Zara Tiwari
+117-18-0945,E,Pune,Normal,Karan Joshi,Male,Electronic accessories,74.23,9,33.4035,701.4735,2017-09-21,15:41:59,Walmart Gift Cards,668.07,4.761904762,33.4035,9.4,Bhuvan Chauhan,Gitanjali Sharma
+812-05-9966,D,Indore,Member,Bela Yadav,Female,Health and beauty,63.97,2,6.397,134.337,2021-06-10,08:51:42,Credit Card,127.94,4.761904762,6.397,4.8,Rajveer Gupta,Qamar Yadav
+615-43-0833,C,Kochi,Normal,Gagan Singh,Male,Books,35.98,6,10.794,226.674,2016-09-25,14:43:35,Cash,215.88,4.761904762,10.794,8.6,Lokesh Tiwari,Ojasvi Tiwari
+620-00-5178,C,Kolkata,Member,Jhanvi Mehta,Female,Home and lifestyle,22.8,5,5.7,119.7,2020-12-25,09:34:44,Credit Card,114,4.761904762,5.7,9.8,Tushar Sahu,Riddhi Verma
+293-93-0434,C,Surat,Member,Myra Patel,Female,Books,13.68,3,2.052,43.092,2017-03-16,14:50:29,Ewallet,41.04,4.761904762,2.052,9.9,Zain Khan,Kanika Singh
+634-07-0396,A,Chandigarh,Normal,Hrishikesh Kapoor,Male,Sports and travel,60.14,10,30.07,631.47,2022-10-02,14:57:42,Ewallet,601.4,4.761904762,30.07,2.6,Brijesh Sharma,Nandini Patel
+215-85-3674,C,Vishakhapatnam,Normal,Hitesh Yadav,Male,Home and lifestyle,27.23,9,12.2535,257.3235,2016-06-16,19:45:58,Credit Card,245.07,4.761904762,12.2535,2.9,Rohit Patel,Bhoomi Tiwari
+846-15-7976,E,Lucknow,Member,Arnav Patel,Male,Electronic accessories,39.88,4,7.976,167.496,2022-01-06,15:26:55,Cash,159.52,4.761904762,7.976,3,Dheeraj Yadav,Oviya Sharma
+826-86-7851,E,New Delhi,Member,Ayush Sharma,Male,Books,88.09,6,26.427,554.967,2023-06-28,03:41:46,Ewallet,528.54,4.761904762,26.427,9.3,Jai Kapoor,Megha Kapoor
+124-79-1200,B,Nashik,Member,Mohit Sahu,Male,Home and lifestyle,24.37,1,1.2185,25.5885,2017-02-08,07:36:28,Cash,24.37,4.761904762,1.2185,1.7,Karthik Kapoor,Vanshika Gupta
+137-87-6294,A,Bangalore,Normal,Trisha Khan,Female,Sports and travel,44.24,1,2.212,46.452,2016-03-13,08:08:56,Walmart Gift Cards,44.24,4.761904762,2.212,1.2,Varun Singh,Ekta Joshi
+763-41-5135,D,Indore,Member,Utkarsh Yadav,Male,Clothing,40.3,9,18.135,380.835,2019-04-04,19:49:51,Walmart Gift Cards,362.7,4.761904762,18.135,5.4,Akash Sharma,Charvi Verma
+227-92-4017,E,New Delhi,Normal,Oviya Sharma,Female,Clothing,49.17,6,14.751,309.771,2015-07-05,10:02:13,Cash,295.02,4.761904762,14.751,6.2,Varun Singh,Jia Kapoor
+334-60-5173,D,Chennai,Member,Nandini Patel,Female,Sports and travel,74.43,6,22.329,468.909,2022-12-06,01:47:11,Ewallet,446.58,4.761904762,22.329,5.8,Pratik Chauhan,Saanvi Kumar
+337-83-4640,B,Chennai,Member,Tanuj Mehta,Male,Health and beauty,19.97,5,4.9925,104.8425,2016-01-20,22:52:00,Ewallet,99.85,4.761904762,4.9925,1.4,Ravi Patel,Vanya Gupta
+764-95-4960,C,Mumbai,Normal,Ojasvi Tiwari,Female,Food and beverages,83.61,2,8.361,175.581,2015-01-23,21:09:36,Credit Card,167.22,4.761904762,8.361,2.7,Faisal Khan,Parina Patel
+371-34-9303,E,Agra,Member,Mohit Sahu,Male,Food and beverages,82.04,3,12.306,258.426,2021-10-04,08:45:04,Ewallet,246.12,4.761904762,12.306,8.4,Umar Khan,Saanvi Kumar
+974-99-5037,A,Chandigarh,Member,Utkarsh Yadav,Male,Clothing,33.68,5,8.42,176.82,2018-10-21,14:35:36,Cash,168.4,4.761904762,8.42,1.9,Yash Patel,Nupur Singh
+750-02-3638,D,New Delhi,Normal,Chhavi Chauhan,Female,Food and beverages,97.67,4,19.534,410.214,2015-10-12,10:01:44,Ewallet,390.68,4.761904762,19.534,2.8,Lucky Singh,Tanya Rajput
+805-85-7522,B,Chandigarh,Member,Oviya Sharma,Female,Clothing,84.74,4,16.948,355.908,2023-03-30,02:29:21,Ewallet,338.96,4.761904762,16.948,2.8,Chetan Kumar,Ojasvi Tiwari
+943-11-2862,C,Kochi,Normal,Dev Patel,Male,Electronic accessories,71.23,6,21.369,448.749,2022-06-23,02:17:51,Walmart Gift Cards,427.38,4.761904762,21.369,1.7,Gagan Singh,Oorja Gupta
+861-28-8711,A,Pune,Member,Zahir Khan,Male,Clothing,68.99,6,20.697,434.637,2016-09-30,23:45:08,Cash,413.94,4.761904762,20.697,2.8,Dinesh Yadav,Sanya Verma
+346-65-8726,B,Nashik,Member,Aditi Singh,Female,Electronic accessories,89.16,8,35.664,748.944,2016-01-22,10:59:27,Cash,713.28,4.761904762,35.664,8.5,Harshit Patel,Chandni Joshi
+294-57-1841,D,Pune,Normal,Javed Khan,Male,Books,60.66,6,18.198,382.158,2022-11-06,10:39:44,Ewallet,363.96,4.761904762,18.198,4.2,Chirag Kapoor,Anika Patel
+844-81-6688,E,Jaipur,Normal,Govind Tiwari,Male,Food and beverages,53.2,5,13.3,279.3,2019-06-30,19:36:14,Ewallet,266,4.761904762,13.3,1.2,Tejas Joshi,Upasana Yadav
+237-31-8886,D,Indore,Member,Vikrant Tiwari,Male,Food and beverages,49.57,7,17.3495,364.3395,2016-04-12,23:55:51,Cash,346.99,4.761904762,17.3495,1.9,Rahul Sharma,Prisha Khan
+299-27-1547,C,Surat,Member,Urvi Khan,Female,Books,96.24,6,28.872,606.312,2019-12-26,22:25:28,Ewallet,577.44,4.761904762,28.872,1.1,Gagan Singh,Bhavna Sharma
+506-09-9999,E,Bhopal,Normal,Dinesh Yadav,Male,Clothing,31.61,3,4.7415,99.5715,2020-03-15,11:28:48,Ewallet,94.83,4.761904762,4.7415,4.8,Ayush Sharma,Bhavna Sharma
+572-84-2834,B,Chennai,Normal,Deepak Verma,Male,Food and beverages,63.5,4,12.7,266.7,2020-11-20,08:16:03,Cash,254,4.761904762,12.7,8.5,Om Prakash Sharma,Yashi Kapoor
+196-48-9512,C,Vishakhapatnam,Member,Pratik Chauhan,Male,Clothing,55.19,10,27.595,579.495,2021-11-17,17:16:08,Cash,551.9,4.761904762,27.595,7.9,Qureshi Khan,Anika Patel
+964-84-5925,D,Surat,Normal,Anika Patel,Female,Food and beverages,24.13,10,12.065,253.365,2022-01-02,05:07:58,Walmart Gift Cards,241.3,4.761904762,12.065,6.7,Pratik Chauhan,Yuvika Patel
+128-11-9096,E,Agra,Normal,Veda Singh,Female,Electronic accessories,66.99,3,10.0485,211.0185,2019-01-29,22:16:55,Credit Card,200.97,4.761904762,10.0485,7.9,Keshav Sharma,Lavisha Kapoor
+877-53-4188,E,Indore,Normal,Ginni Gupta,Female,Books,68.8,6,20.64,433.44,2016-10-07,22:43:37,Cash,412.8,4.761904762,20.64,6.3,Kunal Gupta,Aaradhya Yadav
+992-35-5560,C,Hyderabad,Member,Yashi Kapoor,Female,Home and lifestyle,26.9,7,9.415,197.715,2016-01-02,18:00:14,Cash,188.3,4.761904762,9.415,1.7,Deepak Verma,Vrinda Sharma
+424-39-4978,C,Kochi,Normal,Lucky Singh,Male,Food and beverages,95.45,7,33.4075,701.5575,2022-06-25,13:04:56,Ewallet,668.15,4.761904762,33.4075,1.3,Sunil Verma,Kavya Rajput
+662-68-8681,A,Chennai,Normal,Eklavya Verma,Male,Electronic accessories,59.1,1,2.955,62.055,2022-01-27,20:45:07,Walmart Gift Cards,59.1,4.761904762,2.955,9.9,Tushar Sahu,Hira Gupta
+956-91-6334,A,New Delhi,Normal,Ujjwal Gupta,Male,Electronic accessories,43.26,3,6.489,136.269,2022-06-21,06:38:33,Ewallet,129.78,4.761904762,6.489,8,Ravi Patel,Gauri Singh
+101-06-0084,C,Vadodara,Member,Lucky Singh,Male,Electronic accessories,96.79,2,9.679,203.259,2017-02-05,20:20:37,Walmart Gift Cards,193.58,4.761904762,9.679,1.1,Chetan Kumar,Urvashi Joshi
+421-69-9621,D,Nashik,Normal,Naveen Sharma,Male,Books,24.22,9,10.899,228.879,2021-02-04,16:34:19,Credit Card,217.98,4.761904762,10.899,9.1,Kunal Gupta,Saanvi Kumar
+758-24-1116,A,Bangalore,Normal,Hema Sahu,Female,Health and beauty,74.48,6,22.344,469.224,2016-01-11,19:51:29,Ewallet,446.88,4.761904762,22.344,9,Pranav Rajput,Vanya Gupta
+554-79-9879,B,Surat,Normal,Diya Yadav,Female,Books,14.21,6,4.263,89.523,2016-12-10,07:00:06,Walmart Gift Cards,85.26,4.761904762,4.263,7.3,Nishant Verma,Kashish Kapoor
+457-83-6546,A,Nashik,Normal,Varun Singh,Male,Home and lifestyle,75.8,10,37.9,795.9,2019-05-10,21:42:18,Walmart Gift Cards,758,4.761904762,37.9,5.2,Varun Singh,Gauri Singh
+185-57-3483,B,Ahmedabad,Member,Aashi Mehta,Female,Electronic accessories,41.92,7,14.672,308.112,2018-09-06,03:37:19,Credit Card,293.44,4.761904762,14.672,3.4,Pratik Chauhan,Lavisha Kapoor
+239-22-8632,C,Jaipur,Member,Pratik Chauhan,Male,Health and beauty,83.34,3,12.501,262.521,2022-04-23,03:42:41,Credit Card,250.02,4.761904762,12.501,1.9,Kaushal Yadav,Trisha Khan
+114-05-9795,D,Nagpur,Normal,Kanika Singh,Female,Books,64.32,5,16.08,337.68,2016-05-20,08:32:57,Cash,321.6,4.761904762,16.08,8.5,Raghav Patel,Diya Yadav
+840-27-2028,D,Bangalore,Member,Falak Patel,Female,Electronic accessories,60.24,7,21.084,442.764,2022-01-12,10:12:10,Cash,421.68,4.761904762,21.084,9.9,Sagar Mehta,Sanika Verma
+670-28-8505,B,Bhopal,Normal,Vicky Singh,Male,Books,72.15,8,28.86,606.06,2015-05-20,01:36:10,Walmart Gift Cards,577.2,4.761904762,28.86,8.7,Eshan Verma,Trisha Khan
+834-10-1612,A,Chennai,Member,Bhavya Tiwari,Female,Home and lifestyle,62.83,3,9.4245,197.9145,2017-05-15,17:44:38,Walmart Gift Cards,188.49,4.761904762,9.4245,3,Raghav Patel,Sanika Verma
+382-47-0446,E,Bhopal,Normal,Faisal Khan,Male,Food and beverages,26.16,2,2.616,54.936,2021-01-01,03:55:18,Credit Card,52.32,4.761904762,2.616,8.5,Kunal Gupta,Bhavika Kapoor
+612-14-0878,B,Bhopal,Normal,Dinesh Yadav,Male,Books,98.5,5,24.625,517.125,2017-05-13,11:44:38,Ewallet,492.5,4.761904762,24.625,9.5,Ayush Sharma,Saisha Khan
+915-69-0181,E,Vadodara,Member,Vrinda Sharma,Female,Books,35.69,2,3.569,74.949,2022-08-27,06:48:20,Ewallet,71.38,4.761904762,3.569,3.6,Sunil Verma,Riddhi Verma
+176-21-8268,D,Agra,Normal,Pranav Rajput,Male,Electronic accessories,78.33,10,39.165,822.465,2019-10-22,06:58:22,Ewallet,783.3,4.761904762,39.165,6.2,Armaan Khan,Hira Gupta
+580-68-1501,A,Surat,Normal,Brijesh Sharma,Male,Sports and travel,10.23,4,2.046,42.966,2019-05-13,17:26:17,Credit Card,40.92,4.761904762,2.046,9.5,Keshav Sharma,Bhavika Kapoor
+273-35-5858,B,Jaipur,Normal,Omkar Mehta,Male,Health and beauty,98.88,7,34.608,726.768,2021-12-01,08:20:28,Credit Card,692.16,4.761904762,34.608,6.8,Himanshu Kapoor,Bhavika Kapoor
+211-05-0954,D,New Delhi,Normal,Deepak Verma,Male,Food and beverages,55.67,9,25.0515,526.0815,2018-06-03,03:04:52,Cash,501.03,4.761904762,25.0515,7.8,Utkarsh Yadav,Ekta Joshi
+666-83-6612,B,Kochi,Normal,Tarun Kumar,Male,Health and beauty,10.48,7,3.668,77.028,2016-06-30,22:14:03,Credit Card,73.36,4.761904762,3.668,7.6,Karan Joshi,Lavina Yadav
+419-75-2863,E,Bangalore,Normal,Myra Patel,Female,Clothing,29.59,2,2.959,62.139,2018-11-18,10:47:34,Credit Card,59.18,4.761904762,2.959,9.6,Pranav Rajput,Anushka Yadav
+183-94-7948,B,Bangalore,Member,Diya Yadav,Female,Health and beauty,48.51,7,16.9785,356.5485,2017-03-31,09:14:33,Ewallet,339.57,4.761904762,16.9785,5,Prakash Sahu,Falguni Mehta
+344-85-4659,E,Ahmedabad,Normal,Faizan Khan,Male,Electronic accessories,60.75,1,3.0375,63.7875,2018-06-14,03:51:15,Ewallet,60.75,4.761904762,3.0375,7.7,Aniket Yadav,Oishi Tiwari
+744-51-5812,D,Surat,Normal,Ujala Kapoor,Female,Home and lifestyle,22.35,7,7.8225,164.2725,2020-02-02,14:08:28,Cash,156.45,4.761904762,7.8225,1.9,Sagar Mehta,Gauri Singh
+699-12-2760,D,Nagpur,Normal,Dheeraj Yadav,Male,Clothing,82.38,4,16.476,345.996,2020-12-22,04:57:24,Walmart Gift Cards,329.52,4.761904762,16.476,8.3,Dheeraj Yadav,Anushka Yadav
+642-97-3653,E,Mumbai,Normal,Jatin Chauhan,Male,Clothing,11.1,5,2.775,58.275,2019-05-19,04:13:08,Credit Card,55.5,4.761904762,2.775,2.9,Gagan Singh,Ananya Patel
+736-47-4681,A,Bhopal,Member,Leela Yadav,Female,Clothing,85.42,3,12.813,269.073,2023-03-02,12:45:19,Credit Card,256.26,4.761904762,12.813,6,Aniket Yadav,Trisha Khan
+101-05-3971,C,Surat,Member,Keshav Sharma,Male,Books,72.53,4,14.506,304.626,2019-03-12,08:07:50,Credit Card,290.12,4.761904762,14.506,5.9,Govind Tiwari,Ujala Kapoor
+524-96-5935,E,Jaipur,Normal,Tanya Rajput,Female,Electronic accessories,58.74,4,11.748,246.708,2019-10-24,10:23:42,Ewallet,234.96,4.761904762,11.748,2.7,Parth Kapoor,Upasana Yadav
+706-86-2118,D,Nashik,Normal,Bhavna Sharma,Female,Clothing,88.22,3,13.233,277.893,2019-06-20,17:50:28,Cash,264.66,4.761904762,13.233,2.9,Jagdish Yadav,Tanisha Patel
+175-10-2792,D,Chandigarh,Normal,Gaurav Tiwari,Male,Clothing,37.71,9,16.9695,356.3595,2021-04-21,14:47:03,Credit Card,339.39,4.761904762,16.9695,7.4,Yogesh Mehta,Nandini Patel
+220-51-6197,E,Lucknow,Normal,Divya Chauhan,Female,Books,35.03,7,12.2605,257.4705,2016-03-20,01:20:26,Ewallet,245.21,4.761904762,12.2605,6.6,Armaan Khan,Zara Tiwari
+963-60-5616,A,Nashik,Member,Zain Khan,Male,Food and beverages,29.99,1,1.4995,31.4895,2015-09-12,11:16:06,Cash,29.99,4.761904762,1.4995,2.1,Karan Joshi,Chetana Sahu
+525-95-2786,B,Chandigarh,Normal,Prakash Sahu,Male,Food and beverages,44.63,1,2.2315,46.8615,2020-06-11,22:49:39,Walmart Gift Cards,44.63,4.761904762,2.2315,5.7,Eklavya Verma,Mahira Verma
+136-30-5145,A,Agra,Normal,Aarav Kumar,Male,Home and lifestyle,29.02,1,1.451,30.471,2023-02-03,06:21:08,Cash,29.02,4.761904762,1.451,9.6,Arjun Patel,Ria Singh
+894-95-6850,A,Nagpur,Normal,Anika Patel,Female,Books,36.16,7,12.656,265.776,2017-08-30,11:09:54,Walmart Gift Cards,253.12,4.761904762,12.656,4.3,Vikrant Tiwari,Bhavika Kapoor
+184-97-4931,C,Bhopal,Member,Yashvardhan Sharma,Male,Health and beauty,96.04,9,43.218,907.578,2022-02-14,18:34:43,Cash,864.36,4.761904762,43.218,6,Tarun Kumar,Kashish Kapoor
+162-83-7403,D,Lucknow,Normal,Eklavya Verma,Male,Sports and travel,33.64,3,5.046,105.966,2019-02-05,03:31:33,Credit Card,100.92,4.761904762,5.046,6,Armaan Khan,Oviya Sharma
+207-22-6808,B,New Delhi,Member,Lucky Singh,Male,Home and lifestyle,85.04,10,42.52,892.92,2021-04-14,08:44:01,Credit Card,850.4,4.761904762,42.52,2.3,Amar Singh,Naina Rajput
+188-11-5866,B,Nagpur,Member,Vivek Yadav,Male,Food and beverages,31.9,9,14.355,301.455,2017-01-12,16:12:48,Credit Card,287.1,4.761904762,14.355,2.7,Yashvardhan Sharma,Jigyasa Verma
+157-08-0414,C,Chandigarh,Member,Pratik Chauhan,Male,Food and beverages,51.79,3,7.7685,163.1385,2018-10-06,04:17:35,Ewallet,155.37,4.761904762,7.7685,7.9,Uday Sahu,Eesha Verma
+931-60-8604,A,Jaipur,Normal,Jatin Chauhan,Male,Electronic accessories,71.97,4,14.394,302.274,2016-04-22,19:20:19,Walmart Gift Cards,287.88,4.761904762,14.394,9.5,Uday Sahu,Anushka Yadav
+427-73-5376,D,Chennai,Normal,Sanya Verma,Female,Health and beauty,94.23,4,18.846,395.766,2017-11-16,09:22:52,Walmart Gift Cards,376.92,4.761904762,18.846,8.8,Zayd Khan,Ojasvi Tiwari
+576-66-9854,D,Chandigarh,Member,Fatima Joshi,Female,Electronic accessories,46.65,4,9.33,195.93,2016-04-05,15:00:15,Credit Card,186.6,4.761904762,9.33,7.8,Govind Tiwari,Ekta Joshi
+224-00-2642,E,New Delhi,Member,Anushka Yadav,Female,Sports and travel,74.41,9,33.4845,703.1745,2022-12-19,01:15:47,Walmart Gift Cards,669.69,4.761904762,33.4845,7.6,Ujjwal Gupta,Eshaan Kapoor
+163-23-0384,A,Ahmedabad,Member,Gargi Kapoor,Female,Home and lifestyle,17.4,4,3.48,73.08,2017-08-21,22:24:13,Cash,69.6,4.761904762,3.48,9,Faizan Khan,Anushka Yadav
+946-68-8548,D,Agra,Normal,Zaina Tiwari,Female,Books,87.9,6,26.37,553.77,2016-05-08,07:14:28,Walmart Gift Cards,527.4,4.761904762,26.37,4.6,Javed Khan,Hina Gupta
+497-54-4491,A,Kochi,Normal,Megha Kapoor,Female,Sports and travel,45.71,7,15.9985,335.9685,2021-09-22,22:06:25,Ewallet,319.97,4.761904762,15.9985,6.5,Jai Kapoor,Nandini Patel
+337-17-5761,D,Pune,Normal,Pranav Rajput,Male,Health and beauty,21.1,3,3.165,66.465,2019-01-07,02:19:51,Cash,63.3,4.761904762,3.165,5.6,Jagdish Yadav,Upasana Yadav
+758-98-4496,A,Ahmedabad,Normal,Charvi Verma,Female,Sports and travel,24.3,4,4.86,102.06,2015-07-17,10:03:30,Ewallet,97.2,4.761904762,4.86,7.7,Vivek Yadav,Bhavna Sharma
+900-03-0968,C,Vadodara,Normal,Sanika Verma,Female,Home and lifestyle,86.27,10,43.135,905.835,2018-02-06,09:38:05,Cash,862.7,4.761904762,43.135,6.2,Pradeep Chauhan,Diya Yadav
+969-34-5463,D,Mumbai,Member,Neeraj Singh,Male,Electronic accessories,29.39,7,10.2865,216.0165,2022-06-03,13:32:47,Walmart Gift Cards,205.73,4.761904762,10.2865,2.8,Govind Tiwari,Ananya Patel
+812-51-9456,B,Vadodara,Member,Ujala Kapoor,Female,Health and beauty,81.45,7,28.5075,598.6575,2017-11-15,12:18:14,Ewallet,570.15,4.761904762,28.5075,1.3,Lokesh Tiwari,Gauri Singh
+641-30-9361,C,Bangalore,Normal,Eshan Verma,Male,Health and beauty,93.54,5,23.385,491.085,2015-09-02,08:38:31,Ewallet,467.7,4.761904762,23.385,2.7,Parth Kapoor,Diya Yadav
+840-56-9038,D,Chennai,Member,Arnav Patel,Male,Electronic accessories,35.88,5,8.97,188.37,2019-12-03,19:27:14,Cash,179.4,4.761904762,8.97,6.8,Karthik Kapoor,Charul Yadav
+436-14-0906,C,Mumbai,Member,Faizan Khan,Male,Health and beauty,46.14,8,18.456,387.576,2021-11-13,23:09:46,Ewallet,369.12,4.761904762,18.456,8.6,Lalit Yadav,Chandni Joshi
+354-45-4761,E,Kochi,Normal,Dinesh Yadav,Male,Electronic accessories,99.27,5,24.8175,521.1675,2022-03-11,10:32:31,Walmart Gift Cards,496.35,4.761904762,24.8175,8.8,Ujjwal Gupta,Yuvika Patel
+249-33-7263,A,Chennai,Member,Bhavna Sharma,Female,Sports and travel,83.78,1,4.189,87.969,2021-10-24,14:54:11,Cash,83.78,4.761904762,4.189,8.9,Nitin Singh,Bela Yadav
+988-04-2712,E,Lucknow,Member,Ayush Sharma,Male,Sports and travel,26.99,1,1.3495,28.3395,2020-10-11,18:20:38,Ewallet,26.99,4.761904762,1.3495,5.4,Uday Sahu,Lavina Yadav
+802-62-9245,C,Jaipur,Member,Vanshika Gupta,Female,Clothing,25.91,3,3.8865,81.6165,2017-08-27,11:14:07,Credit Card,77.73,4.761904762,3.8865,6,Javed Khan,Hema Sahu
+321-91-6169,B,Vadodara,Member,Parina Patel,Female,Home and lifestyle,16.27,10,8.135,170.835,2023-03-11,21:42:11,Credit Card,162.7,4.761904762,8.135,1.6,Tarun Kumar,Nitya Yadav
+355-04-7966,C,New Delhi,Member,Jigyasa Verma,Female,Sports and travel,40.36,10,20.18,423.78,2021-11-20,12:47:15,Credit Card,403.6,4.761904762,20.18,7.8,Aryan Gupta,Qiana Tiwari
+622-50-7684,C,Hyderabad,Normal,Faizan Khan,Male,Sports and travel,93.74,7,32.809,688.989,2020-05-09,06:13:42,Credit Card,656.18,4.761904762,32.809,5,Dev Patel,Ira Kumar
+391-15-1976,C,Vishakhapatnam,Member,Ginni Gupta,Female,Books,92.32,5,23.08,484.68,2015-05-06,08:02:05,Cash,461.6,4.761904762,23.08,1.2,Naman Verma,Bela Yadav
+111-18-0131,D,Chennai,Member,Harsh Joshi,Male,Home and lifestyle,64.21,4,12.842,269.682,2016-04-30,23:45:01,Walmart Gift Cards,256.84,4.761904762,12.842,4,Pranav Rajput,Gargi Kapoor
+695-19-5940,C,Vadodara,Member,Parth Kapoor,Male,Sports and travel,56.6,1,2.83,59.43,2016-04-04,16:37:14,Credit Card,56.6,4.761904762,2.83,7.5,Jagdish Yadav,Saanvi Kumar
+714-06-0437,A,Kolkata,Member,Armaan Khan,Male,Food and beverages,76.27,8,30.508,640.668,2019-09-20,11:57:53,Credit Card,610.16,4.761904762,30.508,1.2,Aditya Singh,Bhavya Tiwari
+553-06-1774,D,Kolkata,Normal,Rahul Sharma,Male,Books,84.53,3,12.6795,266.2695,2015-07-30,18:06:32,Cash,253.59,4.761904762,12.6795,3.3,Naveen Sharma,Sanya Verma
+695-66-2239,E,Pune,Member,Vanshika Gupta,Female,Books,42.22,5,10.555,221.655,2021-10-03,13:37:26,Ewallet,211.1,4.761904762,10.555,6.4,Gopal Tiwari,Yuvika Patel
+124-03-1265,B,Vadodara,Member,Zayd Khan,Male,Home and lifestyle,99.91,3,14.9865,314.7165,2017-06-20,06:41:19,Cash,299.73,4.761904762,14.9865,3.1,Govind Tiwari,Hema Sahu
+467-58-4010,B,Ahmedabad,Member,Manoj Sharma,Male,Sports and travel,21.46,3,3.219,67.599,2015-12-30,04:05:29,Cash,64.38,4.761904762,3.219,1.5,Umar Khan,Eshaan Kapoor
+309-63-2143,A,Vadodara,Normal,Brijesh Sharma,Male,Food and beverages,54.81,8,21.924,460.404,2018-11-06,23:56:45,Credit Card,438.48,4.761904762,21.924,5.7,Arjun Patel,Sanya Verma
+193-79-1423,C,Nashik,Member,Sahil Gupta,Male,Food and beverages,13.85,3,2.0775,43.6275,2017-05-05,18:02:24,Credit Card,41.55,4.761904762,2.0775,3.9,Yogesh Mehta,Rithika Joshi
+592-32-2340,B,Indore,Member,Nupur Singh,Female,Clothing,71.63,1,3.5815,75.2115,2015-01-25,03:58:01,Walmart Gift Cards,71.63,4.761904762,3.5815,2.1,Yash Patel,Parina Patel
+262-46-0964,A,Nagpur,Member,Bhavna Sharma,Female,Health and beauty,58.01,5,14.5025,304.5525,2017-12-25,20:33:39,Ewallet,290.05,4.761904762,14.5025,9.1,Prakash Sahu,Ojasvi Tiwari
+180-99-5447,C,Nagpur,Normal,Upasana Yadav,Female,Home and lifestyle,78.52,10,39.26,824.46,2019-05-17,06:17:57,Credit Card,785.2,4.761904762,39.26,6,Keshav Sharma,Oishi Tiwari
+932-65-2932,B,Bangalore,Member,Chandni Joshi,Female,Electronic accessories,51.48,4,10.296,216.216,2022-05-06,03:41:00,Walmart Gift Cards,205.92,4.761904762,10.296,7.9,Nishant Verma,Hina Gupta
+549-30-2660,A,Lucknow,Member,Ayush Sharma,Male,Food and beverages,85.22,10,42.61,894.81,2023-10-24,09:14:10,Cash,852.2,4.761904762,42.61,9.9,Yuvraj Yadav,Sanika Verma
+184-09-5198,A,Jaipur,Normal,Riddhi Verma,Female,Health and beauty,12.66,8,5.064,106.344,2017-09-10,18:02:13,Walmart Gift Cards,101.28,4.761904762,5.064,1.9,Raghav Patel,Oviya Sharma
+485-52-2091,B,Chandigarh,Member,Lavisha Kapoor,Female,Home and lifestyle,56.35,3,8.4525,177.5025,2022-11-28,02:48:42,Credit Card,169.05,4.761904762,8.4525,5.2,Omkar Chauhan,Charul Yadav
+637-29-7638,C,Chennai,Member,Upasana Yadav,Female,Clothing,86.43,9,38.8935,816.7635,2021-11-05,03:36:39,Cash,777.87,4.761904762,38.8935,1.4,Omkar Joshi,Vanya Gupta
+345-90-1140,B,Jaipur,Normal,Sahil Gupta,Male,Home and lifestyle,92.18,1,4.609,96.789,2022-12-31,04:03:58,Ewallet,92.18,4.761904762,4.609,7.8,Yashvardhan Sharma,Kashvi Rajput
+476-60-3510,E,Ahmedabad,Normal,Yuvika Patel,Female,Health and beauty,86.27,3,12.9405,271.7505,2020-12-22,10:45:11,Walmart Gift Cards,258.81,4.761904762,12.9405,3.2,Siddharth Reddy,Kanika Singh
+356-60-4372,D,Bhopal,Normal,Abhishek Yadav,Male,Health and beauty,27.37,7,9.5795,201.1695,2017-02-23,16:42:09,Cash,191.59,4.761904762,9.5795,5.7,Parth Kapoor,Yashi Kapoor
+103-44-8060,C,New Delhi,Member,Himanshu Kapoor,Male,Sports and travel,69.75,5,17.4375,366.1875,2020-10-15,14:59:30,Credit Card,348.75,4.761904762,17.4375,6.7,Tanuj Mehta,Aashi Mehta
+589-97-9439,B,Chandigarh,Normal,Zahir Khan,Male,Electronic accessories,68.92,2,6.892,144.732,2019-01-21,21:08:39,Walmart Gift Cards,137.84,4.761904762,6.892,4.2,Varun Singh,Ishita Mehta
+294-18-2445,C,Mumbai,Member,Aryan Gupta,Male,Health and beauty,92.76,6,27.828,584.388,2020-11-23,18:07:16,Cash,556.56,4.761904762,27.828,7.2,Ravi Patel,Chandni Joshi
+528-98-4290,C,Surat,Normal,Upasana Yadav,Female,Home and lifestyle,13.11,10,6.555,137.655,2015-07-20,23:08:24,Ewallet,131.1,4.761904762,6.555,5.1,Zain Khan,Ananya Patel
+104-78-8179,B,Bhopal,Member,Veda Singh,Female,Clothing,12.2,5,3.05,64.05,2020-10-13,01:22:00,Walmart Gift Cards,61,4.761904762,3.05,6.6,Hrishikesh Kapoor,Bhavya Tiwari
+867-28-8022,D,Chandigarh,Member,Mahira Verma,Female,Home and lifestyle,70.52,9,31.734,666.414,2020-10-18,15:09:55,Walmart Gift Cards,634.68,4.761904762,31.734,7.8,Faizan Khan,Aditi Singh
+892-42-5354,E,Ahmedabad,Member,Omkar Chauhan,Male,Books,28.97,5,7.2425,152.0925,2017-11-30,09:12:07,Walmart Gift Cards,144.85,4.761904762,7.2425,9.7,Keshav Sharma,Zaina Tiwari
+892-56-5323,A,Vishakhapatnam,Member,Ujala Kapoor,Female,Home and lifestyle,79.09,6,23.727,498.267,2021-01-13,10:32:40,Ewallet,474.54,4.761904762,23.727,5.4,Keshav Sharma,Tithira Kapoor
+945-10-5966,D,Nashik,Member,Rohit Patel,Male,Health and beauty,41.77,9,18.7965,394.7265,2021-10-15,10:24:17,Walmart Gift Cards,375.93,4.761904762,18.7965,6,Lokesh Tiwari,Bhoomi Tiwari
+895-46-5344,D,Ahmedabad,Member,Jatin Chauhan,Male,Books,39.42,6,11.826,248.346,2017-12-19,06:59:15,Credit Card,236.52,4.761904762,11.826,6.2,Karthik Kapoor,Lavanya Sharma
+280-25-9382,E,Indore,Member,Aashi Mehta,Female,Home and lifestyle,10.83,9,4.8735,102.3435,2023-10-08,20:49:32,Ewallet,97.47,4.761904762,4.8735,2,Aditya Singh,Hira Gupta
+698-07-3982,D,Surat,Normal,Uday Sahu,Male,Health and beauty,10.7,7,3.745,78.645,2023-01-31,17:26:07,Credit Card,74.9,4.761904762,3.745,6.3,Arjun Patel,Upasana Yadav
+590-26-5388,D,Vishakhapatnam,Member,Govind Tiwari,Male,Home and lifestyle,53.74,3,8.061,169.281,2022-07-15,03:42:07,Walmart Gift Cards,161.22,4.761904762,8.061,9.7,Gaurav Tiwari,Hina Gupta
+522-64-3772,E,Kochi,Normal,Gagan Singh,Male,Electronic accessories,77.87,3,11.6805,245.2905,2018-10-06,21:00:33,Credit Card,233.61,4.761904762,11.6805,1.4,Dev Patel,Gauri Singh
+248-19-1218,E,Kochi,Normal,Aditya Singh,Male,Books,69.51,1,3.4755,72.9855,2015-09-23,06:35:42,Credit Card,69.51,4.761904762,3.4755,5.3,Pratik Chauhan,Ujala Kapoor
+225-98-7992,B,Mumbai,Member,Jatin Chauhan,Male,Books,54.11,6,16.233,340.893,2023-01-30,02:32:51,Credit Card,324.66,4.761904762,16.233,5.9,Abhishek Yadav,Saanvi Kumar
+805-31-5348,A,Pune,Normal,Queenie Sharma,Female,Health and beauty,71.26,8,28.504,598.584,2021-10-11,00:27:39,Ewallet,570.08,4.761904762,28.504,2.7,Ishaan Kumar,Kavya Rajput
+717-08-8171,E,Agra,Member,Chandni Joshi,Female,Clothing,73.26,6,21.978,461.538,2020-01-27,00:42:45,Ewallet,439.56,4.761904762,21.978,2.4,Karan Joshi,Yuvika Patel
+399-19-5587,E,Bangalore,Normal,Oishi Tiwari,Female,Health and beauty,51.64,5,12.91,271.11,2016-12-02,02:09:36,Ewallet,258.2,4.761904762,12.91,7.4,Harsh Joshi,Veda Singh
+997-82-3205,A,Jaipur,Normal,Omkar Mehta,Male,Books,31.75,2,3.175,66.675,2019-09-07,04:48:53,Ewallet,63.5,4.761904762,3.175,2,Hrishikesh Kapoor,Upasana Yadav
+478-00-1654,D,Bangalore,Member,Hema Sahu,Female,Sports and travel,54.3,4,10.86,228.06,2018-06-11,09:57:12,Walmart Gift Cards,217.2,4.761904762,10.86,3,Aditya Singh,Ria Singh
+519-78-2302,C,Surat,Normal,Lucky Singh,Male,Sports and travel,34.37,1,1.7185,36.0885,2021-12-28,10:02:50,Cash,34.37,4.761904762,1.7185,9.3,Aryan Gupta,Riddhi Verma
+134-84-9219,C,Vadodara,Normal,Kashish Kapoor,Female,Health and beauty,58.98,5,14.745,309.645,2020-08-14,04:06:24,Credit Card,294.9,4.761904762,14.745,6.6,Hitesh Yadav,Zaina Tiwari
+917-17-2650,A,Nashik,Normal,Myra Patel,Female,Health and beauty,93.83,4,18.766,394.086,2022-03-18,10:25:49,Walmart Gift Cards,375.32,4.761904762,18.766,8.3,Kaushal Yadav,Ojasvi Tiwari
+131-52-8521,C,Chennai,Member,Aditya Singh,Male,Health and beauty,50.74,5,12.685,266.385,2017-06-06,00:28:02,Ewallet,253.7,4.761904762,12.685,7.6,Faizan Khan,Bhavika Kapoor
+847-99-0513,B,Chandigarh,Normal,Dev Patel,Male,Home and lifestyle,74.73,3,11.2095,235.3995,2019-02-27,08:50:56,Walmart Gift Cards,224.19,4.761904762,11.2095,1.5,Lucky Singh,Ishita Mehta
+191-20-8369,B,Kolkata,Member,Ujala Kapoor,Female,Clothing,66.77,9,30.0465,630.9765,2016-09-08,19:28:07,Credit Card,600.93,4.761904762,30.0465,6.4,Eshan Verma,Bhavya Tiwari
+876-81-6599,C,Vishakhapatnam,Normal,Abhishek Yadav,Male,Clothing,94.22,8,37.688,791.448,2018-08-17,14:34:02,Credit Card,753.76,4.761904762,37.688,9.3,Bhuvan Chauhan,Gauri Singh
+416-62-4469,D,New Delhi,Member,Armaan Khan,Male,Electronic accessories,86.35,9,38.8575,816.0075,2023-12-26,16:59:28,Walmart Gift Cards,777.15,4.761904762,38.8575,8.7,Pranav Rajput,Aaradhya Yadav
+244-56-1243,A,Indore,Normal,Dinesh Yadav,Male,Sports and travel,36.77,5,9.1925,193.0425,2015-12-15,00:41:47,Cash,183.85,4.761904762,9.1925,6.8,Yogesh Mehta,Tanisha Patel
+976-44-6721,A,Chennai,Normal,Saanvi Kumar,Female,Home and lifestyle,54.04,3,8.106,170.226,2017-11-04,18:17:49,Ewallet,162.12,4.761904762,8.106,4.4,Tejas Joshi,Ujala Kapoor
+257-77-3340,B,Kochi,Member,Kunal Gupta,Male,Clothing,19.18,5,4.795,100.695,2017-11-03,09:27:13,Walmart Gift Cards,95.9,4.761904762,4.795,8.5,Pratik Chauhan,Divya Chauhan
+425-79-8849,D,Nagpur,Member,Ishita Mehta,Female,Clothing,69.86,10,34.93,733.53,2016-08-15,20:12:33,Walmart Gift Cards,698.6,4.761904762,34.93,1.2,Yashvardhan Sharma,Hetal Patel
+965-10-1848,B,Kochi,Normal,Yashvardhan Sharma,Male,Food and beverages,46.42,7,16.247,341.187,2017-06-19,15:37:46,Cash,324.94,4.761904762,16.247,1.5,Arnav Patel,Kavya Rajput
+535-41-5866,E,Pune,Member,Rithika Joshi,Female,Sports and travel,76.3,5,19.075,400.575,2018-02-06,12:55:05,Cash,381.5,4.761904762,19.075,2.9,Akash Sharma,Myra Patel
+776-33-6477,E,Surat,Normal,Bhavika Kapoor,Female,Electronic accessories,82.28,10,41.14,863.94,2021-06-13,00:21:59,Walmart Gift Cards,822.8,4.761904762,41.14,2.6,Tejas Joshi,Urvi Khan
+791-13-2145,A,Chandigarh,Member,Zara Tiwari,Female,Food and beverages,94.81,3,14.2215,298.6515,2016-01-21,19:24:43,Cash,284.43,4.761904762,14.2215,5.8,Faisal Khan,Bhavika Kapoor
+283-14-2487,E,Chennai,Normal,Bhavika Kapoor,Female,Sports and travel,53.41,4,10.682,224.322,2020-06-20,07:52:38,Cash,213.64,4.761904762,10.682,3.2,Eklavya Verma,Zaina Chauhan
+455-05-9104,D,New Delhi,Normal,Govind Tiwari,Male,Health and beauty,48.36,6,14.508,304.668,2020-06-14,10:25:20,Ewallet,290.16,4.761904762,14.508,9,Lalit Yadav,Zoya Gupta
+205-94-4601,E,Lucknow,Normal,Omkar Chauhan,Male,Food and beverages,67.35,10,33.675,707.175,2020-11-28,14:43:42,Credit Card,673.5,4.761904762,33.675,4.6,Dev Patel,Ishita Mehta
+711-02-5814,A,Mumbai,Normal,Imran Khan,Male,Clothing,42.91,6,12.873,270.333,2021-12-09,11:44:59,Cash,257.46,4.761904762,12.873,4.7,Eklavya Verma,Saanvi Kumar
+672-02-0023,A,Mumbai,Normal,Qureshi Khan,Male,Health and beauty,76.86,9,34.587,726.327,2017-03-27,16:14:38,Walmart Gift Cards,691.74,4.761904762,34.587,1.3,Armaan Khan,Pari Chauhan
+129-00-4817,A,Bhopal,Normal,Naveen Sharma,Male,Electronic accessories,54.94,5,13.735,288.435,2015-11-28,11:37:14,Ewallet,274.7,4.761904762,13.735,9.8,Aarav Kumar,Aditi Singh
+712-15-5886,D,Bangalore,Member,Bhavya Tiwari,Female,Electronic accessories,13.99,4,2.798,58.758,2016-05-29,02:51:17,Walmart Gift Cards,55.96,4.761904762,2.798,5.3,Dheeraj Yadav,Oviya Sharma
+401-04-3808,D,Kolkata,Normal,Charul Yadav,Female,Electronic accessories,92.13,10,46.065,967.365,2021-01-13,07:48:31,Ewallet,921.3,4.761904762,46.065,7.8,Vivek Yadav,Sanika Verma
+491-45-1607,A,Bhopal,Member,Chetana Sahu,Female,Books,29.14,4,5.828,122.388,2019-04-15,12:02:27,Ewallet,116.56,4.761904762,5.828,8.1,Dinesh Yadav,Chetana Sahu
+219-68-4559,A,Jaipur,Member,Karan Joshi,Male,Clothing,77.61,2,7.761,162.981,2017-01-06,00:07:21,Walmart Gift Cards,155.22,4.761904762,7.761,6.9,Amar Singh,Falak Patel
+891-05-0160,A,New Delhi,Member,Sanya Verma,Female,Books,27.11,10,13.555,284.655,2018-06-01,12:00:41,Cash,271.1,4.761904762,13.555,4.6,Zahir Khan,Chhavi Chauhan
+879-31-0536,E,Kolkata,Normal,Hira Gupta,Female,Electronic accessories,78.81,2,7.881,165.501,2022-01-25,18:46:55,Credit Card,157.62,4.761904762,7.881,6.5,Aryan Gupta,Leela Yadav
+266-63-0280,C,Vishakhapatnam,Member,Qamar Yadav,Female,Clothing,63.85,5,15.9625,335.2125,2018-06-10,10:26:43,Walmart Gift Cards,319.25,4.761904762,15.9625,2.2,Mukesh Kumar,Zara Tiwari
+891-96-5695,A,Pune,Member,Govind Tiwari,Male,Electronic accessories,49.15,8,19.66,412.86,2019-04-29,11:22:42,Cash,393.2,4.761904762,19.66,6.3,Omkar Chauhan,Yuvika Patel
+294-05-7293,E,Indore,Normal,Eklavya Verma,Male,Health and beauty,72.53,4,14.506,304.626,2021-11-21,08:19:38,Ewallet,290.12,4.761904762,14.506,4.3,Vikrant Tiwari,Tanisha Patel
+777-88-6459,A,Surat,Member,Trisha Khan,Female,Books,54.76,3,8.214,172.494,2016-08-25,07:34:49,Ewallet,164.28,4.761904762,8.214,4.6,Chirag Kapoor,Nupur Singh
+498-16-3662,D,Vishakhapatnam,Member,Nandini Patel,Female,Food and beverages,24.86,7,8.701,182.721,2015-09-29,21:54:25,Credit Card,174.02,4.761904762,8.701,7.7,Yashvardhan Sharma,Megha Kapoor
+843-55-8111,B,Kochi,Member,Rahul Sharma,Male,Clothing,10.91,5,2.7275,57.2775,2019-08-18,05:27:26,Credit Card,54.55,4.761904762,2.7275,9.8,Nishant Verma,Zaina Tiwari
+655-51-1302,C,Vishakhapatnam,Normal,Pratik Chauhan,Male,Food and beverages,25.79,4,5.158,108.318,2018-09-19,15:41:59,Walmart Gift Cards,103.16,4.761904762,5.158,7.3,Pranav Rajput,Queenie Sharma
+718-12-5116,D,Lucknow,Member,Deepesh Verma,Male,Books,79.54,5,19.885,417.585,2019-08-23,09:00:54,Ewallet,397.7,4.761904762,19.885,9.8,Lucky Singh,Kanika Singh
+182-28-9979,A,Kolkata,Normal,Gargi Kapoor,Female,Books,24.62,8,9.848,206.808,2017-10-26,14:43:24,Ewallet,196.96,4.761904762,9.848,9.8,Hrishikesh Kapoor,Yuvika Patel
+124-34-8821,D,Agra,Normal,Kaushal Yadav,Male,Home and lifestyle,84.1,6,25.23,529.83,2015-05-30,21:00:10,Walmart Gift Cards,504.6,4.761904762,25.23,5.8,Prakash Sahu,Risha Joshi
+313-15-5278,B,Chandigarh,Normal,Arjun Patel,Male,Home and lifestyle,20.23,1,1.0115,21.2415,2019-10-03,13:13:15,Credit Card,20.23,4.761904762,1.0115,4.4,Mukesh Kumar,Ishita Mehta
+100-22-2158,D,Kochi,Member,Charul Yadav,Female,Health and beauty,42.99,9,19.3455,406.2555,2023-10-02,14:45:16,Walmart Gift Cards,386.91,4.761904762,19.3455,9.3,Omkar Chauhan,Tanya Rajput
+352-54-3757,A,Mumbai,Normal,Arjun Patel,Male,Electronic accessories,39.15,8,15.66,328.86,2017-04-11,16:07:50,Walmart Gift Cards,313.2,4.761904762,15.66,2.8,Jatin Chauhan,Aditi Singh
+319-33-7978,E,Ahmedabad,Normal,Rajveer Gupta,Male,Sports and travel,73.7,4,14.74,309.54,2019-09-02,09:15:22,Walmart Gift Cards,294.8,4.761904762,14.74,2.1,Siddharth Reddy,Saanvi Kumar
+626-37-3402,A,Nashik,Member,Deepak Verma,Male,Food and beverages,33.31,3,4.9965,104.9265,2019-03-15,10:44:58,Ewallet,99.93,4.761904762,4.9965,2.1,Gaurav Tiwari,Charul Yadav
+734-99-8727,A,Kochi,Normal,Nandini Patel,Female,Food and beverages,45.13,7,15.7955,331.7055,2018-05-18,05:03:02,Walmart Gift Cards,315.91,4.761904762,15.7955,7.6,Arjun Patel,Falak Patel
+976-40-7102,E,Agra,Normal,Saisha Khan,Female,Food and beverages,66.39,7,23.2365,487.9665,2015-08-06,13:16:13,Ewallet,464.73,4.761904762,23.2365,5.3,Uday Sahu,Eshita Singh
+567-99-4283,C,Hyderabad,Member,Om Prakash Sharma,Male,Books,62,1,3.1,65.1,2018-03-01,12:11:22,Cash,62,4.761904762,3.1,9.4,Aryan Gupta,Ishita Mehta
+852-10-1390,E,Lucknow,Member,Nandini Patel,Female,Home and lifestyle,67.25,8,26.9,564.9,2021-10-04,18:08:21,Credit Card,538,4.761904762,26.9,5.7,Omkar Joshi,Ananya Patel
+489-41-9008,B,Jaipur,Normal,Ishaan Kumar,Male,Food and beverages,98.9,1,4.945,103.845,2019-08-04,03:17:21,Ewallet,98.9,4.761904762,4.945,8.9,Lucky Singh,Vanya Gupta
+153-47-0538,E,Surat,Member,Harsh Joshi,Male,Food and beverages,81.94,9,36.873,774.333,2023-09-29,11:06:59,Ewallet,737.46,4.761904762,36.873,2,Tarun Kumar,Nitya Yadav
+806-61-7322,E,Indore,Member,Naman Verma,Male,Home and lifestyle,19.94,4,3.988,83.748,2021-02-17,13:45:20,Ewallet,79.76,4.761904762,3.988,7.5,Ayush Sharma,Meher Sharma
+334-16-8548,A,Vishakhapatnam,Normal,Deepak Verma,Male,Health and beauty,31.45,9,14.1525,297.2025,2019-01-23,21:14:02,Credit Card,283.05,4.761904762,14.1525,8.9,Karan Joshi,Ananya Patel
+326-42-3747,A,Indore,Member,Tanya Rajput,Female,Books,66.21,9,29.7945,625.6845,2020-08-03,07:13:35,Walmart Gift Cards,595.89,4.761904762,29.7945,4.3,Tanuj Mehta,Divisha Kapoor
+565-24-0703,A,Bangalore,Member,Govind Tiwari,Male,Books,13.67,4,2.734,57.414,2020-06-21,13:56:58,Credit Card,54.68,4.761904762,2.734,8.6,Raghav Patel,Diya Yadav
+449-68-8812,D,Ahmedabad,Member,Pratik Chauhan,Male,Sports and travel,55.64,1,2.782,58.422,2018-10-31,17:54:24,Credit Card,55.64,4.761904762,2.782,1.1,Dheeraj Yadav,Charul Yadav
+998-24-9081,E,Ahmedabad,Normal,Lakshay Sharma,Male,Food and beverages,68.95,9,31.0275,651.5775,2019-06-26,17:07:28,Walmart Gift Cards,620.55,4.761904762,31.0275,2.4,Lokesh Tiwari,Zoya Gupta
+494-36-8158,A,Chennai,Member,Faizan Khan,Male,Electronic accessories,39.31,6,11.793,247.653,2017-02-28,16:19:21,Credit Card,235.86,4.761904762,11.793,9.4,Yashvardhan Sharma,Chandni Joshi
+420-97-0622,C,Mumbai,Normal,Kaushal Yadav,Male,Home and lifestyle,12.39,3,1.8585,39.0285,2015-10-22,04:12:05,Ewallet,37.17,4.761904762,1.8585,8.4,Naveen Sharma,Bela Yadav
+671-21-4526,D,Vadodara,Member,Ananya Patel,Female,Food and beverages,23.71,8,9.484,199.164,2017-07-03,11:29:15,Ewallet,189.68,4.761904762,9.484,3.7,Mukesh Kumar,Vanshika Gupta
+821-65-2457,D,Surat,Member,Mohit Sahu,Male,Home and lifestyle,28.73,1,1.4365,30.1665,2022-04-15,02:15:38,Credit Card,28.73,4.761904762,1.4365,3.4,Rahul Sharma,Farah Joshi
+761-68-5042,E,Vadodara,Member,Hema Sahu,Female,Home and lifestyle,87.39,2,8.739,183.519,2016-06-01,23:53:32,Credit Card,174.78,4.761904762,8.739,1.2,Arjun Patel,Bhavna Sharma
+928-75-1363,B,Vadodara,Normal,Megha Kapoor,Female,Food and beverages,60.62,8,24.248,509.208,2018-10-11,21:29:35,Walmart Gift Cards,484.96,4.761904762,24.248,7.8,Naman Verma,Chhavi Chauhan
+507-70-2806,C,Ahmedabad,Normal,Leela Yadav,Female,Books,73.71,10,36.855,773.955,2023-12-11,06:16:40,Credit Card,737.1,4.761904762,36.855,5.6,Tejas Joshi,Naina Rajput
+964-85-7096,C,Mumbai,Member,Abhishek Yadav,Male,Health and beauty,69,10,34.5,724.5,2020-06-08,05:53:53,Walmart Gift Cards,690,4.761904762,34.5,6.8,Qureshi Khan,Prisha Khan
+598-35-0966,A,Pune,Normal,Eshaan Kapoor,Female,Sports and travel,93.45,5,23.3625,490.6125,2018-09-04,23:50:38,Ewallet,467.25,4.761904762,23.3625,5.7,Jai Kapoor,Nandini Patel
+696-59-2179,B,Kochi,Member,Jatin Chauhan,Male,Books,26.18,5,6.545,137.445,2022-11-11,03:25:15,Credit Card,130.9,4.761904762,6.545,5.7,Aditya Singh,Eshaan Kapoor
+380-69-5358,C,Vishakhapatnam,Member,Keshav Sharma,Male,Food and beverages,82.91,3,12.4365,261.1665,2023-06-29,18:23:26,Ewallet,248.73,4.761904762,12.4365,1.6,Umar Khan,Fatima Joshi
+409-99-3723,C,Chennai,Member,Nishant Verma,Male,Home and lifestyle,23.87,1,1.1935,25.0635,2023-02-17,01:57:48,Credit Card,23.87,4.761904762,1.1935,4.3,Rohit Patel,Charul Yadav
+877-31-5275,A,Mumbai,Member,Parth Kapoor,Male,Health and beauty,87.14,10,43.57,914.97,2020-04-24,02:35:18,Ewallet,871.4,4.761904762,43.57,6.5,Mukesh Kumar,Jhanvi Mehta
+734-32-9853,D,Mumbai,Member,Zayd Khan,Male,Health and beauty,59.87,3,8.9805,188.5905,2019-11-12,10:08:42,Credit Card,179.61,4.761904762,8.9805,1.3,Mukesh Kumar,Yuvika Patel
+428-66-0666,E,Indore,Member,Parth Kapoor,Male,Clothing,16.75,9,7.5375,158.2875,2019-02-07,02:54:54,Credit Card,150.75,4.761904762,7.5375,8.8,Dheeraj Yadav,Jigyasa Verma
+450-40-9198,D,Ahmedabad,Normal,Omkar Joshi,Male,Electronic accessories,97.25,1,4.8625,102.1125,2015-04-12,14:47:19,Walmart Gift Cards,97.25,4.761904762,4.8625,2.1,Uday Sahu,Megha Kapoor
+306-25-8562,A,Agra,Normal,Vicky Singh,Male,Health and beauty,27.35,3,4.1025,86.1525,2021-04-27,03:14:43,Ewallet,82.05,4.761904762,4.1025,8.7,Yogesh Mehta,Tithira Kapoor
+383-94-5657,C,Pune,Normal,Vanya Gupta,Female,Sports and travel,89.24,8,35.696,749.616,2019-04-08,01:04:48,Walmart Gift Cards,713.92,4.761904762,35.696,4.6,Dev Patel,Devanshi Tiwari
+645-57-9600,D,Bangalore,Member,Tanuj Mehta,Male,Home and lifestyle,60.29,5,15.0725,316.5225,2023-02-13,09:06:49,Cash,301.45,4.761904762,15.0725,3.6,Ayush Sharma,Mahira Verma
+914-99-3642,E,Kochi,Normal,Rithika Joshi,Female,Food and beverages,43.57,2,4.357,91.497,2022-08-18,14:17:48,Credit Card,87.14,4.761904762,4.357,8.7,Vivek Yadav,Eshaan Kapoor
+602-87-9787,D,New Delhi,Member,Gopal Tiwari,Male,Health and beauty,82.81,2,8.281,173.901,2023-09-07,13:35:27,Cash,165.62,4.761904762,8.281,1.8,Tejas Joshi,Aashi Mehta
+953-23-2137,E,Nashik,Normal,Nitya Yadav,Female,Home and lifestyle,31.34,1,1.567,32.907,2022-02-23,07:57:52,Ewallet,31.34,4.761904762,1.567,2,Rahul Sharma,Kashish Kapoor
+546-69-7413,D,Lucknow,Member,Arjun Patel,Male,Clothing,25.17,7,8.8095,184.9995,2022-07-23,04:40:51,Ewallet,176.19,4.761904762,8.8095,3.2,Yogesh Mehta,Jiya Sahu
+791-12-8525,C,Pune,Member,Tanisha Patel,Female,Home and lifestyle,34.21,8,13.684,287.364,2020-05-01,10:03:58,Cash,273.68,4.761904762,13.684,3.8,Harsh Joshi,Kashvi Rajput
+695-36-7549,C,Hyderabad,Normal,Kunal Gupta,Male,Health and beauty,89.46,4,17.892,375.732,2021-10-09,09:13:52,Walmart Gift Cards,357.84,4.761904762,17.892,9.4,Tejas Joshi,Aashi Mehta
+665-74-0013,A,Surat,Normal,Karan Joshi,Male,Health and beauty,58.11,4,11.622,244.062,2020-10-29,18:20:54,Cash,232.44,4.761904762,11.622,7,Lakshay Sharma,Zoya Gupta
+220-68-6042,C,Hyderabad,Normal,Naveen Sharma,Male,Food and beverages,79.59,2,7.959,167.139,2021-12-01,08:28:33,Credit Card,159.18,4.761904762,7.959,9.4,Pratik Chauhan,Megha Kapoor
+930-91-4672,E,Nashik,Normal,Mohit Sahu,Male,Electronic accessories,42.31,2,4.231,88.851,2018-12-13,05:20:23,Walmart Gift Cards,84.62,4.761904762,4.231,6.1,Kaushal Yadav,Ginni Gupta
+663-79-3809,B,Nagpur,Member,Sanya Verma,Female,Electronic accessories,21.24,3,3.186,66.906,2022-09-20,11:18:12,Ewallet,63.72,4.761904762,3.186,1.7,Deepak Verma,Hetal Patel
+368-54-8660,B,Bhopal,Member,Jiya Sahu,Female,Clothing,87.11,3,13.0665,274.3965,2016-05-12,03:00:52,Walmart Gift Cards,261.33,4.761904762,13.0665,1.7,Sagar Mehta,Jhanvi Mehta
+581-85-4915,B,Surat,Normal,Aanya Sharma,Female,Food and beverages,93.46,4,18.692,392.532,2017-01-21,01:50:39,Walmart Gift Cards,373.84,4.761904762,18.692,5.4,Aarav Kumar,Qamar Yadav
+686-76-4755,A,Indore,Normal,Eesha Verma,Female,Clothing,16.4,8,6.56,137.76,2017-10-17,17:23:53,Cash,131.2,4.761904762,6.56,4.2,Rajveer Gupta,Anika Patel
+437-87-4640,C,Jaipur,Normal,Farhan Khan,Male,Home and lifestyle,24.72,8,9.888,207.648,2022-03-03,05:33:13,Credit Card,197.76,4.761904762,9.888,7.6,Bhushan Sharma,Gargi Kapoor
+258-64-2260,D,Kochi,Member,Mohan Patel,Male,Electronic accessories,89.08,1,4.454,93.534,2017-10-20,18:05:45,Cash,89.08,4.761904762,4.454,6.4,Vivek Yadav,Aashi Mehta
+106-06-8155,A,Indore,Member,Lucky Singh,Male,Home and lifestyle,26.73,6,8.019,168.399,2015-04-17,23:03:32,Credit Card,160.38,4.761904762,8.019,4.1,Dinesh Yadav,Ginni Gupta
+724-49-5665,D,Ahmedabad,Normal,Zoya Gupta,Female,Home and lifestyle,14.89,8,5.956,125.076,2015-08-21,01:50:09,Credit Card,119.12,4.761904762,5.956,2.3,Hrishikesh Kapoor,Sanya Verma
+531-87-5309,C,New Delhi,Member,Riddhi Verma,Female,Food and beverages,88.6,8,35.44,744.24,2021-10-01,16:56:59,Credit Card,708.8,4.761904762,35.44,6.7,Ishan Verma,Saanvi Kumar
+398-53-6368,A,Chennai,Member,Hetal Patel,Female,Electronic accessories,61.13,3,9.1695,192.5595,2018-12-09,11:39:05,Ewallet,183.39,4.761904762,9.1695,3.7,Arnav Patel,Prisha Khan
+919-67-0601,D,Kolkata,Normal,Bela Yadav,Female,Sports and travel,96.68,5,24.17,507.57,2018-07-11,23:35:49,Cash,483.4,4.761904762,24.17,5.7,Mukesh Kumar,Oishi Tiwari
+704-73-1886,E,Mumbai,Normal,Ishita Mehta,Female,Health and beauty,79.38,8,31.752,666.792,2023-05-05,11:09:12,Walmart Gift Cards,635.04,4.761904762,31.752,8.9,Aryan Gupta,Charvi Verma
+528-39-3454,C,Hyderabad,Normal,Dinesh Yadav,Male,Food and beverages,76.54,2,7.654,160.734,2015-07-07,05:02:11,Walmart Gift Cards,153.08,4.761904762,7.654,8.6,Mohit Sahu,Yashi Kapoor
+492-28-8833,D,Bhopal,Normal,Chirag Kapoor,Male,Clothing,61.18,2,6.118,128.478,2021-11-30,17:11:18,Credit Card,122.36,4.761904762,6.118,5.4,Dev Patel,Kashvi Rajput
+411-99-4236,E,Surat,Member,Gagan Singh,Male,Home and lifestyle,79.04,10,39.52,829.92,2020-04-17,06:53:39,Credit Card,790.4,4.761904762,39.52,2.3,Harsh Joshi,Kashvi Rajput
+306-73-1877,D,Indore,Member,Imran Khan,Male,Health and beauty,64.71,3,9.7065,203.8365,2022-01-25,16:41:09,Walmart Gift Cards,194.13,4.761904762,9.7065,9.1,Gagan Singh,Mahira Verma
+519-33-6533,C,Kochi,Member,Raghav Patel,Male,Food and beverages,15.02,2,1.502,31.542,2022-09-22,12:02:56,Walmart Gift Cards,30.04,4.761904762,1.502,1.7,Tarun Kumar,Lavanya Sharma
+184-14-1267,D,Jaipur,Member,Mukesh Kumar,Male,Health and beauty,54.78,2,5.478,115.038,2022-08-02,07:07:55,Walmart Gift Cards,109.56,4.761904762,5.478,7.2,Arjun Patel,Yashi Kapoor
+458-91-2068,D,Nagpur,Normal,Urvi Khan,Female,Food and beverages,48.64,4,9.728,204.288,2020-07-19,07:54:17,Walmart Gift Cards,194.56,4.761904762,9.728,2,Dev Patel,Saisha Khan
+492-67-5143,D,Agra,Member,Zoya Gupta,Female,Home and lifestyle,97.52,3,14.628,307.188,2018-01-15,07:15:49,Cash,292.56,4.761904762,14.628,8.7,Aniket Yadav,Queenie Sharma
+774-61-6628,A,Kolkata,Member,Eklavya Verma,Male,Electronic accessories,88.76,10,44.38,931.98,2020-09-05,14:21:40,Ewallet,887.6,4.761904762,44.38,1,Zain Khan,Eshaan Kapoor
+323-77-6461,B,Indore,Member,Ravi Patel,Male,Sports and travel,90.26,8,36.104,758.184,2021-02-06,15:27:48,Walmart Gift Cards,722.08,4.761904762,36.104,9.8,Farhan Khan,Eesha Verma
+677-42-4676,D,Kochi,Member,Tarun Kumar,Male,Sports and travel,67.56,4,13.512,283.752,2023-04-29,13:12:56,Credit Card,270.24,4.761904762,13.512,7,Jatin Chauhan,Chetana Sahu
+374-99-8284,C,Mumbai,Member,Armaan Khan,Male,Food and beverages,13.12,7,4.592,96.432,2022-08-16,00:06:42,Cash,91.84,4.761904762,4.592,9.4,Nishant Verma,Anika Patel
+636-91-7479,D,Bangalore,Member,Ishaan Kumar,Male,Food and beverages,22.56,6,6.768,142.128,2022-08-22,14:07:53,Credit Card,135.36,4.761904762,6.768,1.4,Mohit Sahu,Kashish Kapoor
+914-53-9797,A,Kolkata,Member,Kunal Gupta,Male,Books,71.96,8,28.784,604.464,2023-06-09,12:45:41,Cash,575.68,4.761904762,28.784,3.4,Nishant Verma,Parina Patel
+579-41-0522,C,Chennai,Normal,Qamar Yadav,Female,Food and beverages,72.72,2,7.272,152.712,2023-10-06,22:39:17,Credit Card,145.44,4.761904762,7.272,7.3,Gagan Singh,Naina Rajput
+754-54-4886,B,Jaipur,Normal,Upasana Yadav,Female,Sports and travel,22.58,3,3.387,71.127,2023-10-10,11:22:04,Credit Card,67.74,4.761904762,3.387,1.7,Zahir Khan,Megha Kapoor
+134-34-6337,D,Chandigarh,Normal,Yashi Kapoor,Female,Food and beverages,42.24,1,2.112,44.352,2023-07-16,06:05:12,Ewallet,42.24,4.761904762,2.112,5.2,Ishaan Kumar,Nitya Yadav
+823-96-1110,E,Chennai,Member,Bhavna Sharma,Female,Food and beverages,94.1,2,9.41,197.61,2015-12-26,12:36:15,Walmart Gift Cards,188.2,4.761904762,9.41,1.9,Sunil Verma,Bhavna Sharma
+256-43-9760,E,Ahmedabad,Normal,Rajveer Gupta,Male,Health and beauty,90.08,3,13.512,283.752,2022-07-22,18:14:55,Credit Card,270.24,4.761904762,13.512,6.9,Sahil Gupta,Hira Gupta
+743-09-3634,E,Jaipur,Member,Rahul Sharma,Male,Food and beverages,48.11,10,24.055,505.155,2019-06-07,11:12:37,Ewallet,481.1,4.761904762,24.055,9.2,Deepak Verma,Ginni Gupta
+761-86-4226,E,Agra,Normal,Zara Tiwari,Female,Home and lifestyle,57.14,10,28.57,599.97,2015-12-29,20:10:20,Ewallet,571.4,4.761904762,28.57,2.6,Abhishek Yadav,Eshaan Kapoor
+789-52-7225,D,Kochi,Member,Saanvi Kumar,Female,Books,89.83,9,40.4235,848.8935,2016-06-04,21:47:52,Ewallet,808.47,4.761904762,40.4235,5.9,Umar Khan,Gargi Kapoor
+706-94-6126,A,Chennai,Normal,Ishaan Kumar,Male,Books,39.78,9,17.901,375.921,2019-07-16,03:04:41,Ewallet,358.02,4.761904762,17.901,7.9,Sunil Verma,Qiana Tiwari
+670-25-5837,A,Agra,Member,Tarun Kumar,Male,Food and beverages,85.01,6,25.503,535.563,2018-07-15,07:57:26,Walmart Gift Cards,510.06,4.761904762,25.503,2.8,Lakshay Sharma,Kashvi Rajput
+607-09-6306,D,Kolkata,Normal,Sahil Gupta,Male,Food and beverages,73.04,3,10.956,230.076,2015-10-28,02:21:41,Walmart Gift Cards,219.12,4.761904762,10.956,3.1,Omkar Mehta,Charvi Verma
+196-89-2739,A,Agra,Member,Nitya Yadav,Female,Clothing,80.95,5,20.2375,424.9875,2017-04-25,06:07:44,Credit Card,404.75,4.761904762,20.2375,4.3,Lalit Yadav,Zara Tiwari
+112-07-1079,A,Chandigarh,Member,Aaradhya Yadav,Female,Electronic accessories,45.26,3,6.789,142.569,2022-01-18,13:00:06,Walmart Gift Cards,135.78,4.761904762,6.789,8.8,Aditya Singh,Lavina Yadav
+101-78-4148,D,Chandigarh,Normal,Zara Tiwari,Female,Home and lifestyle,62.59,7,21.9065,460.0365,2021-09-06,18:37:01,Ewallet,438.13,4.761904762,21.9065,2,Neeraj Singh,Gitanjali Sharma
+586-45-5366,A,Kolkata,Member,Keshav Sharma,Male,Clothing,87.91,1,4.3955,92.3055,2019-08-12,13:12:31,Walmart Gift Cards,87.91,4.761904762,4.3955,2.1,Rohit Patel,Ishita Mehta
+942-58-0950,C,Vishakhapatnam,Normal,Kaushal Yadav,Male,Clothing,43.86,7,15.351,322.371,2023-08-30,12:19:58,Ewallet,307.02,4.761904762,15.351,8.3,Sagar Mehta,Mahira Verma
+877-13-8627,E,Bangalore,Normal,Queenie Sharma,Female,Clothing,19.09,2,1.909,40.089,2015-08-20,00:24:06,Cash,38.18,4.761904762,1.909,1.9,Eshan Verma,Ginni Gupta
+564-00-9420,C,Nashik,Normal,Eshan Verma,Male,Sports and travel,15.06,6,4.518,94.878,2020-05-11,14:14:06,Credit Card,90.36,4.761904762,4.518,5.9,Hrishikesh Kapoor,Aashi Mehta
+213-46-8548,A,Nagpur,Normal,Aarav Kumar,Male,Food and beverages,21.87,6,6.561,137.781,2019-10-18,00:48:33,Credit Card,131.22,4.761904762,6.561,4.1,Tarun Kumar,Leela Yadav
+218-71-4265,E,Hyderabad,Normal,Gopal Tiwari,Male,Books,66.39,6,19.917,418.257,2020-11-11,13:43:03,Ewallet,398.34,4.761904762,19.917,3.5,Tejas Joshi,Jigyasa Verma
+381-98-9425,D,Bangalore,Member,Parth Kapoor,Male,Food and beverages,10.4,4,2.08,43.68,2016-11-27,05:01:45,Credit Card,41.6,4.761904762,2.08,9.3,Vicky Singh,Hetal Patel
+277-42-4374,C,Vishakhapatnam,Normal,Gaurav Tiwari,Male,Food and beverages,35.48,4,7.096,149.016,2018-11-12,16:59:44,Cash,141.92,4.761904762,7.096,8.3,Deepak Verma,Divya Chauhan
+742-77-9873,E,Chennai,Member,Raghav Patel,Male,Electronic accessories,49.77,1,2.4885,52.2585,2022-05-28,17:36:15,Walmart Gift Cards,49.77,4.761904762,2.4885,8.4,Tanuj Mehta,Megha Kapoor
+573-42-7117,E,New Delhi,Member,Jagdish Yadav,Male,Health and beauty,38.32,7,13.412,281.652,2016-01-09,19:21:57,Credit Card,268.24,4.761904762,13.412,5.2,Govind Tiwari,Nupur Singh
+825-29-6120,B,Chennai,Member,Omkar Mehta,Male,Electronic accessories,11.72,8,4.688,98.448,2022-09-07,22:42:55,Credit Card,93.76,4.761904762,4.688,8,Zain Khan,Vanya Gupta
+951-35-7726,C,Nagpur,Member,Chetan Kumar,Male,Electronic accessories,52.66,9,23.697,497.637,2022-09-24,12:24:59,Walmart Gift Cards,473.94,4.761904762,23.697,5,Akash Sharma,Meher Sharma
+420-50-7779,C,Nagpur,Member,Charvi Verma,Female,Home and lifestyle,26.8,6,8.04,168.84,2015-10-27,07:02:49,Cash,160.8,4.761904762,8.04,8.9,Harshit Patel,Hema Sahu
+207-35-2788,E,Hyderabad,Member,Deepesh Verma,Male,Books,75.77,8,30.308,636.468,2023-07-08,01:05:25,Ewallet,606.16,4.761904762,30.308,3.5,Jai Kapoor,Upasana Yadav
+905-50-2839,E,Pune,Member,Charvi Verma,Female,Health and beauty,78.08,2,7.808,163.968,2019-11-28,10:08:15,Credit Card,156.16,4.761904762,7.808,7,Naman Verma,Lavanya Sharma
+381-23-3643,B,Bhopal,Normal,Hrishikesh Kapoor,Male,Food and beverages,50.97,10,25.485,535.185,2022-06-07,00:04:30,Ewallet,509.7,4.761904762,25.485,8.8,Hrishikesh Kapoor,Queenie Sharma
+424-46-8946,B,New Delhi,Member,Uday Sahu,Male,Electronic accessories,97.44,5,24.36,511.56,2016-11-26,02:26:24,Ewallet,487.2,4.761904762,24.36,2.7,Pradeep Chauhan,Sanika Verma
+263-93-8406,D,Indore,Member,Nandini Patel,Female,Food and beverages,35.72,10,17.86,375.06,2022-03-31,16:17:42,Walmart Gift Cards,357.2,4.761904762,17.86,8.5,Chirag Kapoor,Oorja Gupta
+654-17-5220,C,Bhopal,Member,Nandini Patel,Female,Health and beauty,67.43,7,23.6005,495.6105,2021-09-10,19:00:32,Walmart Gift Cards,472.01,4.761904762,23.6005,7.7,Pradeep Chauhan,Saanvi Kumar
+120-08-7079,C,Ahmedabad,Member,Kavya Rajput,Female,Home and lifestyle,58.09,2,5.809,121.989,2015-09-21,12:11:02,Ewallet,116.18,4.761904762,5.809,6.3,Faizan Khan,Veda Singh
+496-23-6902,B,New Delhi,Normal,Chirag Kapoor,Male,Health and beauty,93.81,1,4.6905,98.5005,2016-05-19,12:18:34,Cash,93.81,4.761904762,4.6905,5.2,Lucky Singh,Megha Kapoor
+759-33-1093,B,Kochi,Member,Mukesh Kumar,Male,Sports and travel,82.36,6,24.708,518.868,2020-07-17,10:39:40,Ewallet,494.16,4.761904762,24.708,3.2,Mohit Sahu,Ishaani Sahu
+426-31-7235,A,Vishakhapatnam,Normal,Gaurav Tiwari,Male,Clothing,89.42,6,26.826,563.346,2020-06-03,23:59:54,Walmart Gift Cards,536.52,4.761904762,26.826,6.3,Karan Joshi,Megha Kapoor
+666-80-6200,D,Chennai,Member,Zaina Chauhan,Female,Health and beauty,14.02,2,1.402,29.442,2019-09-22,08:57:05,Ewallet,28.04,4.761904762,1.402,2,Aniket Yadav,Divya Chauhan
+551-08-5677,B,Indore,Normal,Saisha Khan,Female,Clothing,61.77,6,18.531,389.151,2019-09-02,14:29:27,Credit Card,370.62,4.761904762,18.531,7.2,Faizan Khan,Jiya Sahu
+276-19-1315,A,Ahmedabad,Normal,Gauri Singh,Female,Electronic accessories,11.61,4,2.322,48.762,2020-03-07,12:02:12,Walmart Gift Cards,46.44,4.761904762,2.322,3.7,Yash Patel,Bhavna Sharma
+256-60-5789,E,Chennai,Member,Ishaan Kumar,Male,Books,19.25,10,9.625,202.125,2015-11-27,11:21:14,Credit Card,192.5,4.761904762,9.625,4.7,Yogesh Mehta,Ishita Mehta
+724-99-9163,E,Agra,Normal,Ishaan Kumar,Male,Clothing,77.47,9,34.8615,732.0915,2023-03-18,21:00:54,Walmart Gift Cards,697.23,4.761904762,34.8615,6.1,Omkar Mehta,Rithika Joshi
+101-57-6283,B,Nashik,Member,Lavisha Kapoor,Female,Books,22.36,10,11.18,234.78,2019-03-15,00:38:52,Credit Card,223.6,4.761904762,11.18,3.7,Vivek Yadav,Zaina Tiwari
+115-02-7671,C,Vishakhapatnam,Member,Govind Tiwari,Male,Sports and travel,23.27,10,11.635,244.335,2016-04-10,00:10:58,Credit Card,232.7,4.761904762,11.635,6.6,Akash Sharma,Zoya Gupta
+310-51-3330,A,Bhopal,Normal,Yogesh Mehta,Male,Electronic accessories,84.05,8,33.62,706.02,2020-08-31,17:38:34,Ewallet,672.4,4.761904762,33.62,3.8,Ujjwal Gupta,Gauri Singh
+138-43-2975,C,Nagpur,Normal,Chetan Kumar,Male,Clothing,42.64,3,6.396,134.316,2019-03-07,00:22:32,Ewallet,127.92,4.761904762,6.396,2.8,Siddharth Reddy,Yashi Kapoor
+145-87-5035,D,Nashik,Normal,Fatima Joshi,Female,Health and beauty,81.84,1,4.092,85.932,2016-11-13,16:15:38,Ewallet,81.84,4.761904762,4.092,4.1,Zain Khan,Aaradhya Yadav
+656-51-0976,A,Jaipur,Normal,Prisha Khan,Female,Food and beverages,53.05,2,5.305,111.405,2017-01-16,07:59:54,Walmart Gift Cards,106.1,4.761904762,5.305,5.9,Deepak Verma,Gitanjali Sharma
+294-93-3235,C,Bangalore,Member,Umar Khan,Male,Sports and travel,72.14,9,32.463,681.723,2020-09-14,02:12:00,Ewallet,649.26,4.761904762,32.463,5.2,Omkar Joshi,Charul Yadav
+101-66-8112,D,Agra,Member,Pari Chauhan,Female,Electronic accessories,70.01,4,14.002,294.042,2016-11-29,18:06:20,Walmart Gift Cards,280.04,4.761904762,14.002,9.3,Naveen Sharma,Charvi Verma
+152-85-0533,E,Chennai,Member,Keshav Sharma,Male,Clothing,95.35,4,19.07,400.47,2015-06-10,04:10:04,Walmart Gift Cards,381.4,4.761904762,19.07,9.8,Zeeshan Patel,Qamar Yadav
+438-71-3382,B,Hyderabad,Member,Ira Kumar,Female,Sports and travel,58.34,10,29.17,612.57,2019-09-20,10:36:01,Ewallet,583.4,4.761904762,29.17,1.9,Arnav Patel,Gauri Singh
+844-19-2680,C,Mumbai,Normal,Om Prakash Sharma,Male,Health and beauty,59.65,3,8.9475,187.8975,2017-06-25,06:47:57,Cash,178.95,4.761904762,8.9475,2.4,Ayush Sharma,Hira Gupta
+977-81-3417,B,Lucknow,Normal,Mukesh Kumar,Male,Books,19.87,10,9.935,208.635,2017-03-03,05:44:21,Cash,198.7,4.761904762,9.935,6.4,Armaan Khan,Ishaani Sahu
+822-57-7820,C,Nagpur,Member,Ira Kumar,Female,Health and beauty,88.45,6,26.535,557.235,2016-08-21,14:32:46,Credit Card,530.7,4.761904762,26.535,4.1,Arnav Patel,Charvi Verma
+294-33-1739,E,Chennai,Normal,Dheeraj Yadav,Male,Health and beauty,82.11,3,12.3165,258.6465,2016-10-10,17:07:17,Cash,246.33,4.761904762,12.3165,2.7,Lokesh Tiwari,Bhavna Sharma
+564-23-1543,E,Kochi,Member,Lucky Singh,Male,Electronic accessories,84.58,9,38.061,799.281,2018-06-15,09:45:02,Walmart Gift Cards,761.22,4.761904762,38.061,1.4,Yash Patel,Charvi Verma
+429-25-1467,C,Kochi,Normal,Oviya Sharma,Female,Home and lifestyle,36.14,9,16.263,341.523,2020-02-20,09:36:15,Ewallet,325.26,4.761904762,16.263,1,Vikrant Tiwari,Vrinda Sharma
+313-08-5195,B,Kolkata,Normal,Sanika Verma,Female,Books,85.7,6,25.71,539.91,2015-03-04,14:47:06,Credit Card,514.2,4.761904762,25.71,8.1,Naman Verma,Elina Chauhan
+124-69-2849,D,Nashik,Normal,Prisha Khan,Female,Sports and travel,89.18,9,40.131,842.751,2016-10-12,16:20:10,Ewallet,802.62,4.761904762,40.131,4.6,Amar Singh,Oviya Sharma
+900-24-6049,E,Hyderabad,Member,Jatin Chauhan,Male,Food and beverages,86.03,5,21.5075,451.6575,2016-03-30,11:03:02,Credit Card,430.15,4.761904762,21.5075,2.3,Mohan Patel,Vanshika Gupta
+681-73-5259,A,Vadodara,Normal,Yogesh Mehta,Male,Health and beauty,51.04,6,15.312,321.552,2015-12-16,01:29:12,Cash,306.24,4.761904762,15.312,2.5,Aditya Singh,Chandni Joshi
+302-01-1264,E,Kolkata,Normal,Vrinda Sharma,Female,Sports and travel,67.38,9,30.321,636.741,2023-01-20,14:59:37,Cash,606.42,4.761904762,30.321,2.1,Lalit Yadav,Saisha Khan
+409-70-1276,E,Nashik,Member,Siddharth Reddy,Male,Health and beauty,77.93,4,15.586,327.306,2015-12-03,17:12:40,Ewallet,311.72,4.761904762,15.586,3.8,Zayd Khan,Eshaan Kapoor
+791-24-0207,B,Surat,Member,Arjun Patel,Male,Clothing,84.69,6,25.407,533.547,2015-05-19,14:23:30,Credit Card,508.14,4.761904762,25.407,8.3,Prakash Sahu,Mahira Verma
+397-43-3281,E,Jaipur,Member,Vanya Gupta,Female,Clothing,98.4,3,14.76,309.96,2023-06-06,08:52:36,Ewallet,295.2,4.761904762,14.76,7.3,Tarun Kumar,Meher Sharma
+695-29-7065,E,Mumbai,Member,Zahir Khan,Male,Clothing,94.07,6,28.221,592.641,2018-08-10,22:57:13,Walmart Gift Cards,564.42,4.761904762,28.221,1.5,Yogesh Mehta,Ginni Gupta
+665-87-8644,D,Agra,Normal,Sanya Verma,Female,Sports and travel,98.26,9,44.217,928.557,2021-02-27,17:13:20,Ewallet,884.34,4.761904762,44.217,4.5,Siddharth Reddy,Aditi Singh
+288-69-7190,C,Ahmedabad,Member,Deepak Verma,Male,Home and lifestyle,41.72,10,20.86,438.06,2021-08-09,12:46:30,Walmart Gift Cards,417.2,4.761904762,20.86,2.6,Arjun Patel,Zaina Chauhan
+728-30-0314,E,Pune,Normal,Lavina Yadav,Female,Electronic accessories,84.31,3,12.6465,265.5765,2017-08-12,21:39:50,Cash,252.93,4.761904762,12.6465,4.8,Lalit Yadav,Zara Tiwari
+204-11-9655,C,New Delhi,Member,Faisal Khan,Male,Home and lifestyle,83.33,10,41.665,874.965,2018-10-09,16:07:20,Ewallet,833.3,4.761904762,41.665,6.7,Mukesh Kumar,Gitanjali Sharma
+168-25-6968,A,Indore,Normal,Himanshu Kapoor,Male,Food and beverages,73.55,3,11.0325,231.6825,2018-07-28,04:46:30,Cash,220.65,4.761904762,11.0325,5.8,Govind Tiwari,Urvashi Joshi
+145-97-8245,E,Mumbai,Normal,Urvashi Joshi,Female,Books,84.69,9,38.1105,800.3205,2015-12-15,13:08:12,Cash,762.21,4.761904762,38.1105,5.4,Ishaan Kumar,Ojasvi Tiwari
+457-57-7372,C,Chennai,Member,Rajveer Gupta,Male,Sports and travel,19.25,1,0.9625,20.2125,2020-07-06,07:31:18,Walmart Gift Cards,19.25,4.761904762,0.9625,8.4,Harshit Patel,Kashish Kapoor
+285-98-1065,A,Bhopal,Normal,Oviya Sharma,Female,Books,94.82,3,14.223,298.683,2016-10-05,03:50:56,Cash,284.46,4.761904762,14.223,9.2,Ujjwal Gupta,Vrinda Sharma
+146-12-6534,C,Surat,Normal,Ira Kumar,Female,Sports and travel,10.56,2,1.056,22.176,2020-01-31,01:17:54,Ewallet,21.12,4.761904762,1.056,8.6,Jatin Chauhan,Nupur Singh
+730-07-5218,C,Nagpur,Member,Gauri Singh,Female,Electronic accessories,62.98,6,18.894,396.774,2015-02-21,07:50:24,Walmart Gift Cards,377.88,4.761904762,18.894,9.8,Pranav Rajput,Anika Patel
+514-27-4840,E,Lucknow,Normal,Yuvraj Yadav,Male,Electronic accessories,34.95,4,6.99,146.79,2019-12-18,17:19:43,Walmart Gift Cards,139.8,4.761904762,6.99,4.2,Jatin Chauhan,Sanya Verma
+486-19-8210,A,Lucknow,Normal,Nitin Singh,Male,Food and beverages,57.75,1,2.8875,60.6375,2018-09-14,22:16:43,Ewallet,57.75,4.761904762,2.8875,3.4,Chetan Kumar,Charvi Verma
+247-50-2096,C,Chennai,Normal,Qamar Yadav,Female,Sports and travel,35.97,1,1.7985,37.7685,2018-04-12,09:35:12,Walmart Gift Cards,35.97,4.761904762,1.7985,5.8,Manoj Sharma,Eshita Singh
+967-98-8200,D,Ahmedabad,Normal,Karthik Kapoor,Male,Clothing,70.26,8,28.104,590.184,2020-05-08,01:03:37,Walmart Gift Cards,562.08,4.761904762,28.104,3.5,Kaushal Yadav,Oishi Tiwari
+863-16-8950,B,Chennai,Member,Nishant Verma,Male,Electronic accessories,92.58,8,37.032,777.672,2016-04-11,08:51:13,Ewallet,740.64,4.761904762,37.032,5.4,Ravi Patel,Bhavika Kapoor
+121-99-6639,D,Indore,Member,Raghav Patel,Male,Home and lifestyle,39.66,6,11.898,249.858,2017-07-07,13:27:43,Cash,237.96,4.761904762,11.898,4.4,Sunil Verma,Lavanya Sharma
+542-65-9846,A,Surat,Member,Mohit Sahu,Male,Electronic accessories,52.51,1,2.6255,55.1355,2020-06-01,13:41:44,Cash,52.51,4.761904762,2.6255,4.5,Tanuj Mehta,Qiana Tiwari
+716-26-8679,E,Indore,Member,Prakash Sahu,Male,Sports and travel,28.13,7,9.8455,206.7555,2022-02-15,06:01:01,Walmart Gift Cards,196.91,4.761904762,9.8455,4,Ujjwal Gupta,Naina Rajput
+431-14-1947,D,Indore,Member,Govind Tiwari,Male,Books,66.4,3,9.96,209.16,2015-10-13,05:32:10,Credit Card,199.2,4.761904762,9.96,6.4,Farhan Khan,Rithika Joshi
+822-99-2853,D,Nagpur,Normal,Akash Sharma,Male,Clothing,36.43,8,14.572,306.012,2016-04-15,12:59:47,Walmart Gift Cards,291.44,4.761904762,14.572,4.8,Om Prakash Sharma,Parina Patel
+703-21-0285,D,Surat,Member,Kunal Gupta,Male,Sports and travel,30.88,5,7.72,162.12,2023-01-16,08:11:43,Walmart Gift Cards,154.4,4.761904762,7.72,4.4,Tejas Joshi,Ananya Patel
+834-16-3487,C,Pune,Member,Chandni Joshi,Female,Home and lifestyle,73.59,4,14.718,309.078,2017-12-10,16:41:24,Walmart Gift Cards,294.36,4.761904762,14.718,8,Karthik Kapoor,Ria Singh
+729-62-2691,E,Vishakhapatnam,Member,Kashish Kapoor,Female,Sports and travel,58.21,2,5.821,122.241,2022-08-24,09:34:17,Walmart Gift Cards,116.42,4.761904762,5.821,1.6,Sagar Mehta,Ginni Gupta
+579-05-6990,C,Kochi,Member,Yashvardhan Sharma,Male,Electronic accessories,51.3,10,25.65,538.65,2023-04-20,11:05:19,Credit Card,513,4.761904762,25.65,7.9,Gaurav Tiwari,Jhanvi Mehta
+449-91-1008,D,New Delhi,Member,Vikrant Tiwari,Male,Food and beverages,85.7,2,8.57,179.97,2015-11-19,20:49:36,Ewallet,171.4,4.761904762,8.57,5.2,Omkar Chauhan,Sanika Verma
+448-31-4370,A,Chennai,Member,Pradeep Chauhan,Male,Sports and travel,22.34,7,7.819,164.199,2020-12-29,13:05:23,Credit Card,156.38,4.761904762,7.819,6,Deepak Verma,Jia Kapoor
+372-43-4772,D,Nagpur,Member,Ishita Mehta,Female,Books,73.69,7,25.7915,541.6215,2016-11-26,00:37:17,Cash,515.83,4.761904762,25.7915,1.6,Eklavya Verma,Qiana Tiwari
+649-37-9699,B,Chennai,Member,Falak Patel,Female,Food and beverages,85.2,3,12.78,268.38,2015-03-08,04:13:16,Cash,255.6,4.761904762,12.78,9.7,Nishant Verma,Lavina Yadav
+409-78-6235,C,Bhopal,Member,Mahira Verma,Female,Books,15.31,9,6.8895,144.6795,2021-09-30,16:35:52,Ewallet,137.79,4.761904762,6.8895,1.1,Armaan Khan,Ananya Patel
+520-11-2075,D,Chennai,Member,Dev Patel,Male,Clothing,81.81,10,40.905,859.005,2023-11-25,10:19:15,Walmart Gift Cards,818.1,4.761904762,40.905,5.4,Lucky Singh,Veda Singh
+268-53-5311,B,Pune,Member,Karthik Kapoor,Male,Clothing,91.15,8,36.46,765.66,2015-07-22,13:20:09,Ewallet,729.2,4.761904762,36.46,5.2,Imran Khan,Nandini Patel
+355-02-4275,E,Indore,Member,Dev Patel,Male,Clothing,81.33,2,8.133,170.793,2023-11-02,14:39:50,Walmart Gift Cards,162.66,4.761904762,8.133,8.1,Zayd Khan,Lavina Yadav
+861-10-8476,E,New Delhi,Member,Falguni Mehta,Female,Clothing,15.2,1,0.76,15.96,2022-05-05,09:05:47,Cash,15.2,4.761904762,0.76,5.7,Dheeraj Yadav,Urvashi Joshi
+865-57-4194,C,Kolkata,Normal,Prakash Sahu,Male,Food and beverages,60.49,3,9.0735,190.5435,2018-03-26,08:37:16,Cash,181.47,4.761904762,9.0735,1.3,Karan Joshi,Zara Tiwari
+889-92-8141,A,Nashik,Normal,Govind Tiwari,Male,Health and beauty,47.02,5,11.755,246.855,2018-12-09,18:29:58,Cash,235.1,4.761904762,11.755,6,Jatin Chauhan,Pari Chauhan
+611-32-6722,A,Bangalore,Normal,Aditi Singh,Female,Food and beverages,54.47,1,2.7235,57.1935,2017-06-29,06:52:49,Cash,54.47,4.761904762,2.7235,9.4,Ishaan Kumar,Risha Joshi
+173-41-0900,E,Bangalore,Normal,Sanya Verma,Female,Clothing,64.71,3,9.7065,203.8365,2017-08-16,00:17:40,Cash,194.13,4.761904762,9.7065,5.9,Mohan Patel,Zaina Chauhan
+732-00-9677,D,Ahmedabad,Member,Nitin Singh,Male,Electronic accessories,94.44,6,28.332,594.972,2019-05-22,20:13:33,Walmart Gift Cards,566.64,4.761904762,28.332,2.5,Deepak Verma,Oviya Sharma
+476-46-1025,B,Vadodara,Member,Divya Chauhan,Female,Books,19.79,7,6.9265,145.4565,2017-06-14,21:58:08,Credit Card,138.53,4.761904762,6.9265,6.5,Kunal Gupta,Zoya Gupta
+456-21-3795,A,Vadodara,Normal,Jai Kapoor,Male,Food and beverages,49.78,8,19.912,418.152,2015-08-31,01:25:40,Credit Card,398.24,4.761904762,19.912,7.1,Gaurav Tiwari,Farah Joshi
+568-93-7201,E,Vadodara,Member,Gagan Singh,Male,Sports and travel,64.88,3,9.732,204.372,2015-06-05,19:21:13,Cash,194.64,4.761904762,9.732,5.5,Faizan Khan,Aashi Mehta
+805-75-3032,E,Indore,Member,Imran Khan,Male,Electronic accessories,68.48,2,6.848,143.808,2019-09-26,11:20:51,Credit Card,136.96,4.761904762,6.848,8.1,Arjun Patel,Nupur Singh
+941-26-7195,D,Mumbai,Normal,Lucky Singh,Male,Food and beverages,46.32,8,18.528,389.088,2022-09-20,18:41:47,Ewallet,370.56,4.761904762,18.528,8.3,Neeraj Singh,Aashi Mehta
+295-84-1145,D,Chennai,Normal,Ujala Kapoor,Female,Home and lifestyle,16.01,3,2.4015,50.4315,2021-10-29,06:15:28,Ewallet,48.03,4.761904762,2.4015,2.2,Rajveer Gupta,Chhavi Chauhan
+141-79-9204,C,Indore,Normal,Anushka Yadav,Female,Food and beverages,62.78,5,15.695,329.595,2022-08-21,13:56:34,Credit Card,313.9,4.761904762,15.695,5.4,Armaan Khan,Kashish Kapoor
+310-89-5627,C,Kolkata,Normal,Om Prakash Sharma,Male,Electronic accessories,36.56,4,7.312,153.552,2017-11-26,19:43:44,Credit Card,146.24,4.761904762,7.312,5.4,Sahil Gupta,Jiya Sahu
+183-28-7611,A,New Delhi,Normal,Yogesh Mehta,Male,Electronic accessories,59.87,10,29.935,628.635,2022-01-08,03:59:50,Ewallet,598.7,4.761904762,29.935,7,Aarav Kumar,Zara Tiwari
+519-91-0294,A,Vadodara,Member,Jatin Chauhan,Male,Sports and travel,65.62,2,6.562,137.802,2017-05-20,04:22:45,Cash,131.24,4.761904762,6.562,6.3,Jatin Chauhan,Lavisha Kapoor
+271-60-0577,B,Agra,Normal,Myra Patel,Female,Sports and travel,94.64,2,9.464,198.744,2020-12-19,16:18:24,Cash,189.28,4.761904762,9.464,5.6,Zain Khan,Jia Kapoor
+160-21-0780,D,Kochi,Normal,Ujala Kapoor,Female,Clothing,65.48,10,32.74,687.54,2018-11-18,18:10:18,Ewallet,654.8,4.761904762,32.74,8.8,Deepesh Verma,Gitanjali Sharma
+796-61-0608,C,Jaipur,Normal,Mohan Patel,Male,Food and beverages,69.42,4,13.884,291.564,2023-09-30,14:49:59,Cash,277.68,4.761904762,13.884,2.1,Deepak Verma,Leela Yadav
+835-60-5635,C,Kochi,Normal,Ujjwal Gupta,Male,Food and beverages,37.77,6,11.331,237.951,2023-10-17,19:38:45,Cash,226.62,4.761904762,11.331,6.4,Mukesh Kumar,Dia Mehta
+359-39-8368,E,Nagpur,Normal,Naveen Sharma,Male,Clothing,65.36,6,19.608,411.768,2016-11-30,04:50:10,Ewallet,392.16,4.761904762,19.608,1,Yogesh Mehta,Mahira Verma
+736-36-4394,A,Vadodara,Normal,Himanshu Kapoor,Male,Home and lifestyle,66.55,10,33.275,698.775,2023-09-20,04:06:29,Credit Card,665.5,4.761904762,33.275,6.8,Eshan Verma,Vrinda Sharma
+490-29-1662,E,New Delhi,Member,Ira Kumar,Female,Health and beauty,73.44,10,36.72,771.12,2019-12-25,14:15:28,Cash,734.4,4.761904762,36.72,2.8,Zahir Khan,Trisha Khan
+231-29-9638,E,Kochi,Normal,Faizan Khan,Male,Books,80.45,1,4.0225,84.4725,2015-11-08,20:59:35,Walmart Gift Cards,80.45,4.761904762,4.0225,7.4,Farhan Khan,Megha Kapoor
+495-61-2310,A,Chandigarh,Normal,Yashvardhan Sharma,Male,Health and beauty,36.91,4,7.382,155.022,2016-12-23,02:06:51,Cash,147.64,4.761904762,7.382,3.7,Deepak Verma,Yuvika Patel
+914-02-1723,E,Chennai,Normal,Chirag Kapoor,Male,Food and beverages,62.42,1,3.121,65.541,2015-11-13,16:43:15,Credit Card,62.42,4.761904762,3.121,3.1,Zeeshan Patel,Myra Patel
+896-86-7121,C,Chandigarh,Normal,Nandini Patel,Female,Health and beauty,29.74,10,14.87,312.27,2018-03-14,14:16:56,Credit Card,297.4,4.761904762,14.87,4.9,Armaan Khan,Kashvi Rajput
+509-00-6096,D,Nagpur,Normal,Deepak Verma,Male,Health and beauty,55.06,2,5.506,115.626,2022-09-26,07:44:39,Credit Card,110.12,4.761904762,5.506,2.7,Naman Verma,Kavya Rajput
+941-85-5166,A,Vadodara,Normal,Zoya Gupta,Female,Sports and travel,52.03,7,18.2105,382.4205,2023-07-17,16:24:56,Credit Card,364.21,4.761904762,18.2105,6.4,Inder Rajput,Bhavna Sharma
+381-60-6092,A,Nashik,Normal,Hetal Patel,Female,Sports and travel,39.77,3,5.9655,125.2755,2019-07-17,04:18:00,Ewallet,119.31,4.761904762,5.9655,1.9,Kaushal Yadav,Gauri Singh
+752-95-0673,E,Kolkata,Member,Jia Kapoor,Female,Home and lifestyle,54.61,2,5.461,114.681,2018-03-28,20:17:05,Credit Card,109.22,4.761904762,5.461,4.8,Himanshu Kapoor,Aashi Mehta
+818-01-8814,E,Ahmedabad,Member,Mohan Patel,Male,Clothing,59.85,1,2.9925,62.8425,2023-10-06,04:40:02,Cash,59.85,4.761904762,2.9925,1.1,Aryan Gupta,Oviya Sharma
+271-64-5917,D,Nagpur,Member,Zaina Chauhan,Female,Sports and travel,42.25,4,8.45,177.45,2019-03-12,21:22:37,Cash,169,4.761904762,8.45,7,Nishant Verma,Ria Singh
+885-23-4377,A,Nashik,Normal,Megha Kapoor,Female,Electronic accessories,24.45,5,6.1125,128.3625,2022-01-21,13:26:21,Credit Card,122.25,4.761904762,6.1125,6.6,Uday Sahu,Falak Patel
+281-10-3070,A,Indore,Member,Ayush Sharma,Male,Books,81.14,2,8.114,170.394,2022-04-14,05:42:53,Credit Card,162.28,4.761904762,8.114,5.6,Omkar Joshi,Bhavna Sharma
+481-25-4675,E,Vishakhapatnam,Normal,Bhoomi Tiwari,Female,Health and beauty,78.89,4,15.778,331.338,2022-11-09,21:16:12,Ewallet,315.56,4.761904762,15.778,5.2,Zeeshan Patel,Nupur Singh
+368-58-0016,A,Ahmedabad,Member,Kashvi Rajput,Female,Health and beauty,51.38,7,17.983,377.643,2019-05-16,22:02:36,Walmart Gift Cards,359.66,4.761904762,17.983,2.4,Yuvraj Yadav,Hina Gupta
+896-74-8891,C,Indore,Member,Lavisha Kapoor,Female,Sports and travel,62.28,3,9.342,196.182,2023-10-22,08:22:30,Cash,186.84,4.761904762,9.342,5.7,Farhan Khan,Falak Patel
+188-59-0589,A,Agra,Normal,Varun Singh,Male,Sports and travel,66.25,8,26.5,556.5,2018-09-22,05:11:41,Ewallet,530,4.761904762,26.5,1.7,Himanshu Kapoor,Vanya Gupta
+930-52-7539,E,New Delhi,Member,Zaina Chauhan,Female,Books,69.56,6,20.868,438.228,2017-05-04,23:21:58,Walmart Gift Cards,417.36,4.761904762,20.868,6.8,Vicky Singh,Zaina Chauhan
+124-77-0516,C,Bhopal,Member,Jhanvi Mehta,Female,Electronic accessories,26.55,7,9.2925,195.1425,2022-05-13,22:44:45,Cash,185.85,4.761904762,9.2925,2.8,Utkarsh Yadav,Veda Singh
+402-78-4818,A,Chennai,Member,Javed Khan,Male,Sports and travel,87.5,4,17.5,367.5,2023-05-11,01:11:05,Credit Card,350,4.761904762,17.5,2.7,Yash Patel,Lavina Yadav
+225-69-9172,E,Bangalore,Normal,Sagar Mehta,Male,Home and lifestyle,20.74,10,10.37,217.77,2023-01-06,03:15:15,Ewallet,207.4,4.761904762,10.37,6.5,Brijesh Sharma,Qiana Tiwari
+257-31-0803,C,Surat,Normal,Aditya Singh,Male,Health and beauty,14.8,7,5.18,108.78,2018-12-16,10:15:26,Walmart Gift Cards,103.6,4.761904762,5.18,9.1,Deepak Verma,Oviya Sharma
+517-23-6064,B,New Delhi,Member,Govind Tiwari,Male,Food and beverages,28.81,9,12.9645,272.2545,2016-09-11,17:14:59,Cash,259.29,4.761904762,12.9645,9.8,Lucky Singh,Zaina Tiwari
+622-45-6633,A,Nagpur,Member,Karan Joshi,Male,Home and lifestyle,40.94,6,12.282,257.922,2017-03-21,17:44:48,Ewallet,245.64,4.761904762,12.282,5.2,Mohan Patel,Urvi Khan
+513-94-6424,A,Vishakhapatnam,Normal,Zaina Chauhan,Female,Clothing,34.58,9,15.561,326.781,2015-09-05,10:47:23,Walmart Gift Cards,311.22,4.761904762,15.561,7.9,Tejas Joshi,Riddhi Verma
+341-50-4441,B,Ahmedabad,Normal,Aditya Singh,Male,Health and beauty,55.94,2,5.594,117.474,2020-01-27,03:56:08,Ewallet,111.88,4.761904762,5.594,3.2,Arjun Patel,Eesha Verma
+565-40-0381,E,Ahmedabad,Normal,Gauri Singh,Female,Food and beverages,44.65,10,22.325,468.825,2020-10-29,04:21:45,Credit Card,446.5,4.761904762,22.325,8.7,Neeraj Singh,Aanya Sharma
+987-51-6843,D,Vishakhapatnam,Member,Omkar Mehta,Male,Books,71.62,8,28.648,601.608,2022-12-02,12:17:50,Credit Card,572.96,4.761904762,28.648,3,Inder Rajput,Prisha Khan
+962-83-4749,A,Surat,Normal,Falak Patel,Female,Food and beverages,32.46,10,16.23,340.83,2023-09-09,17:57:35,Ewallet,324.6,4.761904762,16.23,8.4,Pranav Rajput,Zaina Chauhan
+442-30-3290,C,Pune,Member,Naina Rajput,Female,Food and beverages,98.07,3,14.7105,308.9205,2022-06-26,01:29:58,Walmart Gift Cards,294.21,4.761904762,14.7105,9.8,Deepesh Verma,Hina Gupta
+288-98-1571,A,Nashik,Member,Divisha Kapoor,Female,Electronic accessories,27.77,7,9.7195,204.1095,2022-11-30,20:40:29,Cash,194.39,4.761904762,9.7195,4.1,Varun Singh,Oviya Sharma
+560-73-4650,E,Chandigarh,Member,Gargi Kapoor,Female,Electronic accessories,28.82,7,10.087,211.827,2017-06-20,15:05:25,Cash,201.74,4.761904762,10.087,6.6,Amar Singh,Oviya Sharma
+742-71-4594,B,Hyderabad,Member,Pratik Chauhan,Male,Electronic accessories,10.64,8,4.256,89.376,2018-03-17,06:36:04,Ewallet,85.12,4.761904762,4.256,7.5,Inder Rajput,Bela Yadav
+822-47-1130,D,Jaipur,Member,Ayush Sharma,Male,Books,22.94,9,10.323,216.783,2015-09-29,22:32:58,Ewallet,206.46,4.761904762,10.323,8.1,Ishaan Kumar,Qamar Yadav
+992-28-6991,D,Vishakhapatnam,Member,Aaradhya Yadav,Female,Food and beverages,57.7,8,23.08,484.68,2019-02-08,12:21:29,Walmart Gift Cards,461.6,4.761904762,23.08,3,Kunal Gupta,Risha Joshi
+525-76-1740,C,Jaipur,Normal,Sunil Verma,Male,Home and lifestyle,56.37,6,16.911,355.131,2015-08-22,01:06:30,Walmart Gift Cards,338.22,4.761904762,16.911,1.7,Chetan Kumar,Zara Tiwari
+270-87-7477,D,Bangalore,Member,Ananya Patel,Female,Sports and travel,17.02,3,2.553,53.613,2016-08-16,01:21:22,Credit Card,51.06,4.761904762,2.553,9.5,Tushar Sahu,Urvashi Joshi
+930-15-7048,B,Pune,Normal,Anika Patel,Female,Electronic accessories,93.44,1,4.672,98.112,2023-08-19,11:37:13,Ewallet,93.44,4.761904762,4.672,7.1,Mohit Sahu,Urvashi Joshi
+398-29-3597,E,Kolkata,Member,Sunil Verma,Male,Electronic accessories,88.28,10,44.14,926.94,2019-07-06,23:55:35,Walmart Gift Cards,882.8,4.761904762,44.14,8.6,Ishan Verma,Chetana Sahu
+954-89-6983,B,Nashik,Normal,Eesha Verma,Female,Books,37.45,1,1.8725,39.3225,2016-03-29,10:56:11,Ewallet,37.45,4.761904762,1.8725,5.1,Omkar Joshi,Qiana Tiwari
+698-17-4582,C,Ahmedabad,Normal,Jagdish Yadav,Male,Books,90.72,5,22.68,476.28,2017-05-25,04:35:00,Walmart Gift Cards,453.6,4.761904762,22.68,2.8,Siddharth Reddy,Fatima Joshi
+980-84-7084,B,Surat,Member,Chhavi Chauhan,Female,Home and lifestyle,69.88,2,6.988,146.748,2015-02-27,19:46:01,Walmart Gift Cards,139.76,4.761904762,6.988,7.3,Kunal Gupta,Veda Singh
+543-88-1351,D,Bhopal,Normal,Urvashi Joshi,Female,Electronic accessories,24.25,9,10.9125,229.1625,2017-06-10,23:37:22,Ewallet,218.25,4.761904762,10.9125,6.6,Gagan Singh,Zoya Gupta
+449-93-1208,D,Vishakhapatnam,Member,Arnav Patel,Male,Books,25.91,7,9.0685,190.4385,2019-04-16,01:51:36,Ewallet,181.37,4.761904762,9.0685,2.1,Qureshi Khan,Gargi Kapoor
+254-25-6742,E,Nashik,Member,Pranav Rajput,Male,Electronic accessories,86.22,3,12.933,271.593,2023-12-18,03:43:31,Credit Card,258.66,4.761904762,12.933,5.5,Naman Verma,Aashi Mehta
+866-12-7049,D,Ahmedabad,Normal,Charul Yadav,Female,Books,20.43,6,6.129,128.709,2021-08-18,05:13:52,Cash,122.58,4.761904762,6.129,5.6,Raghav Patel,Oviya Sharma
+726-20-0921,A,Agra,Normal,Charul Yadav,Female,Sports and travel,28.68,9,12.906,271.026,2023-01-10,08:34:04,Walmart Gift Cards,258.12,4.761904762,12.906,2.8,Lakshay Sharma,Chetana Sahu
+955-64-8100,A,Chandigarh,Normal,Naina Rajput,Female,Books,79.82,6,23.946,502.866,2016-12-09,05:54:25,Ewallet,478.92,4.761904762,23.946,6.4,Ayush Sharma,Oorja Gupta
+320-95-8526,B,Bhopal,Normal,Aryan Gupta,Male,Home and lifestyle,19.71,7,6.8985,144.8685,2017-04-30,05:11:14,Ewallet,137.97,4.761904762,6.8985,3,Zain Khan,Tithira Kapoor
+965-63-8577,E,Mumbai,Normal,Hrishikesh Kapoor,Male,Health and beauty,47.53,9,21.3885,449.1585,2018-04-19,08:39:24,Credit Card,427.77,4.761904762,21.3885,3.4,Kunal Gupta,Ria Singh
+859-39-4784,A,Jaipur,Normal,Urvi Khan,Female,Food and beverages,97.43,2,9.743,204.603,2022-08-22,14:04:04,Credit Card,194.86,4.761904762,9.743,3.2,Zahir Khan,Ishana Sharma
+165-57-6181,D,Jaipur,Normal,Chirag Kapoor,Male,Sports and travel,33.97,2,3.397,71.337,2019-03-23,06:00:07,Walmart Gift Cards,67.94,4.761904762,3.397,5.3,Brijesh Sharma,Upasana Yadav
+955-39-8752,D,Surat,Member,Anika Patel,Female,Sports and travel,52.14,3,7.821,164.241,2016-07-31,03:53:18,Cash,156.42,4.761904762,7.821,4.7,Chetan Kumar,Ria Singh
+653-94-3002,E,Mumbai,Normal,Eesha Verma,Female,Electronic accessories,57.33,4,11.466,240.786,2023-07-16,21:38:37,Ewallet,229.32,4.761904762,11.466,9.6,Rajveer Gupta,Zaina Chauhan
+660-75-4750,C,Ahmedabad,Member,Hetal Patel,Female,Health and beauty,99.4,5,24.85,521.85,2022-10-28,10:27:23,Credit Card,497,4.761904762,24.85,7.4,Dev Patel,Aaradhya Yadav
+575-23-2218,E,Surat,Member,Trisha Khan,Female,Health and beauty,60.51,6,18.153,381.213,2017-09-24,23:33:57,Ewallet,363.06,4.761904762,18.153,5,Jai Kapoor,Mahira Verma
+977-04-6450,B,Pune,Normal,Keshav Sharma,Male,Clothing,54.31,1,2.7155,57.0255,2017-09-11,14:31:25,Ewallet,54.31,4.761904762,2.7155,3,Ujjwal Gupta,Nupur Singh
+774-96-4822,E,Lucknow,Normal,Yashi Kapoor,Female,Electronic accessories,51.56,1,2.578,54.138,2020-11-27,02:28:07,Credit Card,51.56,4.761904762,2.578,8.6,Raghav Patel,Kavya Rajput
+135-88-6364,E,Vishakhapatnam,Member,Sanya Verma,Female,Books,12.99,3,1.9485,40.9185,2019-07-24,15:35:46,Ewallet,38.97,4.761904762,1.9485,1.6,Aditya Singh,Gauri Singh
+989-36-4934,C,Jaipur,Member,Bhoomi Tiwari,Female,Food and beverages,21.43,4,4.286,90.006,2019-01-04,16:50:12,Ewallet,85.72,4.761904762,4.286,6.6,Amar Singh,Aanya Sharma
+166-30-1603,B,Jaipur,Normal,Faisal Khan,Male,Books,84.15,3,12.6225,265.0725,2018-05-31,01:10:58,Walmart Gift Cards,252.45,4.761904762,12.6225,3.6,Javed Khan,Jhanvi Mehta
+203-26-7705,D,Vadodara,Member,Ujjwal Gupta,Male,Electronic accessories,89.86,6,26.958,566.118,2022-02-10,23:36:56,Walmart Gift Cards,539.16,4.761904762,26.958,2.4,Uday Sahu,Eshaan Kapoor
+473-56-4923,C,Agra,Member,Rahul Sharma,Male,Sports and travel,29.73,7,10.4055,218.5155,2015-10-17,01:39:14,Walmart Gift Cards,208.11,4.761904762,10.4055,3.4,Aryan Gupta,Pari Chauhan
+756-60-3440,C,Kolkata,Normal,Jatin Chauhan,Male,Clothing,51.98,8,20.792,436.632,2020-11-04,14:51:06,Cash,415.84,4.761904762,20.792,7.3,Gaurav Tiwari,Vanshika Gupta
+796-06-5646,C,Mumbai,Normal,Kashvi Rajput,Female,Sports and travel,95.33,1,4.7665,100.0965,2017-12-24,18:20:29,Cash,95.33,4.761904762,4.7665,7.6,Mohit Sahu,Vanshika Gupta
+423-62-4375,C,Mumbai,Normal,Ayush Sharma,Male,Electronic accessories,25.91,6,7.773,163.233,2018-08-09,22:18:56,Walmart Gift Cards,155.46,4.761904762,7.773,1.8,Sunil Verma,Upasana Yadav
+492-70-5054,A,Ahmedabad,Normal,Mahira Verma,Female,Clothing,15.82,10,7.91,166.11,2021-02-11,19:00:19,Walmart Gift Cards,158.2,4.761904762,7.91,2.4,Qureshi Khan,Jigyasa Verma
+687-43-3474,D,Chandigarh,Member,Ananya Patel,Female,Books,61.7,4,12.34,259.14,2022-06-06,01:28:50,Walmart Gift Cards,246.8,4.761904762,12.34,4.4,Amar Singh,Lavanya Sharma
+132-32-8323,A,Kochi,Member,Rahul Sharma,Male,Books,49.4,5,12.35,259.35,2021-09-26,06:22:02,Ewallet,247,4.761904762,12.35,5.4,Ishan Verma,Vrinda Sharma
+438-17-2244,B,Ahmedabad,Normal,Nishant Verma,Male,Sports and travel,22.69,2,2.269,47.649,2019-08-03,11:35:09,Cash,45.38,4.761904762,2.269,1.3,Ayush Sharma,Zaina Tiwari
+206-23-0067,B,Chandigarh,Member,Bhavika Kapoor,Female,Sports and travel,41.37,9,18.6165,390.9465,2018-05-12,14:07:27,Credit Card,372.33,4.761904762,18.6165,6.4,Harshit Patel,Kanika Singh
+309-56-9691,A,Hyderabad,Member,Veda Singh,Female,Electronic accessories,78.48,1,3.924,82.404,2016-04-05,17:03:26,Ewallet,78.48,4.761904762,3.924,8.6,Yuvraj Yadav,Sanya Verma
+594-97-1933,B,Nagpur,Member,Naveen Sharma,Male,Clothing,60.74,10,30.37,637.77,2016-04-21,20:31:57,Ewallet,607.4,4.761904762,30.37,4.2,Ishaan Kumar,Tithira Kapoor
+553-90-4954,D,New Delhi,Normal,Eshita Singh,Female,Home and lifestyle,10.24,10,5.12,107.52,2018-02-12,23:20:03,Ewallet,102.4,4.761904762,5.12,3.7,Akash Sharma,Ishita Mehta
+479-61-4784,A,Ahmedabad,Member,Jigyasa Verma,Female,Sports and travel,24.5,10,12.25,257.25,2019-09-11,18:02:12,Ewallet,245,4.761904762,12.25,8.1,Nishant Verma,Trisha Khan
+428-56-1357,B,Chandigarh,Member,Kashvi Rajput,Female,Sports and travel,31.57,1,1.5785,33.1485,2017-09-04,18:06:26,Ewallet,31.57,4.761904762,1.5785,7.2,Nitin Singh,Zara Tiwari
+465-79-6105,B,Bhopal,Normal,Yash Patel,Male,Electronic accessories,24.58,5,6.145,129.045,2016-03-24,06:09:42,Ewallet,122.9,4.761904762,6.145,2.9,Gaurav Tiwari,Ishita Mehta
+912-33-1184,D,Mumbai,Member,Brijesh Sharma,Male,Health and beauty,14.74,9,6.633,139.293,2022-06-27,16:52:38,Cash,132.66,4.761904762,6.633,3.8,Jagdish Yadav,Nitya Yadav
+865-48-9480,D,Jaipur,Member,Bhavika Kapoor,Female,Books,44.83,6,13.449,282.429,2019-05-26,23:26:19,Ewallet,268.98,4.761904762,13.449,4.6,Akash Sharma,Bela Yadav
+390-86-3658,C,Kolkata,Normal,Mohan Patel,Male,Sports and travel,81.4,5,20.35,427.35,2016-02-24,20:19:53,Ewallet,407,4.761904762,20.35,8,Raghav Patel,Vanya Gupta
+267-19-1225,B,Vadodara,Member,Pratik Chauhan,Male,Electronic accessories,83.88,7,29.358,616.518,2023-06-10,19:53:26,Ewallet,587.16,4.761904762,29.358,6.1,Naveen Sharma,Anushka Yadav
+497-83-9678,E,Indore,Normal,Brijesh Sharma,Male,Sports and travel,68.84,10,34.42,722.82,2022-03-18,15:47:42,Credit Card,688.4,4.761904762,34.42,7.6,Rajveer Gupta,Falguni Mehta
+589-93-0322,D,New Delhi,Member,Jigyasa Verma,Female,Books,56.64,3,8.496,178.416,2016-04-09,15:47:23,Cash,169.92,4.761904762,8.496,3.8,Manoj Sharma,Falguni Mehta
+291-62-6078,C,Nashik,Member,Vanya Gupta,Female,Sports and travel,67.74,3,10.161,213.381,2018-09-26,10:26:53,Cash,203.22,4.761904762,10.161,2.8,Arnav Patel,Kashvi Rajput
+911-93-9640,A,New Delhi,Member,Gaurav Tiwari,Male,Sports and travel,79.7,2,7.97,167.37,2022-10-31,06:09:01,Walmart Gift Cards,159.4,4.761904762,7.97,5.8,Mukesh Kumar,Fatima Joshi
+101-64-0865,B,Chennai,Normal,Hrishikesh Kapoor,Male,Food and beverages,91.54,10,45.77,961.17,2015-09-20,01:19:59,Credit Card,915.4,4.761904762,45.77,1.1,Tanuj Mehta,Lavanya Sharma
+350-92-5261,A,Pune,Member,Parina Patel,Female,Electronic accessories,97.2,4,19.44,408.24,2019-11-27,04:42:28,Walmart Gift Cards,388.8,4.761904762,19.44,3.4,Gaurav Tiwari,Hira Gupta
+430-09-3997,B,Surat,Normal,Om Prakash Sharma,Male,Health and beauty,42.67,2,4.267,89.607,2020-10-02,08:40:07,Credit Card,85.34,4.761904762,4.267,1.7,Omkar Mehta,Sanika Verma
+842-29-9483,C,Nagpur,Member,Gauri Singh,Female,Food and beverages,43.48,1,2.174,45.654,2015-08-11,20:50:10,Ewallet,43.48,4.761904762,2.174,9.8,Tushar Sahu,Kashish Kapoor
+924-11-3189,C,Chennai,Member,Aashi Mehta,Female,Health and beauty,40.42,8,16.168,339.528,2020-05-21,15:37:49,Ewallet,323.36,4.761904762,16.168,4.5,Harshit Patel,Gitanjali Sharma
+364-99-2560,B,Vishakhapatnam,Normal,Neeraj Singh,Male,Sports and travel,99.55,8,39.82,836.22,2017-09-11,12:43:31,Credit Card,796.4,4.761904762,39.82,6.6,Vicky Singh,Lavina Yadav
+191-78-9206,C,New Delhi,Normal,Deepesh Verma,Male,Health and beauty,41.76,9,18.792,394.632,2023-03-22,15:30:45,Cash,375.84,4.761904762,18.792,7.5,Neeraj Singh,Sanika Verma
+934-82-7088,C,Kolkata,Member,Umar Khan,Male,Food and beverages,66.66,1,3.333,69.993,2016-09-24,22:45:34,Cash,66.66,4.761904762,3.333,9.5,Chirag Kapoor,Meher Sharma
+669-96-3822,B,New Delhi,Normal,Raghav Patel,Male,Food and beverages,50.41,2,5.041,105.861,2016-08-14,08:51:05,Cash,100.82,4.761904762,5.041,5.5,Aditya Singh,Sanya Verma
+164-04-2510,B,Ahmedabad,Normal,Utkarsh Yadav,Male,Sports and travel,92.68,3,13.902,291.942,2019-08-02,02:57:22,Credit Card,278.04,4.761904762,13.902,6.4,Farhan Khan,Qamar Yadav
+228-52-9548,B,Mumbai,Normal,Charvi Verma,Female,Home and lifestyle,84.97,2,8.497,178.437,2023-08-05,00:21:09,Walmart Gift Cards,169.94,4.761904762,8.497,7.9,Umar Khan,Zaina Tiwari
+646-31-9037,D,Bangalore,Normal,Zaina Chauhan,Female,Books,24.73,5,6.1825,129.8325,2022-01-11,11:49:41,Cash,123.65,4.761904762,6.1825,4.6,Tarun Kumar,Prisha Khan
+427-82-0354,E,Agra,Member,Gagan Singh,Male,Sports and travel,80.81,3,12.1215,254.5515,2019-06-21,16:50:52,Cash,242.43,4.761904762,12.1215,5.8,Om Prakash Sharma,Mahira Verma
+101-31-0777,C,Vishakhapatnam,Member,Farhan Khan,Male,Sports and travel,63.84,6,19.152,402.192,2020-11-21,01:28:12,Credit Card,383.04,4.761904762,19.152,1.1,Arjun Patel,Pari Chauhan
+814-86-7212,A,Bangalore,Normal,Tejas Joshi,Male,Sports and travel,88.48,1,4.424,92.904,2018-03-21,00:29:57,Ewallet,88.48,4.761904762,4.424,9.2,Zayd Khan,Farah Joshi
+415-80-6434,E,Jaipur,Member,Yash Patel,Male,Health and beauty,78.31,10,39.155,822.255,2022-01-02,21:01:59,Ewallet,783.1,4.761904762,39.155,9,Armaan Khan,Lavisha Kapoor
+628-70-2718,B,Mumbai,Normal,Jia Kapoor,Female,Food and beverages,56.92,5,14.23,298.83,2023-09-26,08:17:47,Credit Card,284.6,4.761904762,14.23,2.2,Jatin Chauhan,Chhavi Chauhan
+472-55-5852,D,Chennai,Member,Aniket Yadav,Male,Food and beverages,99.26,4,19.852,416.892,2019-08-29,18:09:45,Ewallet,397.04,4.761904762,19.852,1.8,Yash Patel,Farah Joshi
+682-67-0178,C,Ahmedabad,Normal,Deepak Verma,Male,Sports and travel,30.42,7,10.647,223.587,2022-02-06,14:49:39,Ewallet,212.94,4.761904762,10.647,3.7,Dev Patel,Sanya Verma
+317-70-9411,A,Mumbai,Member,Arjun Patel,Male,Sports and travel,93.29,5,23.3225,489.7725,2023-05-16,19:10:52,Walmart Gift Cards,466.45,4.761904762,23.3225,5.2,Farhan Khan,Gargi Kapoor
+846-28-0951,E,Surat,Normal,Hina Gupta,Female,Electronic accessories,23.31,5,5.8275,122.3775,2015-08-01,16:17:56,Cash,116.55,4.761904762,5.8275,1.4,Tarun Kumar,Charul Yadav
+596-70-0351,B,Agra,Normal,Divya Chauhan,Female,Food and beverages,29.81,7,10.4335,219.1035,2022-12-13,23:38:44,Credit Card,208.67,4.761904762,10.4335,4.7,Harsh Joshi,Riddhi Verma
+274-34-0362,E,Jaipur,Normal,Riddhi Verma,Female,Books,15.84,7,5.544,116.424,2023-11-08,14:52:03,Credit Card,110.88,4.761904762,5.544,7.9,Abhishek Yadav,Vanya Gupta
+582-06-0421,D,Indore,Normal,Dheeraj Yadav,Male,Electronic accessories,15.94,1,0.797,16.737,2023-09-26,16:55:23,Credit Card,15.94,4.761904762,0.797,3.8,Bhushan Sharma,Ginni Gupta
+135-90-6649,E,Kolkata,Normal,Ujala Kapoor,Female,Sports and travel,13.34,8,5.336,112.056,2019-05-31,01:14:34,Cash,106.72,4.761904762,5.336,9.9,Omkar Joshi,Bhavika Kapoor
+928-71-0318,D,Kochi,Normal,Aditya Singh,Male,Books,77.76,4,15.552,326.592,2023-07-24,15:11:02,Cash,311.04,4.761904762,15.552,4.7,Vikrant Tiwari,Gargi Kapoor
+309-55-6933,E,Bhopal,Normal,Naveen Sharma,Male,Clothing,81.47,1,4.0735,85.5435,2020-02-23,18:57:48,Walmart Gift Cards,81.47,4.761904762,4.0735,3.8,Zahir Khan,Hira Gupta
+159-13-1150,D,Bangalore,Normal,Oishi Tiwari,Female,Home and lifestyle,36.36,7,12.726,267.246,2023-07-17,14:00:36,Credit Card,254.52,4.761904762,12.726,1.4,Zayd Khan,Urvi Khan
+309-11-3416,D,Vishakhapatnam,Member,Sagar Mehta,Male,Food and beverages,13.58,6,4.074,85.554,2018-03-19,07:16:21,Cash,81.48,4.761904762,4.074,5.3,Jagdish Yadav,Naina Rajput
+896-74-3939,B,Vishakhapatnam,Normal,Omkar Chauhan,Male,Home and lifestyle,28.85,7,10.0975,212.0475,2017-05-12,13:56:19,Cash,201.95,4.761904762,10.0975,4.7,Keshav Sharma,Saanvi Kumar
+430-45-2571,D,Surat,Normal,Lucky Singh,Male,Sports and travel,36.07,5,9.0175,189.3675,2022-08-22,05:32:20,Credit Card,180.35,4.761904762,9.0175,9.4,Bhuvan Chauhan,Nandini Patel
+907-84-8427,E,Nashik,Member,Arnav Patel,Male,Health and beauty,55.62,10,27.81,584.01,2020-08-26,16:48:45,Ewallet,556.2,4.761904762,27.81,3.4,Omkar Joshi,Mahira Verma
+805-61-2919,E,Kochi,Normal,Pihu Gupta,Female,Books,32.37,1,1.6185,33.9885,2016-07-27,14:01:53,Ewallet,32.37,4.761904762,1.6185,3.7,Arjun Patel,Lavina Yadav
+565-46-4982,A,Lucknow,Normal,Bhavya Tiwari,Female,Sports and travel,81.98,5,20.495,430.395,2019-05-01,14:46:32,Credit Card,409.9,4.761904762,20.495,9.2,Arnav Patel,Jigyasa Verma
+275-77-4965,B,Chandigarh,Member,Aashi Mehta,Female,Sports and travel,80.61,8,32.244,677.124,2020-01-12,07:40:55,Walmart Gift Cards,644.88,4.761904762,32.244,4.8,Sahil Gupta,Nitya Yadav
+530-06-0106,A,Vadodara,Member,Saanvi Kumar,Female,Home and lifestyle,17.6,8,7.04,147.84,2020-06-25,08:00:48,Ewallet,140.8,4.761904762,7.04,3.7,Pradeep Chauhan,Hira Gupta
+955-77-0697,E,Nashik,Member,Mukesh Kumar,Male,Health and beauty,38.76,5,9.69,203.49,2023-04-29,08:22:42,Credit Card,193.8,4.761904762,9.69,2.7,Dinesh Yadav,Ginni Gupta
+527-90-4415,A,Kochi,Member,Gargi Kapoor,Female,Clothing,64.98,3,9.747,204.687,2019-11-22,02:37:54,Walmart Gift Cards,194.94,4.761904762,9.747,6.5,Deepak Verma,Urvashi Joshi
+135-85-5578,E,Indore,Member,Hetal Patel,Female,Books,61.06,9,27.477,577.017,2020-11-18,17:11:29,Cash,549.54,4.761904762,27.477,7.3,Mohan Patel,Tithira Kapoor
+556-01-3074,C,Kochi,Normal,Kashvi Rajput,Female,Home and lifestyle,46.54,5,11.635,244.335,2021-07-28,00:59:42,Credit Card,232.7,4.761904762,11.635,2.2,Dheeraj Yadav,Gauri Singh
+723-12-7849,D,Mumbai,Normal,Jiya Sahu,Female,Health and beauty,52.14,4,10.428,218.988,2016-03-15,07:36:07,Ewallet,208.56,4.761904762,10.428,6.9,Siddharth Reddy,Eesha Verma
+219-36-6916,C,Nagpur,Member,Neeraj Singh,Male,Electronic accessories,80.88,1,4.044,84.924,2019-11-17,11:56:09,Walmart Gift Cards,80.88,4.761904762,4.044,8.8,Chirag Kapoor,Trisha Khan
+257-10-2057,C,Nashik,Normal,Aditya Singh,Male,Home and lifestyle,47.72,9,21.474,450.954,2021-11-26,19:54:55,Ewallet,429.48,4.761904762,21.474,9.1,Prakash Sahu,Sanika Verma
+910-33-0919,E,Vishakhapatnam,Member,Ishan Verma,Male,Health and beauty,55.23,10,27.615,579.915,2017-12-05,07:49:20,Credit Card,552.3,4.761904762,27.615,4.9,Jai Kapoor,Naina Rajput
+878-74-1466,E,Vadodara,Normal,Vivek Yadav,Male,Books,42.79,9,19.2555,404.3655,2023-09-19,08:11:42,Cash,385.11,4.761904762,19.2555,10,Farhan Khan,Vanya Gupta
+328-61-7206,C,Nashik,Normal,Aryan Gupta,Male,Books,23.7,1,1.185,24.885,2016-10-13,05:48:43,Cash,23.7,4.761904762,1.185,3.2,Dev Patel,Sanika Verma
+597-25-0236,A,Pune,Normal,Chhavi Chauhan,Female,Health and beauty,47.12,8,18.848,395.808,2022-08-13,17:37:29,Cash,376.96,4.761904762,18.848,3.5,Siddharth Reddy,Urvi Khan
+552-32-9924,B,New Delhi,Member,Qiana Tiwari,Female,Sports and travel,36.79,6,11.037,231.777,2016-03-25,19:49:11,Cash,220.74,4.761904762,11.037,8.2,Dev Patel,Tanisha Patel
+286-94-9164,A,Nagpur,Normal,Bhavna Sharma,Female,Electronic accessories,70.59,8,28.236,592.956,2023-06-17,08:34:13,Credit Card,564.72,4.761904762,28.236,9.4,Ayush Sharma,Saanvi Kumar
+353-94-4347,C,Ahmedabad,Normal,Hema Sahu,Female,Food and beverages,96.61,3,14.4915,304.3215,2023-06-04,01:47:16,Walmart Gift Cards,289.83,4.761904762,14.4915,4.8,Raghav Patel,Trisha Khan
+980-75-6209,A,Kolkata,Member,Zara Tiwari,Female,Food and beverages,36.58,4,7.316,153.636,2023-09-13,16:52:02,Walmart Gift Cards,146.32,4.761904762,7.316,2.1,Rohit Patel,Kanika Singh
+689-68-7525,A,Bhopal,Member,Devanshi Tiwari,Female,Health and beauty,35.02,5,8.755,183.855,2015-03-26,07:37:44,Cash,175.1,4.761904762,8.755,4.9,Parth Kapoor,Farah Joshi
+375-61-9603,C,Bhopal,Member,Zayd Khan,Male,Books,92.65,2,9.265,194.565,2021-01-28,00:08:39,Walmart Gift Cards,185.3,4.761904762,9.265,4.3,Vicky Singh,Chandni Joshi
+714-69-0908,A,Mumbai,Normal,Jiya Sahu,Female,Health and beauty,38.17,8,15.268,320.628,2018-05-13,18:28:51,Walmart Gift Cards,305.36,4.761904762,15.268,9.4,Eklavya Verma,Riddhi Verma
+567-47-8474,C,Bangalore,Normal,Zeeshan Patel,Male,Sports and travel,26.72,3,4.008,84.168,2022-11-23,10:09:22,Cash,80.16,4.761904762,4.008,8.6,Faisal Khan,Qiana Tiwari
+410-27-8345,D,Chandigarh,Normal,Naina Rajput,Female,Sports and travel,94.58,6,28.374,595.854,2016-04-04,21:13:57,Cash,567.48,4.761904762,28.374,2.4,Imran Khan,Aanya Sharma
+923-03-3400,B,Jaipur,Normal,Gargi Kapoor,Female,Food and beverages,70.25,6,21.075,442.575,2020-05-14,03:01:14,Ewallet,421.5,4.761904762,21.075,6.7,Pradeep Chauhan,Anika Patel
+882-44-6445,D,Hyderabad,Normal,Nitya Yadav,Female,Sports and travel,24.38,8,9.752,204.792,2019-10-06,15:12:59,Walmart Gift Cards,195.04,4.761904762,9.752,1.8,Uday Sahu,Lavina Yadav
+727-19-4989,B,Nagpur,Normal,Vanya Gupta,Female,Books,74.48,3,11.172,234.612,2017-01-03,11:32:21,Cash,223.44,4.761904762,11.172,2.6,Jai Kapoor,Kanika Singh
+463-41-8813,A,Nashik,Normal,Aarav Kumar,Male,Food and beverages,12.33,1,0.6165,12.9465,2022-10-12,13:48:51,Cash,12.33,4.761904762,0.6165,2.1,Ujjwal Gupta,Aanya Sharma
+618-24-5367,D,Kochi,Member,Tejas Joshi,Male,Health and beauty,82.45,3,12.3675,259.7175,2015-06-24,00:04:03,Cash,247.35,4.761904762,12.3675,9.7,Yash Patel,Jhanvi Mehta
+940-34-3596,B,Jaipur,Member,Javed Khan,Male,Home and lifestyle,15,7,5.25,110.25,2016-03-10,03:46:41,Walmart Gift Cards,105,4.761904762,5.25,2.3,Vivek Yadav,Saanvi Kumar
+707-51-8631,D,New Delhi,Member,Jigyasa Verma,Female,Food and beverages,17.54,2,1.754,36.834,2021-06-02,21:01:21,Walmart Gift Cards,35.08,4.761904762,1.754,3.4,Hitesh Yadav,Devanshi Tiwari
+248-81-1579,A,Jaipur,Member,Arnav Patel,Male,Clothing,45.41,7,15.8935,333.7635,2021-06-01,18:25:19,Ewallet,317.87,4.761904762,15.8935,4.8,Yash Patel,Lavisha Kapoor
+542-11-1530,D,Vadodara,Normal,Fatima Joshi,Female,Clothing,76.5,8,30.6,642.6,2020-07-25,04:28:45,Credit Card,612,4.761904762,30.6,1.2,Umar Khan,Jhanvi Mehta
+813-75-8257,D,Surat,Member,Zaina Tiwari,Female,Clothing,52.97,5,13.2425,278.0925,2017-03-21,00:29:11,Cash,264.85,4.761904762,13.2425,7.6,Arnav Patel,Ujala Kapoor
+293-42-0332,B,New Delhi,Normal,Arnav Patel,Male,Home and lifestyle,71.34,2,7.134,149.814,2021-07-16,04:29:50,Ewallet,142.68,4.761904762,7.134,9.9,Lokesh Tiwari,Jigyasa Verma
+139-15-7697,B,New Delhi,Normal,Yashvardhan Sharma,Male,Electronic accessories,40.17,3,6.0255,126.5355,2017-08-04,05:17:38,Ewallet,120.51,4.761904762,6.0255,6.7,Qureshi Khan,Risha Joshi
+972-12-1117,C,Bhopal,Member,Aditi Singh,Female,Electronic accessories,14.93,8,5.972,125.412,2022-03-22,16:58:04,Credit Card,119.44,4.761904762,5.972,9.8,Sahil Gupta,Aanya Sharma
+441-20-3272,B,Nagpur,Member,Deepak Verma,Male,Food and beverages,14.64,3,2.196,46.116,2022-04-22,17:32:25,Cash,43.92,4.761904762,2.196,7.9,Tarun Kumar,Kashvi Rajput
+682-83-7586,A,Nagpur,Normal,Bela Yadav,Female,Clothing,21.43,3,3.2145,67.5045,2023-10-16,11:45:13,Walmart Gift Cards,64.29,4.761904762,3.2145,6.1,Harshit Patel,Hema Sahu
+770-70-4227,E,Kolkata,Normal,Zoya Gupta,Female,Home and lifestyle,38.21,9,17.1945,361.0845,2020-04-21,12:17:39,Credit Card,343.89,4.761904762,17.1945,5.1,Chirag Kapoor,Chetana Sahu
+635-75-5658,A,Mumbai,Member,Raghav Patel,Male,Electronic accessories,95.45,1,4.7725,100.2225,2018-07-28,17:32:38,Ewallet,95.45,4.761904762,4.7725,3.4,Bhuvan Chauhan,Lavisha Kapoor
+270-31-8856,E,Pune,Member,Sagar Mehta,Male,Books,16.8,10,8.4,176.4,2022-05-20,17:02:53,Cash,168,4.761904762,8.4,3,Harshit Patel,Charvi Verma
+544-74-1225,C,Vadodara,Member,Queenie Sharma,Female,Clothing,57.3,4,11.46,240.66,2023-01-14,06:50:39,Credit Card,229.2,4.761904762,11.46,7.8,Faisal Khan,Vanya Gupta
+284-92-1626,B,Bhopal,Normal,Lavisha Kapoor,Female,Books,42.36,7,14.826,311.346,2017-01-23,03:18:08,Walmart Gift Cards,296.52,4.761904762,14.826,9.4,Aniket Yadav,Lavanya Sharma
+524-30-4862,A,Chandigarh,Member,Gauri Singh,Female,Home and lifestyle,32.62,6,9.786,205.506,2015-04-10,01:23:19,Cash,195.72,4.761904762,9.786,7.9,Imran Khan,Hira Gupta
+870-60-0732,E,Vishakhapatnam,Normal,Urvashi Joshi,Female,Sports and travel,53.67,3,8.0505,169.0605,2020-04-27,13:25:02,Walmart Gift Cards,161.01,4.761904762,8.0505,7.5,Himanshu Kapoor,Sanya Verma
+683-55-2649,C,Nagpur,Normal,Zaina Tiwari,Female,Health and beauty,78.5,8,31.4,659.4,2017-11-20,12:29:07,Credit Card,628,4.761904762,31.4,6.3,Zeeshan Patel,Aaradhya Yadav
+894-05-5325,D,Nashik,Normal,Rohit Patel,Male,Clothing,86.01,2,8.601,180.621,2020-03-09,01:29:38,Walmart Gift Cards,172.02,4.761904762,8.601,9.1,Aarav Kumar,Oviya Sharma
+531-90-0146,B,Nagpur,Normal,Jatin Chauhan,Male,Electronic accessories,59.42,9,26.739,561.519,2017-07-02,08:37:48,Walmart Gift Cards,534.78,4.761904762,26.739,6,Sagar Mehta,Oviya Sharma
+451-87-0729,C,Indore,Normal,Tithira Kapoor,Female,Home and lifestyle,83.4,8,33.36,700.56,2023-12-30,13:45:53,Cash,667.2,4.761904762,33.36,3.7,Neeraj Singh,Saisha Khan
+306-94-8091,C,Jaipur,Normal,Saanvi Kumar,Female,Home and lifestyle,50.27,8,20.108,422.268,2023-11-02,05:22:06,Walmart Gift Cards,402.16,4.761904762,20.108,6.9,Yashvardhan Sharma,Sanika Verma
+773-47-2535,E,Chennai,Member,Myra Patel,Female,Books,93.61,5,23.4025,491.4525,2019-01-14,22:19:51,Ewallet,468.05,4.761904762,23.4025,1.7,Bhushan Sharma,Zara Tiwari
+602-98-4740,D,Indore,Normal,Zahir Khan,Male,Home and lifestyle,23,4,4.6,96.6,2022-09-24,17:53:45,Credit Card,92,4.761904762,4.6,6.7,Lokesh Tiwari,Tanya Rajput
+465-48-2561,E,Kolkata,Member,Sahil Gupta,Male,Health and beauty,78.88,9,35.496,745.416,2020-04-07,07:45:25,Ewallet,709.92,4.761904762,35.496,7.2,Omkar Joshi,Upasana Yadav
+382-85-6470,B,Chennai,Normal,Uday Sahu,Male,Sports and travel,94.05,9,42.3225,888.7725,2023-03-07,10:11:01,Ewallet,846.45,4.761904762,42.3225,3.9,Lucky Singh,Lavanya Sharma
+254-52-4890,A,Jaipur,Member,Akash Sharma,Male,Sports and travel,79,10,39.5,829.5,2021-08-30,10:41:31,Cash,790,4.761904762,39.5,8.1,Himanshu Kapoor,Hetal Patel
+455-52-0226,B,Vishakhapatnam,Normal,Eshita Singh,Female,Electronic accessories,21.1,7,7.385,155.085,2015-03-18,01:18:23,Walmart Gift Cards,147.7,4.761904762,7.385,7.5,Pratik Chauhan,Zara Tiwari
+943-86-8626,D,Vishakhapatnam,Member,Neeraj Singh,Male,Clothing,72.22,1,3.611,75.831,2016-08-12,05:45:56,Credit Card,72.22,4.761904762,3.611,2.5,Aarav Kumar,Gargi Kapoor
+775-85-1433,D,Chandigarh,Member,Kashvi Rajput,Female,Food and beverages,47.27,8,18.908,397.068,2021-05-25,18:50:01,Cash,378.16,4.761904762,18.908,2.3,Prakash Sahu,Oviya Sharma
+903-07-4735,E,Surat,Normal,Elina Chauhan,Female,Books,50.76,1,2.538,53.298,2017-08-10,15:56:31,Cash,50.76,4.761904762,2.538,3.2,Inder Rajput,Jigyasa Verma
+796-93-7490,C,Hyderabad,Normal,Omkar Mehta,Male,Clothing,84.92,7,29.722,624.162,2017-01-13,06:08:18,Ewallet,594.44,4.761904762,29.722,7.2,Rohit Patel,Bela Yadav
+503-27-2775,D,Kolkata,Normal,Oviya Sharma,Female,Electronic accessories,75.57,10,37.785,793.485,2015-07-09,17:29:12,Ewallet,755.7,4.761904762,37.785,2.6,Eklavya Verma,Bhavya Tiwari
+273-15-7910,A,Bangalore,Normal,Aanya Sharma,Female,Clothing,78.52,9,35.334,742.014,2015-12-09,19:44:51,Credit Card,706.68,4.761904762,35.334,9.9,Omkar Joshi,Gauri Singh
+520-88-2416,B,Kolkata,Normal,Oorja Gupta,Female,Books,80.65,9,36.2925,762.1425,2018-04-11,01:51:19,Credit Card,725.85,4.761904762,36.2925,2.3,Gopal Tiwari,Divya Chauhan
+165-17-1120,E,Hyderabad,Normal,Kaushal Yadav,Male,Books,49.58,2,4.958,104.118,2020-04-19,11:41:33,Cash,99.16,4.761904762,4.958,1.4,Varun Singh,Vrinda Sharma
+294-37-5908,B,Agra,Member,Lavina Yadav,Female,Home and lifestyle,33.64,5,8.41,176.61,2020-11-29,06:09:09,Ewallet,168.2,4.761904762,8.41,1.5,Aditya Singh,Divisha Kapoor
+346-13-8271,B,Pune,Normal,Megha Kapoor,Female,Clothing,26.16,2,2.616,54.936,2020-07-16,16:23:11,Credit Card,52.32,4.761904762,2.616,2.6,Tanuj Mehta,Chhavi Chauhan
+899-72-8484,A,Vishakhapatnam,Normal,Naman Verma,Male,Sports and travel,22.01,6,6.603,138.663,2018-05-11,09:10:33,Cash,132.06,4.761904762,6.603,8.9,Omkar Mehta,Vrinda Sharma
+108-07-4058,E,Pune,Normal,Aryan Gupta,Male,Electronic accessories,15.71,8,6.284,131.964,2018-11-19,12:56:41,Credit Card,125.68,4.761904762,6.284,3.2,Zahir Khan,Bhavika Kapoor
+636-01-1053,B,Pune,Normal,Ginni Gupta,Female,Books,24.93,4,4.986,104.706,2020-04-01,06:12:02,Credit Card,99.72,4.761904762,4.986,7.6,Govind Tiwari,Mahira Verma
+644-39-2141,B,Bangalore,Member,Eklavya Verma,Male,Books,23.19,8,9.276,194.796,2021-08-30,03:57:29,Cash,185.52,4.761904762,9.276,7.1,Varun Singh,Falak Patel
+591-44-5189,A,Pune,Normal,Amar Singh,Male,Books,19.81,8,7.924,166.404,2022-05-03,19:13:05,Walmart Gift Cards,158.48,4.761904762,7.924,5.2,Omkar Mehta,Megha Kapoor
+861-09-0939,A,Vishakhapatnam,Member,Ekta Joshi,Female,Home and lifestyle,24.11,9,10.8495,227.8395,2018-07-04,01:22:44,Ewallet,216.99,4.761904762,10.8495,1.2,Siddharth Reddy,Vanshika Gupta
+608-27-6633,E,Pune,Normal,Falak Patel,Female,Books,59.07,4,11.814,248.094,2023-09-18,10:46:41,Ewallet,236.28,4.761904762,11.814,6.7,Om Prakash Sharma,Falak Patel
+886-49-9216,C,Pune,Member,Himanshu Kapoor,Male,Food and beverages,46.58,1,2.329,48.909,2016-03-08,03:02:24,Ewallet,46.58,4.761904762,2.329,3.5,Imran Khan,Lavina Yadav
+430-95-7498,A,New Delhi,Member,Rahul Sharma,Male,Electronic accessories,33.25,3,4.9875,104.7375,2023-11-27,15:16:07,Cash,99.75,4.761904762,4.9875,4.1,Sagar Mehta,Lavina Yadav
+695-27-5580,C,Hyderabad,Member,Jiya Sahu,Female,Sports and travel,51.15,2,5.115,107.415,2017-01-13,07:56:11,Ewallet,102.3,4.761904762,5.115,2.5,Karthik Kapoor,Hina Gupta
+613-09-5617,C,Mumbai,Member,Zoya Gupta,Female,Clothing,77.86,7,27.251,572.271,2017-02-25,07:40:41,Walmart Gift Cards,545.02,4.761904762,27.251,8.3,Mohit Sahu,Pari Chauhan
+893-95-3102,D,Bangalore,Member,Anika Patel,Female,Clothing,96.73,3,14.5095,304.6995,2020-03-20,10:14:31,Walmart Gift Cards,290.19,4.761904762,14.5095,3,Vivek Yadav,Gitanjali Sharma
+763-98-4564,E,Pune,Normal,Aaradhya Yadav,Female,Electronic accessories,74.31,5,18.5775,390.1275,2021-07-14,12:40:47,Ewallet,371.55,4.761904762,18.5775,3.6,Faisal Khan,Gauri Singh
+285-57-0480,D,Mumbai,Normal,Hema Sahu,Female,Electronic accessories,83.9,10,41.95,880.95,2019-04-21,07:20:42,Cash,839,4.761904762,41.95,6,Tarun Kumar,Meher Sharma
+932-63-1374,C,Vadodara,Normal,Leela Yadav,Female,Home and lifestyle,15.93,5,3.9825,83.6325,2015-02-22,04:18:38,Credit Card,79.65,4.761904762,3.9825,1.3,Uday Sahu,Anushka Yadav
+812-97-9560,D,Jaipur,Member,Dev Patel,Male,Books,21.59,9,9.7155,204.0255,2020-10-28,07:12:41,Ewallet,194.31,4.761904762,9.7155,3.4,Omkar Mehta,Hema Sahu
+786-22-8610,D,Bhopal,Normal,Dheeraj Yadav,Male,Sports and travel,63.46,6,19.038,399.798,2017-01-07,12:24:12,Walmart Gift Cards,380.76,4.761904762,19.038,9.7,Kaushal Yadav,Sanya Verma
+192-72-2683,C,Mumbai,Member,Ojasvi Tiwari,Female,Health and beauty,72.83,2,7.283,152.943,2019-07-07,09:07:03,Walmart Gift Cards,145.66,4.761904762,7.283,2,Kaushal Yadav,Mahira Verma
+928-95-9053,C,New Delhi,Member,Oviya Sharma,Female,Clothing,75.14,8,30.056,631.176,2016-05-30,02:03:07,Credit Card,601.12,4.761904762,30.056,8,Abhishek Yadav,Hema Sahu
+282-70-1363,B,Ahmedabad,Normal,Anika Patel,Female,Sports and travel,70.41,5,17.6025,369.6525,2022-06-14,10:13:28,Cash,352.05,4.761904762,17.6025,7.4,Raghav Patel,Kanika Singh
+596-67-8491,C,Chennai,Normal,Yash Patel,Male,Books,94.09,2,9.409,197.589,2016-02-10,14:20:08,Ewallet,188.18,4.761904762,9.409,2.8,Jatin Chauhan,Ujala Kapoor
+861-29-2870,B,Chandigarh,Normal,Karthik Kapoor,Male,Health and beauty,84.75,6,25.425,533.925,2017-10-30,14:20:29,Walmart Gift Cards,508.5,4.761904762,25.425,7.2,Tushar Sahu,Bhavya Tiwari
+432-00-5066,E,Kolkata,Normal,Eshaan Kapoor,Female,Food and beverages,13.62,9,6.129,128.709,2023-06-30,09:48:16,Cash,122.58,4.761904762,6.129,9.8,Kunal Gupta,Bela Yadav
+937-50-7166,C,Hyderabad,Member,Aashi Mehta,Female,Books,14.01,3,2.1015,44.1315,2015-01-21,23:16:40,Cash,42.03,4.761904762,2.1015,1.7,Vikrant Tiwari,Eshaan Kapoor
+504-08-1653,A,Kochi,Member,Saanvi Kumar,Female,Home and lifestyle,23.19,10,11.595,243.495,2015-08-22,22:12:24,Ewallet,231.9,4.761904762,11.595,4.9,Vikrant Tiwari,Bhavna Sharma
+210-92-1329,E,Vishakhapatnam,Normal,Chhavi Chauhan,Female,Electronic accessories,99.92,5,24.98,524.58,2022-11-03,02:54:56,Credit Card,499.6,4.761904762,24.98,5.5,Ayush Sharma,Zaina Tiwari
+557-00-5137,D,Mumbai,Member,Zara Tiwari,Female,Food and beverages,86.31,1,4.3155,90.6255,2015-03-08,13:50:24,Cash,86.31,4.761904762,4.3155,9.5,Gagan Singh,Farah Joshi
+576-50-0507,C,Mumbai,Member,Nitin Singh,Male,Clothing,52.16,10,26.08,547.68,2022-05-02,14:01:49,Ewallet,521.6,4.761904762,26.08,6.6,Aryan Gupta,Sanya Verma
+602-68-8221,B,Vadodara,Normal,Vikrant Tiwari,Male,Home and lifestyle,34.33,3,5.1495,108.1395,2018-09-06,04:52:20,Credit Card,102.99,4.761904762,5.1495,9.4,Tushar Sahu,Ira Kumar
+538-34-6415,B,New Delhi,Member,Bhavika Kapoor,Female,Clothing,35.95,1,1.7975,37.7475,2015-06-21,05:12:16,Ewallet,35.95,4.761904762,1.7975,7.9,Lucky Singh,Sanya Verma
+177-59-4769,C,Hyderabad,Normal,Ojasvi Tiwari,Female,Home and lifestyle,89.04,5,22.26,467.46,2023-09-09,18:00:03,Ewallet,445.2,4.761904762,22.26,1.3,Akash Sharma,Pari Chauhan
+693-55-0661,E,Agra,Normal,Sanya Verma,Female,Clothing,43.76,8,17.504,367.584,2016-11-16,16:07:08,Cash,350.08,4.761904762,17.504,9.1,Mohit Sahu,Myra Patel
+551-04-7553,A,Pune,Member,Qiana Tiwari,Female,Clothing,83.08,5,20.77,436.17,2015-07-13,01:43:12,Ewallet,415.4,4.761904762,20.77,8.3,Dev Patel,Ginni Gupta
+353-62-8422,B,Chennai,Normal,Rohit Patel,Male,Books,45.05,9,20.2725,425.7225,2021-04-30,13:08:14,Cash,405.45,4.761904762,20.2725,8.3,Ishaan Kumar,Leela Yadav
+956-13-4628,E,Vadodara,Member,Ananya Patel,Female,Sports and travel,62.16,1,3.108,65.268,2018-01-21,19:03:49,Credit Card,62.16,4.761904762,3.108,6.6,Vicky Singh,Ujala Kapoor
+437-73-5319,E,New Delhi,Normal,Jhanvi Mehta,Female,Home and lifestyle,42.01,7,14.7035,308.7735,2016-11-09,05:18:37,Ewallet,294.07,4.761904762,14.7035,5.8,Govind Tiwari,Lavanya Sharma
+145-93-7457,E,Agra,Normal,Divya Chauhan,Female,Electronic accessories,61.64,3,9.246,194.166,2017-12-14,12:32:20,Cash,184.92,4.761904762,9.246,5.2,Ujjwal Gupta,Sanika Verma
+145-61-3577,B,Bangalore,Normal,Zara Tiwari,Female,Electronic accessories,93.1,6,27.93,586.53,2019-08-19,06:34:21,Cash,558.6,4.761904762,27.93,8.4,Gopal Tiwari,Riddhi Verma
+698-98-5674,B,Mumbai,Member,Jai Kapoor,Male,Electronic accessories,52.92,6,15.876,333.396,2020-06-05,22:34:14,Credit Card,317.52,4.761904762,15.876,3.9,Omkar Joshi,Diya Yadav
+365-86-0855,B,Vadodara,Normal,Omkar Joshi,Male,Books,35.33,1,1.7665,37.0965,2017-07-30,04:37:04,Credit Card,35.33,4.761904762,1.7665,6.9,Vivek Yadav,Queenie Sharma
+282-43-3043,B,Hyderabad,Normal,Hina Gupta,Female,Food and beverages,71.59,6,21.477,451.017,2016-06-30,10:32:56,Cash,429.54,4.761904762,21.477,7.7,Faizan Khan,Gauri Singh
+408-87-9999,A,Vadodara,Normal,Mohit Sahu,Male,Sports and travel,66.21,6,19.863,417.123,2018-08-04,07:18:53,Walmart Gift Cards,397.26,4.761904762,19.863,4.9,Naveen Sharma,Aditi Singh
+561-18-8527,D,Agra,Member,Hina Gupta,Female,Food and beverages,48.25,10,24.125,506.625,2020-04-01,22:40:19,Credit Card,482.5,4.761904762,24.125,7.8,Mohit Sahu,Hema Sahu
+456-26-4620,C,Vishakhapatnam,Member,Omkar Chauhan,Male,Food and beverages,74.33,5,18.5825,390.2325,2018-03-27,16:57:27,Cash,371.65,4.761904762,18.5825,10,Ujjwal Gupta,Naina Rajput
+330-67-2006,A,Kolkata,Member,Ginni Gupta,Female,Food and beverages,98.74,8,39.496,829.416,2017-12-16,09:24:48,Cash,789.92,4.761904762,39.496,2.8,Lucky Singh,Fatima Joshi
+967-23-9421,E,Ahmedabad,Normal,Hitesh Yadav,Male,Clothing,55.27,5,13.8175,290.1675,2017-08-13,01:28:26,Credit Card,276.35,4.761904762,13.8175,5.6,Hitesh Yadav,Eshaan Kapoor
+772-36-3437,B,Chennai,Member,Saanvi Kumar,Female,Health and beauty,10.45,2,1.045,21.945,2015-05-31,09:31:13,Walmart Gift Cards,20.9,4.761904762,1.045,8.7,Karthik Kapoor,Divisha Kapoor
+876-24-8403,C,Kolkata,Member,Veda Singh,Female,Books,16.66,7,5.831,122.451,2020-06-06,07:05:03,Ewallet,116.62,4.761904762,5.831,6.7,Vicky Singh,Queenie Sharma
+740-04-9794,E,Kochi,Member,Kunal Gupta,Male,Clothing,13.71,5,3.4275,71.9775,2015-04-24,16:55:38,Cash,68.55,4.761904762,3.4275,5.8,Inder Rajput,Dia Mehta
+297-32-5599,B,Kochi,Normal,Lalit Yadav,Male,Home and lifestyle,79.43,10,39.715,834.015,2023-10-05,06:54:02,Ewallet,794.3,4.761904762,39.715,2.3,Pratik Chauhan,Bhavna Sharma
+193-63-6527,B,Surat,Member,Yash Patel,Male,Electronic accessories,89.24,6,26.772,562.212,2019-07-02,01:29:12,Credit Card,535.44,4.761904762,26.772,3.4,Uday Sahu,Zaina Tiwari
+134-26-2223,D,Nashik,Member,Armaan Khan,Male,Sports and travel,34.44,5,8.61,180.81,2021-02-28,01:28:59,Credit Card,172.2,4.761904762,8.61,1.3,Prakash Sahu,Sanika Verma
+202-37-8047,D,Nashik,Member,Nandini Patel,Female,Home and lifestyle,35.77,2,3.577,75.117,2023-07-15,15:41:07,Credit Card,71.54,4.761904762,3.577,8.1,Uday Sahu,Jia Kapoor
+689-88-2402,A,New Delhi,Member,Sanya Verma,Female,Sports and travel,47.37,8,18.948,397.908,2020-08-05,18:15:13,Walmart Gift Cards,378.96,4.761904762,18.948,8.3,Yashvardhan Sharma,Queenie Sharma
+444-01-0855,B,Bangalore,Normal,Jigyasa Verma,Female,Books,22.44,7,7.854,164.934,2020-03-22,18:58:55,Walmart Gift Cards,157.08,4.761904762,7.854,5.9,Kunal Gupta,Hetal Patel
+102-35-1168,E,Vishakhapatnam,Member,Mohan Patel,Male,Clothing,73.51,1,3.6755,77.1855,2015-07-21,21:34:32,Ewallet,73.51,4.761904762,3.6755,5.9,Pratik Chauhan,Zaina Tiwari
+566-96-6358,C,Hyderabad,Member,Vrinda Sharma,Female,Food and beverages,34.86,10,17.43,366.03,2021-10-08,08:24:04,Cash,348.6,4.761904762,17.43,3,Rahul Sharma,Megha Kapoor
+186-07-1343,C,Hyderabad,Normal,Harsh Joshi,Male,Sports and travel,79.04,4,15.808,331.968,2017-01-30,05:47:34,Walmart Gift Cards,316.16,4.761904762,15.808,2,Arjun Patel,Zoya Gupta
+453-83-8947,D,Mumbai,Member,Gaurav Tiwari,Male,Food and beverages,56.53,6,16.959,356.139,2016-11-27,13:53:15,Ewallet,339.18,4.761904762,16.959,6.5,Prakash Sahu,Aaradhya Yadav
+764-39-8818,C,Nagpur,Normal,Govind Tiwari,Male,Home and lifestyle,59.79,1,2.9895,62.7795,2016-03-03,20:01:16,Cash,59.79,4.761904762,2.9895,2.1,Harshit Patel,Kashish Kapoor
+902-63-7232,D,Agra,Normal,Jagdish Yadav,Male,Food and beverages,58.57,5,14.6425,307.4925,2016-03-01,12:40:24,Credit Card,292.85,4.761904762,14.6425,9.8,Pranav Rajput,Jigyasa Verma
+591-45-0788,B,New Delhi,Normal,Eshaan Kapoor,Female,Books,40.88,1,2.044,42.924,2015-02-01,15:18:32,Walmart Gift Cards,40.88,4.761904762,2.044,4.4,Omkar Mehta,Ira Kumar
+712-91-7191,D,Kolkata,Normal,Zayd Khan,Male,Clothing,95.6,5,23.9,501.9,2017-10-05,19:36:14,Walmart Gift Cards,478,4.761904762,23.9,6.1,Pranav Rajput,Yashi Kapoor
+231-34-3994,E,Bhopal,Member,Ojasvi Tiwari,Female,Home and lifestyle,35.65,6,10.695,224.595,2023-07-15,04:04:47,Credit Card,213.9,4.761904762,10.695,5.1,Vicky Singh,Tanya Rajput
+644-36-0912,E,Nagpur,Member,Gauri Singh,Female,Food and beverages,36.87,5,9.2175,193.5675,2021-08-15,22:51:14,Cash,184.35,4.761904762,9.2175,8.5,Om Prakash Sharma,Myra Patel
+701-23-5496,D,New Delhi,Member,Karan Joshi,Male,Food and beverages,55.42,9,24.939,523.719,2015-11-22,03:38:54,Cash,498.78,4.761904762,24.939,7.5,Raghav Patel,Ishita Mehta
+281-21-0396,B,Vishakhapatnam,Normal,Hema Sahu,Female,Home and lifestyle,13.96,4,2.792,58.632,2023-03-26,15:27:54,Ewallet,55.84,4.761904762,2.792,8.4,Aryan Gupta,Zoya Gupta
+465-81-8124,C,Kolkata,Normal,Mahira Verma,Female,Home and lifestyle,28.43,9,12.7935,268.6635,2016-04-27,07:55:51,Credit Card,255.87,4.761904762,12.7935,8.5,Tarun Kumar,Charvi Verma
+245-49-6583,A,Ahmedabad,Member,Nupur Singh,Female,Clothing,27.02,6,8.106,170.226,2020-06-01,15:17:33,Walmart Gift Cards,162.12,4.761904762,8.106,6.7,Zain Khan,Tanisha Patel
+167-02-7880,E,Kolkata,Member,Nitin Singh,Male,Food and beverages,28.95,7,10.1325,212.7825,2021-06-15,03:05:58,Cash,202.65,4.761904762,10.1325,4.3,Vikrant Tiwari,Myra Patel
+621-32-8116,B,Nagpur,Normal,Om Prakash Sharma,Male,Home and lifestyle,93.14,5,23.285,488.985,2020-05-02,13:45:36,Ewallet,465.7,4.761904762,23.285,5.2,Nitin Singh,Bhavna Sharma
+375-54-4492,A,Hyderabad,Normal,Tanisha Patel,Female,Electronic accessories,63.9,9,28.755,603.855,2018-11-09,05:31:29,Walmart Gift Cards,575.1,4.761904762,28.755,5.8,Nitin Singh,Yashi Kapoor
+480-55-2929,B,Nagpur,Normal,Sanya Verma,Female,Home and lifestyle,25.15,2,2.515,52.815,2019-03-12,09:36:03,Ewallet,50.3,4.761904762,2.515,4.4,Rahul Sharma,Charul Yadav
+697-41-9018,C,Nagpur,Member,Aarav Kumar,Male,Electronic accessories,32.03,4,6.406,134.526,2023-02-17,10:27:32,Walmart Gift Cards,128.12,4.761904762,6.406,9.4,Gagan Singh,Aaradhya Yadav
+693-61-3039,D,Chennai,Normal,Queenie Sharma,Female,Clothing,49.15,2,4.915,103.215,2017-05-13,05:50:33,Cash,98.3,4.761904762,4.915,3,Rajveer Gupta,Jhanvi Mehta
+267-36-0332,A,Mumbai,Member,Utkarsh Yadav,Male,Books,79.95,7,27.9825,587.6325,2021-10-13,12:57:45,Credit Card,559.65,4.761904762,27.9825,5.6,Varun Singh,Sanika Verma
+907-93-1516,A,Bangalore,Member,Queenie Sharma,Female,Food and beverages,99.07,6,29.721,624.141,2021-08-05,12:41:47,Walmart Gift Cards,594.42,4.761904762,29.721,9.3,Aryan Gupta,Oviya Sharma
+612-68-9006,C,Ahmedabad,Member,Om Prakash Sharma,Male,Sports and travel,84.05,9,37.8225,794.2725,2020-05-02,10:54:19,Walmart Gift Cards,756.45,4.761904762,37.8225,8.5,Dinesh Yadav,Qamar Yadav
+827-06-4354,A,Indore,Member,Lucky Singh,Male,Sports and travel,79.17,5,19.7925,415.6425,2023-09-25,05:47:58,Ewallet,395.85,4.761904762,19.7925,4.1,Amar Singh,Eshaan Kapoor
+201-86-7417,C,Ahmedabad,Normal,Hema Sahu,Female,Books,89.41,5,22.3525,469.4025,2023-01-22,10:35:50,Credit Card,447.05,4.761904762,22.3525,3.2,Lakshay Sharma,Ishita Mehta
+207-29-2035,B,New Delhi,Member,Aashi Mehta,Female,Books,98.89,4,19.778,415.338,2015-12-25,12:15:17,Ewallet,395.56,4.761904762,19.778,4.2,Akash Sharma,Kavya Rajput
+167-29-4780,D,Pune,Member,Raghav Patel,Male,Health and beauty,46.39,7,16.2365,340.9665,2020-11-27,04:51:26,Ewallet,324.73,4.761904762,16.2365,7.4,Raghav Patel,Tanisha Patel
+842-30-7837,E,Nagpur,Member,Ujjwal Gupta,Male,Sports and travel,50.13,2,5.013,105.273,2021-12-10,09:54:14,Walmart Gift Cards,100.26,4.761904762,5.013,6.4,Omkar Chauhan,Bela Yadav
+752-48-5918,B,Pune,Normal,Mukesh Kumar,Male,Food and beverages,86.63,1,4.3315,90.9615,2020-01-21,07:57:42,Credit Card,86.63,4.761904762,4.3315,5.5,Dinesh Yadav,Yashi Kapoor
+751-97-9944,E,Jaipur,Normal,Queenie Sharma,Female,Electronic accessories,48.16,7,16.856,353.976,2019-05-10,19:48:23,Ewallet,337.12,4.761904762,16.856,2.1,Neeraj Singh,Aditi Singh
+112-91-3442,E,Agra,Normal,Ojasvi Tiwari,Female,Books,89.11,3,13.3665,280.6965,2022-12-25,15:47:58,Walmart Gift Cards,267.33,4.761904762,13.3665,4.1,Chirag Kapoor,Anika Patel
+456-43-7499,C,Vadodara,Member,Hema Sahu,Female,Sports and travel,13.24,8,5.296,111.216,2018-12-21,23:33:04,Ewallet,105.92,4.761904762,5.296,9.4,Ravi Patel,Ananya Patel
+952-08-1300,E,Bangalore,Normal,Utkarsh Yadav,Male,Clothing,39.19,7,13.7165,288.0465,2021-04-02,11:19:19,Cash,274.33,4.761904762,13.7165,6.5,Arjun Patel,Oishi Tiwari
+663-38-1868,B,Mumbai,Normal,Varun Singh,Male,Food and beverages,38.52,2,3.852,80.892,2017-07-27,19:06:00,Walmart Gift Cards,77.04,4.761904762,3.852,7.8,Tanuj Mehta,Ishita Mehta
+799-51-8175,C,Agra,Normal,Pranav Rajput,Male,Sports and travel,12.13,7,4.2455,89.1555,2020-10-04,02:37:17,Credit Card,84.91,4.761904762,4.2455,8.6,Farhan Khan,Aaradhya Yadav
+743-79-1736,C,Mumbai,Normal,Parth Kapoor,Male,Health and beauty,19.81,2,1.981,41.601,2022-05-22,02:38:07,Credit Card,39.62,4.761904762,1.981,4,Brijesh Sharma,Oishi Tiwari
+505-35-3193,D,Bhopal,Member,Anushka Yadav,Female,Food and beverages,64.91,5,16.2275,340.7775,2022-10-28,18:04:24,Walmart Gift Cards,324.55,4.761904762,16.2275,8.8,Manoj Sharma,Saisha Khan
+621-12-5653,D,Mumbai,Normal,Chhavi Chauhan,Female,Food and beverages,54.92,3,8.238,172.998,2018-05-14,08:27:06,Credit Card,164.76,4.761904762,8.238,7.2,Armaan Khan,Tanya Rajput
+102-29-4509,C,Lucknow,Normal,Govind Tiwari,Male,Food and beverages,35.34,8,14.136,296.856,2023-12-15,05:18:06,Ewallet,282.72,4.761904762,14.136,3.6,Parth Kapoor,Falguni Mehta
+361-59-0650,B,Vishakhapatnam,Normal,Vrinda Sharma,Female,Health and beauty,73.46,8,29.384,617.064,2018-07-02,05:18:27,Walmart Gift Cards,587.68,4.761904762,29.384,4.4,Kunal Gupta,Rithika Joshi
+355-81-9998,D,Bhopal,Normal,Sagar Mehta,Male,Clothing,14.25,1,0.7125,14.9625,2023-06-10,14:23:04,Credit Card,14.25,4.761904762,0.7125,7.6,Naman Verma,Oviya Sharma
+570-71-7466,B,New Delhi,Member,Keshav Sharma,Male,Books,67.22,10,33.61,705.81,2019-08-08,08:40:46,Cash,672.2,4.761904762,33.61,8.8,Vivek Yadav,Aashi Mehta
+518-16-2341,E,Kochi,Normal,Rohit Patel,Male,Health and beauty,51.6,4,10.32,216.72,2022-08-14,13:50:51,Cash,206.4,4.761904762,10.32,3.3,Hrishikesh Kapoor,Lavanya Sharma
+974-84-8879,A,Bhopal,Member,Eklavya Verma,Male,Clothing,13.14,3,1.971,41.391,2015-11-05,12:48:04,Cash,39.42,4.761904762,1.971,9.7,Gaurav Tiwari,Kashvi Rajput
+622-50-2302,E,Hyderabad,Normal,Deepak Verma,Male,Clothing,29.98,10,14.99,314.79,2016-10-17,12:25:15,Walmart Gift Cards,299.8,4.761904762,14.99,8.1,Abhishek Yadav,Pari Chauhan
+378-50-9036,E,Jaipur,Member,Mahira Verma,Female,Sports and travel,15.78,9,7.101,149.121,2020-04-15,20:50:10,Credit Card,142.02,4.761904762,7.101,4.7,Rahul Sharma,Ria Singh
+497-25-0924,E,Lucknow,Member,Ananya Patel,Female,Electronic accessories,92.65,4,18.53,389.13,2017-08-28,15:11:04,Ewallet,370.6,4.761904762,18.53,8.4,Jatin Chauhan,Aditi Singh
+931-09-2263,D,Chennai,Member,Jia Kapoor,Female,Health and beauty,29.48,8,11.792,247.632,2020-01-09,18:30:02,Cash,235.84,4.761904762,11.792,2.2,Lokesh Tiwari,Lavisha Kapoor
+663-30-2673,B,Bhopal,Member,Deepak Verma,Male,Health and beauty,59.35,10,29.675,623.175,2018-09-08,23:09:26,Credit Card,593.5,4.761904762,29.675,5,Arnav Patel,Kashish Kapoor
+832-81-4030,A,Nagpur,Normal,Naman Verma,Male,Health and beauty,65.69,10,32.845,689.745,2015-09-02,04:19:09,Credit Card,656.9,4.761904762,32.845,4.9,Varun Singh,Ananya Patel
+161-88-1284,B,Nagpur,Member,Hrishikesh Kapoor,Male,Books,21.17,8,8.468,177.828,2015-08-31,09:15:26,Walmart Gift Cards,169.36,4.761904762,8.468,5.4,Pradeep Chauhan,Trisha Khan
+642-14-4185,D,Hyderabad,Normal,Nupur Singh,Female,Books,64.23,5,16.0575,337.2075,2019-09-20,22:40:34,Credit Card,321.15,4.761904762,16.0575,2.9,Dev Patel,Charul Yadav
+879-59-9303,B,Nashik,Member,Dheeraj Yadav,Male,Electronic accessories,68.55,10,34.275,719.775,2022-12-10,00:13:26,Walmart Gift Cards,685.5,4.761904762,34.275,7.7,Pradeep Chauhan,Saisha Khan
+979-54-3446,B,Nashik,Member,Ishaan Kumar,Male,Electronic accessories,14.34,5,3.585,75.285,2020-08-27,06:03:10,Ewallet,71.7,4.761904762,3.585,9.4,Farhan Khan,Urvashi Joshi
+818-44-2340,E,Nashik,Member,Himanshu Kapoor,Male,Home and lifestyle,40.95,4,8.19,171.99,2019-08-11,13:54:09,Credit Card,163.8,4.761904762,8.19,8.3,Karthik Kapoor,Zaina Tiwari
+827-61-1462,C,New Delhi,Member,Yogesh Mehta,Male,Clothing,68.84,6,20.652,433.692,2022-04-14,10:17:34,Walmart Gift Cards,413.04,4.761904762,20.652,3.1,Omkar Chauhan,Vanshika Gupta
+649-71-5015,A,Nashik,Member,Sanya Verma,Female,Health and beauty,85.85,9,38.6325,811.2825,2022-03-02,17:24:09,Cash,772.65,4.761904762,38.6325,2.6,Om Prakash Sharma,Hema Sahu
+110-90-5262,C,Hyderabad,Member,Omkar Mehta,Male,Electronic accessories,31.98,7,11.193,235.053,2018-05-15,05:18:41,Cash,223.86,4.761904762,11.193,8.1,Lakshay Sharma,Zara Tiwari
+186-00-3912,C,Ahmedabad,Member,Tushar Sahu,Male,Health and beauty,33.73,5,8.4325,177.0825,2021-07-07,22:06:44,Walmart Gift Cards,168.65,4.761904762,8.4325,1.2,Aryan Gupta,Devanshi Tiwari
+562-68-7274,E,Chennai,Member,Govind Tiwari,Male,Sports and travel,43.55,9,19.5975,411.5475,2015-11-12,07:03:01,Credit Card,391.95,4.761904762,19.5975,3,Manoj Sharma,Falak Patel
+367-69-2990,B,Kolkata,Normal,Hrishikesh Kapoor,Male,Home and lifestyle,77.67,9,34.9515,733.9815,2019-12-29,09:19:39,Walmart Gift Cards,699.03,4.761904762,34.9515,4.7,Faizan Khan,Nandini Patel
+896-51-5082,A,Vadodara,Member,Nupur Singh,Female,Books,33.24,8,13.296,279.216,2016-06-07,06:21:38,Credit Card,265.92,4.761904762,13.296,9.2,Naveen Sharma,Risha Joshi
+949-59-2525,B,Nagpur,Member,Aanya Sharma,Female,Home and lifestyle,13.14,8,5.256,110.376,2017-07-03,15:06:26,Walmart Gift Cards,105.12,4.761904762,5.256,9.2,Gopal Tiwari,Falguni Mehta
+551-50-2530,D,Agra,Member,Himanshu Kapoor,Male,Electronic accessories,12.96,4,2.592,54.432,2020-06-13,00:17:58,Credit Card,51.84,4.761904762,2.592,7.9,Pranav Rajput,Charvi Verma
+268-20-5054,B,Lucknow,Normal,Rohit Patel,Male,Home and lifestyle,81.41,8,32.564,683.844,2021-07-31,07:37:07,Credit Card,651.28,4.761904762,32.564,9.7,Naman Verma,Trisha Khan
+257-68-9390,D,Agra,Member,Rithika Joshi,Female,Food and beverages,10.59,5,2.6475,55.5975,2023-11-20,04:28:06,Walmart Gift Cards,52.95,4.761904762,2.6475,3.1,Tanuj Mehta,Upasana Yadav
+595-76-1918,A,Hyderabad,Member,Dev Patel,Male,Sports and travel,25.55,10,12.775,268.275,2020-06-30,14:11:59,Walmart Gift Cards,255.5,4.761904762,12.775,7.5,Ishan Verma,Oishi Tiwari
+816-49-4712,E,Hyderabad,Member,Hina Gupta,Female,Books,37.3,4,7.46,156.66,2015-08-13,04:43:23,Cash,149.2,4.761904762,7.46,7.4,Utkarsh Yadav,Urvi Khan
+338-43-7805,A,Ahmedabad,Normal,Jatin Chauhan,Male,Clothing,79.64,8,31.856,668.976,2021-02-20,15:06:30,Walmart Gift Cards,637.12,4.761904762,31.856,9.1,Amar Singh,Charul Yadav
+637-74-4749,C,Kolkata,Member,Saanvi Kumar,Female,Food and beverages,67.18,5,16.795,352.695,2023-04-24,05:56:55,Walmart Gift Cards,335.9,4.761904762,16.795,5.5,Parth Kapoor,Ria Singh
+903-42-3049,B,Chennai,Normal,Chirag Kapoor,Male,Electronic accessories,23.2,5,5.8,121.8,2022-05-27,13:43:20,Walmart Gift Cards,116,4.761904762,5.8,7.7,Umar Khan,Rithika Joshi
+554-12-7137,B,Nashik,Normal,Nitin Singh,Male,Food and beverages,91.26,7,31.941,670.761,2018-11-30,23:39:44,Cash,638.82,4.761904762,31.941,4.9,Zayd Khan,Trisha Khan
+953-44-6515,C,Pune,Member,Nandini Patel,Female,Sports and travel,43.34,6,13.002,273.042,2018-07-03,07:00:01,Credit Card,260.04,4.761904762,13.002,5.4,Vivek Yadav,Urvashi Joshi
+813-80-1123,D,Kochi,Member,Hira Gupta,Female,Books,77.66,6,23.298,489.258,2023-10-26,19:46:23,Cash,465.96,4.761904762,23.298,6.7,Uday Sahu,Charul Yadav
+443-85-5087,C,Agra,Member,Lavanya Sharma,Female,Food and beverages,36.95,9,16.6275,349.1775,2017-11-22,04:21:48,Ewallet,332.55,4.761904762,16.6275,4.2,Amar Singh,Gargi Kapoor
+957-77-9186,E,Vadodara,Normal,Rithika Joshi,Female,Health and beauty,64.06,5,16.015,336.315,2019-02-23,01:42:42,Ewallet,320.3,4.761904762,16.015,3.7,Karan Joshi,Aditi Singh
+922-73-6066,E,Kochi,Normal,Hema Sahu,Female,Books,65.75,8,26.3,552.3,2019-04-15,13:43:47,Walmart Gift Cards,526,4.761904762,26.3,6.5,Raghav Patel,Anushka Yadav
+528-88-9373,A,Agra,Normal,Lavina Yadav,Female,Clothing,20.1,4,4.02,84.42,2023-01-15,08:54:01,Walmart Gift Cards,80.4,4.761904762,4.02,1.9,Ishan Verma,Kanika Singh
+990-40-0717,A,Surat,Member,Elina Chauhan,Female,Home and lifestyle,95,10,47.5,997.5,2023-08-16,19:02:42,Ewallet,950,4.761904762,47.5,9,Arjun Patel,Qamar Yadav
+949-74-2181,E,Bangalore,Normal,Urvi Khan,Female,Sports and travel,74.62,9,33.579,705.159,2020-08-30,02:41:43,Ewallet,671.58,4.761904762,33.579,5.4,Hrishikesh Kapoor,Jhanvi Mehta
+102-72-3039,C,Mumbai,Normal,Rithika Joshi,Female,Food and beverages,84.11,2,8.411,176.631,2020-08-13,09:58:39,Walmart Gift Cards,168.22,4.761904762,8.411,5.7,Keshav Sharma,Naina Rajput
+697-08-7399,C,Pune,Member,Eklavya Verma,Male,Clothing,91.48,10,45.74,960.54,2017-03-02,01:50:21,Credit Card,914.8,4.761904762,45.74,1.1,Ayush Sharma,Divya Chauhan
+650-55-6670,C,Kolkata,Normal,Chandni Joshi,Female,Clothing,18.93,7,6.6255,139.1355,2023-06-11,04:02:35,Credit Card,132.51,4.761904762,6.6255,1.9,Vikrant Tiwari,Lavisha Kapoor
+595-99-3006,A,Nagpur,Normal,Ayush Sharma,Male,Sports and travel,36.03,4,7.206,151.326,2022-12-16,11:23:10,Walmart Gift Cards,144.12,4.761904762,7.206,2,Naveen Sharma,Ginni Gupta
+712-25-2310,C,New Delhi,Normal,Pradeep Chauhan,Male,Sports and travel,54.14,3,8.121,170.541,2022-04-17,07:42:37,Cash,162.42,4.761904762,8.121,9.2,Sagar Mehta,Hema Sahu
+548-96-1676,E,Hyderabad,Normal,Raghav Patel,Male,Clothing,51.92,4,10.384,218.064,2015-05-12,07:04:50,Ewallet,207.68,4.761904762,10.384,4.5,Jai Kapoor,Ishana Sharma
+411-00-1776,E,Pune,Normal,Queenie Sharma,Female,Home and lifestyle,40.41,6,12.123,254.583,2022-03-08,08:20:37,Cash,242.46,4.761904762,12.123,9.3,Lokesh Tiwari,Ujala Kapoor
+199-78-1398,A,Hyderabad,Member,Naman Verma,Male,Home and lifestyle,71.83,7,25.1405,527.9505,2017-08-05,19:18:49,Walmart Gift Cards,502.81,4.761904762,25.1405,4.6,Hrishikesh Kapoor,Kashvi Rajput
+986-48-6152,E,Jaipur,Member,Deepesh Verma,Male,Electronic accessories,10.82,10,5.41,113.61,2022-12-12,00:18:35,Cash,108.2,4.761904762,5.41,1.7,Deepak Verma,Charvi Verma
+239-76-5330,A,Bhopal,Normal,Ria Singh,Female,Food and beverages,20.03,3,3.0045,63.0945,2022-08-20,12:54:08,Cash,60.09,4.761904762,3.0045,7.8,Jatin Chauhan,Rithika Joshi
+629-56-2320,E,Chennai,Normal,Zeeshan Patel,Male,Books,70.39,10,35.195,739.095,2016-07-04,06:17:47,Walmart Gift Cards,703.9,4.761904762,35.195,6.4,Deepesh Verma,Fatima Joshi
+983-05-4882,A,Nagpur,Normal,Jatin Chauhan,Male,Electronic accessories,84.71,5,21.1775,444.7275,2015-05-20,22:45:10,Ewallet,423.55,4.761904762,21.1775,5.7,Brijesh Sharma,Hema Sahu
+318-25-3322,E,Agra,Normal,Hira Gupta,Female,Electronic accessories,79.33,6,23.799,499.779,2015-01-16,13:46:44,Cash,475.98,4.761904762,23.799,4.3,Mukesh Kumar,Mahira Verma
+438-64-5877,D,Vadodara,Normal,Qureshi Khan,Male,Food and beverages,82.99,10,41.495,871.395,2018-04-20,08:39:41,Walmart Gift Cards,829.9,4.761904762,41.495,3.2,Deepak Verma,Divya Chauhan
+617-19-6289,D,Surat,Normal,Faizan Khan,Male,Health and beauty,27.32,9,12.294,258.174,2022-11-13,14:25:07,Cash,245.88,4.761904762,12.294,1.6,Yash Patel,Ishita Mehta
+268-35-8900,C,Vadodara,Member,Lokesh Tiwari,Male,Electronic accessories,15.14,9,6.813,143.073,2017-04-24,02:28:38,Walmart Gift Cards,136.26,4.761904762,6.813,2,Zeeshan Patel,Jiya Sahu
+165-34-0361,A,Vadodara,Member,Ria Singh,Female,Health and beauty,42.43,9,19.0935,400.9635,2018-07-01,17:41:32,Credit Card,381.87,4.761904762,19.0935,2.6,Faisal Khan,Ginni Gupta
+553-54-0405,D,Surat,Normal,Rahul Sharma,Male,Food and beverages,59.9,4,11.98,251.58,2021-09-19,23:03:46,Walmart Gift Cards,239.6,4.761904762,11.98,5.7,Varun Singh,Nitya Yadav
+127-78-5403,A,Lucknow,Normal,Hira Gupta,Female,Food and beverages,52.82,10,26.41,554.61,2016-08-09,16:46:04,Walmart Gift Cards,528.2,4.761904762,26.41,7.2,Deepesh Verma,Divya Chauhan
+368-08-7358,C,Bhopal,Normal,Armaan Khan,Male,Health and beauty,43.4,4,8.68,182.28,2019-06-11,22:06:17,Ewallet,173.6,4.761904762,8.68,5.6,Chirag Kapoor,Pihu Gupta
+447-22-6474,B,Nashik,Member,Deepak Verma,Male,Electronic accessories,33.66,4,6.732,141.372,2020-04-26,16:59:03,Cash,134.64,4.761904762,6.732,4.5,Lucky Singh,Qamar Yadav
+323-48-7806,B,Nagpur,Member,Ishaani Sahu,Female,Clothing,66.64,5,16.66,349.86,2015-12-09,16:00:32,Cash,333.2,4.761904762,16.66,9.5,Rajveer Gupta,Yashi Kapoor
+213-85-5316,D,Kochi,Normal,Megha Kapoor,Female,Home and lifestyle,40.96,4,8.192,172.032,2020-03-31,14:35:52,Cash,163.84,4.761904762,8.192,8.6,Omkar Chauhan,Mahira Verma
+772-82-2861,A,Indore,Member,Jigyasa Verma,Female,Books,13.48,3,2.022,42.462,2018-05-21,10:51:08,Walmart Gift Cards,40.44,4.761904762,2.022,6.3,Nishant Verma,Hira Gupta
+215-40-8267,C,Jaipur,Member,Zara Tiwari,Female,Home and lifestyle,31.16,5,7.79,163.59,2017-12-07,05:51:31,Walmart Gift Cards,155.8,4.761904762,7.79,1.8,Gaurav Tiwari,Eshaan Kapoor
+127-76-2770,E,Vadodara,Member,Lakshay Sharma,Male,Clothing,53.27,4,10.654,223.734,2017-03-10,19:29:40,Cash,213.08,4.761904762,10.654,1.4,Himanshu Kapoor,Diya Yadav
+812-30-2113,A,Kochi,Normal,Naina Rajput,Female,Electronic accessories,72.24,10,36.12,758.52,2021-04-23,01:04:33,Credit Card,722.4,4.761904762,36.12,2.1,Karthik Kapoor,Tanisha Patel
+405-99-3558,A,Ahmedabad,Normal,Myra Patel,Female,Clothing,51.52,5,12.88,270.48,2019-06-26,11:15:27,Credit Card,257.6,4.761904762,12.88,2.3,Parth Kapoor,Jhanvi Mehta
+557-72-9933,B,Surat,Normal,Hina Gupta,Female,Books,23.47,2,2.347,49.287,2018-10-04,17:01:21,Ewallet,46.94,4.761904762,2.347,4.3,Deepesh Verma,Gargi Kapoor
+519-53-7184,B,Kolkata,Normal,Nitin Singh,Male,Sports and travel,52.92,7,18.522,388.962,2016-11-18,15:38:42,Ewallet,370.44,4.761904762,18.522,7.4,Govind Tiwari,Bhoomi Tiwari
+795-78-4594,E,Vishakhapatnam,Member,Pradeep Chauhan,Male,Books,54.43,8,21.772,457.212,2016-03-25,14:37:57,Ewallet,435.44,4.761904762,21.772,9.8,Neeraj Singh,Chandni Joshi
+878-18-7204,A,Vadodara,Member,Ishita Mehta,Female,Books,84.6,9,38.07,799.47,2019-01-23,16:55:30,Credit Card,761.4,4.761904762,38.07,2.9,Eklavya Verma,Zaina Chauhan
+389-02-9014,C,Surat,Member,Urvashi Joshi,Female,Books,67.07,8,26.828,563.388,2015-03-16,11:07:52,Credit Card,536.56,4.761904762,26.828,5,Jatin Chauhan,Sanya Verma
+490-70-0363,E,Chennai,Normal,Ria Singh,Female,Food and beverages,72.23,1,3.6115,75.8415,2015-12-23,02:20:27,Credit Card,72.23,4.761904762,3.6115,5.1,Ishaan Kumar,Vanshika Gupta
+562-64-9325,A,Kochi,Member,Keshav Sharma,Male,Electronic accessories,10.32,3,1.548,32.508,2016-09-03,13:05:07,Walmart Gift Cards,30.96,4.761904762,1.548,8.3,Harsh Joshi,Mahira Verma
+631-20-1070,C,Bhopal,Normal,Jai Kapoor,Male,Sports and travel,37.93,8,15.172,318.612,2015-05-10,23:35:18,Credit Card,303.44,4.761904762,15.172,1.5,Ishaan Kumar,Riddhi Verma
+787-92-7591,C,Nashik,Member,Lavina Yadav,Female,Sports and travel,34.96,5,8.74,183.54,2021-06-09,06:45:37,Cash,174.8,4.761904762,8.74,6.1,Deepesh Verma,Charul Yadav
+314-02-0670,E,Mumbai,Normal,Aryan Gupta,Male,Electronic accessories,78.97,5,19.7425,414.5925,2020-01-26,01:00:32,Walmart Gift Cards,394.85,4.761904762,19.7425,7.9,Sunil Verma,Hina Gupta
+141-08-7367,B,Vishakhapatnam,Normal,Oishi Tiwari,Female,Clothing,46.6,2,4.66,97.86,2018-12-31,06:57:50,Walmart Gift Cards,93.2,4.761904762,4.66,4.8,Eshan Verma,Myra Patel
+909-26-9759,B,Kochi,Normal,Zoya Gupta,Female,Health and beauty,49.68,7,17.388,365.148,2020-11-21,00:46:29,Cash,347.76,4.761904762,17.388,2,Karthik Kapoor,Qiana Tiwari
+862-74-3028,D,Hyderabad,Normal,Kashvi Rajput,Female,Food and beverages,57.29,5,14.3225,300.7725,2018-04-06,10:24:11,Credit Card,286.45,4.761904762,14.3225,5.1,Prakash Sahu,Lavanya Sharma
+589-00-6170,D,Chennai,Normal,Lalit Yadav,Male,Books,12.24,7,4.284,89.964,2017-07-25,23:01:02,Ewallet,85.68,4.761904762,4.284,8.7,Zain Khan,Bhavna Sharma
+651-67-8297,D,Nashik,Member,Faizan Khan,Male,Food and beverages,89.29,4,17.858,375.018,2015-09-09,06:32:13,Credit Card,357.16,4.761904762,17.858,4.5,Eshan Verma,Bhavna Sharma
+532-90-1236,E,Indore,Normal,Urvashi Joshi,Female,Clothing,93.35,3,14.0025,294.0525,2018-02-04,01:06:06,Credit Card,280.05,4.761904762,14.0025,9.8,Dev Patel,Kanika Singh
+168-26-2011,D,Jaipur,Member,Ayush Sharma,Male,Books,67.69,9,30.4605,639.6705,2023-10-24,16:54:52,Cash,609.21,4.761904762,30.4605,6.7,Bhuvan Chauhan,Devanshi Tiwari
+238-62-3374,A,Chennai,Normal,Vanya Gupta,Female,Food and beverages,34.06,7,11.921,250.341,2019-08-15,06:43:45,Ewallet,238.42,4.761904762,11.921,2.1,Karan Joshi,Eshaan Kapoor
+706-55-9810,B,Lucknow,Member,Nishant Verma,Male,Electronic accessories,18.27,7,6.3945,134.2845,2020-05-19,16:49:51,Credit Card,127.89,4.761904762,6.3945,3.1,Mohit Sahu,Aaradhya Yadav
+379-36-4690,A,Vishakhapatnam,Member,Fatima Joshi,Female,Home and lifestyle,36.56,4,7.312,153.552,2017-10-27,15:43:46,Ewallet,146.24,4.761904762,7.312,5.1,Siddharth Reddy,Vanya Gupta
+649-51-6377,C,Chennai,Normal,Kashish Kapoor,Female,Clothing,33.72,3,5.058,106.218,2023-03-29,21:30:43,Cash,101.16,4.761904762,5.058,3.8,Rahul Sharma,Riddhi Verma
+265-45-8574,D,Mumbai,Normal,Naveen Sharma,Male,Home and lifestyle,18.94,6,5.682,119.322,2019-05-07,18:38:20,Cash,113.64,4.761904762,5.682,1.5,Sunil Verma,Nitya Yadav
+323-16-7476,E,New Delhi,Member,Kashvi Rajput,Female,Books,67.76,2,6.776,142.296,2019-06-01,14:29:53,Ewallet,135.52,4.761904762,6.776,2.5,Ravi Patel,Chandni Joshi
+193-11-1930,E,Surat,Member,Divya Chauhan,Female,Food and beverages,74.1,9,33.345,700.245,2019-06-03,01:43:47,Walmart Gift Cards,666.9,4.761904762,33.345,6.8,Jatin Chauhan,Aditi Singh
+558-71-8342,E,Kochi,Normal,Urvi Khan,Female,Health and beauty,25.69,4,5.138,107.898,2022-01-23,06:51:45,Cash,102.76,4.761904762,5.138,4.4,Eklavya Verma,Sanya Verma
+877-95-7197,A,Chennai,Member,Farhan Khan,Male,Food and beverages,29.88,6,8.964,188.244,2020-11-17,19:08:04,Credit Card,179.28,4.761904762,8.964,9.2,Dev Patel,Urvi Khan
+395-82-1984,C,Mumbai,Member,Urvashi Joshi,Female,Sports and travel,90.04,9,40.518,850.878,2023-01-06,23:41:01,Walmart Gift Cards,810.36,4.761904762,40.518,7.1,Yash Patel,Pari Chauhan
+159-27-7653,D,Mumbai,Member,Om Prakash Sharma,Male,Sports and travel,80.24,5,20.06,421.26,2017-08-25,14:07:29,Cash,401.2,4.761904762,20.06,4.8,Zeeshan Patel,Oviya Sharma
+977-15-7637,C,Lucknow,Member,Gauri Singh,Female,Clothing,85.83,1,4.2915,90.1215,2019-10-13,02:58:35,Walmart Gift Cards,85.83,4.761904762,4.2915,3.9,Ishaan Kumar,Aaradhya Yadav
+140-05-2340,A,Indore,Member,Nandini Patel,Female,Sports and travel,85.02,6,25.506,535.626,2016-08-19,18:17:23,Ewallet,510.12,4.761904762,25.506,9.6,Farhan Khan,Dia Mehta
+299-39-7446,B,Mumbai,Member,Jagdish Yadav,Male,Clothing,86.95,10,43.475,912.975,2022-10-25,19:06:29,Credit Card,869.5,4.761904762,43.475,7.7,Deepak Verma,Chandni Joshi
+573-89-1923,C,Nashik,Member,Yogesh Mehta,Male,Clothing,42.13,2,4.213,88.473,2023-06-02,12:06:05,Cash,84.26,4.761904762,4.213,7.7,Amar Singh,Zara Tiwari
+775-13-2494,A,Lucknow,Member,Arnav Patel,Male,Electronic accessories,29.07,7,10.1745,213.6645,2023-02-08,11:32:49,Ewallet,203.49,4.761904762,10.1745,9.7,Tushar Sahu,Prisha Khan
+480-79-4159,E,Vishakhapatnam,Member,Karthik Kapoor,Male,Food and beverages,28.91,4,5.782,121.422,2023-11-09,17:42:53,Walmart Gift Cards,115.64,4.761904762,5.782,2.1,Zayd Khan,Kanika Singh
+295-88-7454,D,Bangalore,Normal,Aashi Mehta,Female,Books,67.42,4,13.484,283.164,2019-11-21,07:22:32,Walmart Gift Cards,269.68,4.761904762,13.484,7.9,Kunal Gupta,Bhavna Sharma
+535-55-1441,B,Chandigarh,Member,Sanya Verma,Female,Health and beauty,31.77,6,9.531,200.151,2018-12-06,19:22:49,Cash,190.62,4.761904762,9.531,3,Gopal Tiwari,Ishaani Sahu
+959-88-0619,E,Ahmedabad,Member,Ayush Sharma,Male,Clothing,97.29,5,24.3225,510.7725,2018-05-13,16:03:50,Walmart Gift Cards,486.45,4.761904762,24.3225,6.6,Karthik Kapoor,Elina Chauhan
+724-51-8529,E,Chandigarh,Normal,Arnav Patel,Male,Health and beauty,56.59,10,28.295,594.195,2022-03-17,06:51:19,Walmart Gift Cards,565.9,4.761904762,28.295,8.7,Kunal Gupta,Queenie Sharma
+976-89-1122,B,Jaipur,Normal,Jiya Sahu,Female,Home and lifestyle,89.42,5,22.355,469.455,2018-06-12,16:04:57,Walmart Gift Cards,447.1,4.761904762,22.355,8.8,Lalit Yadav,Tithira Kapoor
+265-03-4943,E,Bhopal,Member,Aditya Singh,Male,Home and lifestyle,18.66,1,0.933,19.593,2015-04-04,14:59:02,Walmart Gift Cards,18.66,4.761904762,0.933,5.9,Chetan Kumar,Gargi Kapoor
+693-99-6637,E,Lucknow,Member,Omkar Joshi,Male,Health and beauty,31.18,10,15.59,327.39,2017-10-14,00:27:01,Cash,311.8,4.761904762,15.59,9.8,Neeraj Singh,Kanika Singh
+166-64-2490,E,Nagpur,Normal,Leela Yadav,Female,Books,26.55,10,13.275,278.775,2022-09-09,00:15:08,Walmart Gift Cards,265.5,4.761904762,13.275,8.1,Eklavya Verma,Ishita Mehta
+402-87-4982,A,Agra,Normal,Eshan Verma,Male,Clothing,41.83,10,20.915,439.215,2020-01-18,14:35:57,Credit Card,418.3,4.761904762,20.915,1.8,Mukesh Kumar,Vanshika Gupta
+631-71-0496,C,Kochi,Normal,Chetan Kumar,Male,Books,19.17,3,2.8755,60.3855,2021-09-22,12:36:57,Ewallet,57.51,4.761904762,2.8755,5.9,Rahul Sharma,Urvi Khan
+514-96-5862,C,Vishakhapatnam,Normal,Armaan Khan,Male,Sports and travel,28.09,5,7.0225,147.4725,2020-10-20,00:09:36,Cash,140.45,4.761904762,7.0225,2.9,Sahil Gupta,Veda Singh
+225-35-1673,D,Chandigarh,Member,Tarun Kumar,Male,Sports and travel,50.57,10,25.285,530.985,2015-08-19,10:08:05,Ewallet,505.7,4.761904762,25.285,7.2,Ravi Patel,Hina Gupta
+193-52-2410,B,Nagpur,Normal,Tanuj Mehta,Male,Health and beauty,64.89,3,9.7335,204.4035,2016-06-28,16:27:03,Credit Card,194.67,4.761904762,9.7335,3.8,Vicky Singh,Jiya Sahu
+128-57-1747,D,Mumbai,Normal,Yogesh Mehta,Male,Electronic accessories,71.41,8,28.564,599.844,2022-11-15,06:37:37,Walmart Gift Cards,571.28,4.761904762,28.564,6.2,Umar Khan,Hira Gupta
+250-21-5063,C,Bhopal,Member,Jatin Chauhan,Male,Clothing,79.06,8,31.624,664.104,2015-01-12,14:35:54,Credit Card,632.48,4.761904762,31.624,8.9,Hrishikesh Kapoor,Mahira Verma
+545-24-4163,C,Surat,Member,Qureshi Khan,Male,Sports and travel,34.95,4,6.99,146.79,2017-11-26,18:20:43,Walmart Gift Cards,139.8,4.761904762,6.99,2.1,Sagar Mehta,Queenie Sharma
+482-56-4889,C,Agra,Member,Omkar Joshi,Male,Sports and travel,18.02,6,5.406,113.526,2018-08-15,03:02:22,Walmart Gift Cards,108.12,4.761904762,5.406,7.9,Tarun Kumar,Bhavya Tiwari
+391-35-2470,E,Agra,Member,Nupur Singh,Female,Food and beverages,16.47,9,7.4115,155.6415,2017-10-14,12:01:27,Ewallet,148.23,4.761904762,7.4115,1.9,Farhan Khan,Bhavya Tiwari
+501-47-4186,C,Kochi,Normal,Bhavna Sharma,Female,Books,65.94,9,29.673,623.133,2019-04-23,06:24:18,Cash,593.46,4.761904762,29.673,7.8,Lakshay Sharma,Bhoomi Tiwari
+615-42-1939,C,Bhopal,Normal,Trisha Khan,Female,Sports and travel,47.51,7,16.6285,349.1985,2022-09-13,10:57:13,Cash,332.57,4.761904762,16.6285,1.1,Vicky Singh,Divya Chauhan
+175-19-6355,D,Vadodara,Normal,Deepak Verma,Male,Sports and travel,70.21,4,14.042,294.882,2020-10-28,21:59:17,Walmart Gift Cards,280.84,4.761904762,14.042,8.6,Jai Kapoor,Nandini Patel
+501-40-7997,B,Hyderabad,Normal,Ira Kumar,Female,Sports and travel,67.66,2,6.766,142.086,2015-11-14,01:13:12,Walmart Gift Cards,135.32,4.761904762,6.766,4.6,Farhan Khan,Qamar Yadav
+967-26-3677,B,Bhopal,Normal,Ujala Kapoor,Female,Books,57.42,2,5.742,120.582,2020-12-25,01:34:31,Credit Card,114.84,4.761904762,5.742,7.8,Himanshu Kapoor,Oorja Gupta
+791-57-1466,B,Surat,Normal,Deepak Verma,Male,Home and lifestyle,39.05,3,5.8575,123.0075,2022-06-30,16:02:26,Cash,117.15,4.761904762,5.8575,3.3,Aarav Kumar,Ujala Kapoor
+936-50-3719,D,Bangalore,Normal,Aditi Singh,Female,Home and lifestyle,91.44,2,9.144,192.024,2018-06-07,18:42:21,Ewallet,182.88,4.761904762,9.144,8,Omkar Chauhan,Zara Tiwari
+246-91-4554,A,Surat,Member,Lalit Yadav,Male,Clothing,69.62,7,24.367,511.707,2016-01-11,13:13:16,Ewallet,487.34,4.761904762,24.367,4.3,Karan Joshi,Sanya Verma
+182-96-5440,C,Mumbai,Member,Trisha Khan,Female,Home and lifestyle,83.46,9,37.557,788.697,2021-09-29,12:34:13,Walmart Gift Cards,751.14,4.761904762,37.557,6.4,Tarun Kumar,Falguni Mehta
+279-25-0742,A,Bangalore,Member,Zayd Khan,Male,Books,56.62,7,19.817,416.157,2023-10-05,07:59:44,Credit Card,396.34,4.761904762,19.817,2,Rohit Patel,Ginni Gupta
+195-30-3972,B,Kolkata,Normal,Mukesh Kumar,Male,Clothing,73.04,7,25.564,536.844,2020-01-30,16:49:08,Walmart Gift Cards,511.28,4.761904762,25.564,5.9,Mohit Sahu,Lavisha Kapoor
+142-42-6365,A,Vishakhapatnam,Member,Ayush Sharma,Male,Electronic accessories,68.2,10,34.1,716.1,2018-02-11,17:41:13,Ewallet,682,4.761904762,34.1,3.2,Tejas Joshi,Ishana Sharma
+784-20-6166,A,Nashik,Normal,Brijesh Sharma,Male,Food and beverages,28.81,2,2.881,60.501,2020-05-07,22:30:04,Walmart Gift Cards,57.62,4.761904762,2.881,5.6,Deepak Verma,Bhavika Kapoor
+643-90-1145,C,Nagpur,Normal,Qiana Tiwari,Female,Health and beauty,27.79,7,9.7265,204.2565,2018-03-07,14:17:29,Credit Card,194.53,4.761904762,9.7265,4.7,Rohit Patel,Megha Kapoor
+569-36-0056,C,Agra,Member,Vanya Gupta,Female,Home and lifestyle,21.31,10,10.655,223.755,2023-10-25,19:55:17,Credit Card,213.1,4.761904762,10.655,9.2,Sagar Mehta,Charul Yadav
+122-94-3340,D,Kochi,Member,Ujala Kapoor,Female,Home and lifestyle,50.21,3,7.5315,158.1615,2017-06-13,16:47:21,Ewallet,150.63,4.761904762,7.5315,6.3,Eshan Verma,Saisha Khan
+441-17-5302,E,Agra,Member,Mohit Sahu,Male,Health and beauty,20.09,9,9.0405,189.8505,2021-12-28,08:08:23,Cash,180.81,4.761904762,9.0405,7.2,Sahil Gupta,Nupur Singh
+362-02-7854,D,Surat,Member,Jhanvi Mehta,Female,Books,22.12,10,11.06,232.26,2021-10-07,07:04:03,Credit Card,221.2,4.761904762,11.06,8.1,Harshit Patel,Jigyasa Verma
+305-15-4853,C,Chennai,Normal,Ayush Sharma,Male,Sports and travel,51.36,10,25.68,539.28,2018-12-04,23:39:17,Ewallet,513.6,4.761904762,25.68,2.3,Lucky Singh,Kavya Rajput
+935-38-0825,A,Lucknow,Normal,Dia Mehta,Female,Sports and travel,19.35,8,7.74,162.54,2020-10-13,02:02:12,Cash,154.8,4.761904762,7.74,3.3,Ayush Sharma,Divisha Kapoor
+169-01-9991,B,Agra,Normal,Jigyasa Verma,Female,Sports and travel,55.13,10,27.565,578.865,2019-07-21,22:57:34,Ewallet,551.3,4.761904762,27.565,7.5,Yogesh Mehta,Oishi Tiwari
+617-54-3870,D,Pune,Normal,Himanshu Kapoor,Male,Clothing,46.11,3,6.9165,145.2465,2018-05-06,13:57:50,Cash,138.33,4.761904762,6.9165,6.4,Brijesh Sharma,Nupur Singh
+978-23-4702,D,Bhopal,Member,Bhavika Kapoor,Female,Sports and travel,37.63,1,1.8815,39.5115,2019-06-17,11:25:37,Walmart Gift Cards,37.63,4.761904762,1.8815,4.3,Utkarsh Yadav,Upasana Yadav
+547-69-5623,A,Surat,Normal,Saanvi Kumar,Female,Sports and travel,80.88,4,16.176,339.696,2017-10-23,15:14:07,Cash,323.52,4.761904762,16.176,5.6,Zayd Khan,Jia Kapoor
+692-60-3748,D,Kolkata,Normal,Tushar Sahu,Male,Electronic accessories,40.2,3,6.03,126.63,2016-07-14,12:34:00,Cash,120.6,4.761904762,6.03,4,Zahir Khan,Elina Chauhan
